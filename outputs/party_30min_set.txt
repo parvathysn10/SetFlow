@@ -1,0 +1,51 @@
+================================================================
+SETFLOW — PARTY SET
+================================================================
+Requested duration: 30 minutes
+Candidate tracks considered: 82
+
+01. The Weeknd - Wasted Times
+    122.7 BPM | A# minor | danceability 1.108
+        ↓
+    Suggested transition: +1.3 BPM | same scale, different key | transition score 3.65
+
+02. SZA - Omega
+    124.0 BPM | A minor | danceability 1.037
+        ↓
+    Suggested transition: +4.4 BPM | same key and scale | transition score 4.40
+
+03. Ariana Grande - Wit It This Christmas
+    128.4 BPM | A minor | danceability 1.035
+        ↓
+    Suggested transition: -3.5 BPM | same scale, different key | transition score 11.97
+
+04. Ariana Grande - One Last Time (Gazzo remix)
+    124.9 BPM | F minor | danceability 1.121
+        ↓
+    Suggested transition: -0.9 BPM | same key and scale | transition score 1.03
+
+05. SZA - Ice Moon
+    124.0 BPM | F minor | danceability 1.095
+        ↓
+    Suggested transition: -0.1 BPM | same key and scale | transition score 0.15
+
+06. SZA - ICE.MOON
+    123.9 BPM | F minor | danceability 1.076
+        ↓
+    Suggested transition: -1.0 BPM | same scale, different key | transition score 3.30
+
+07. The Weeknd - Wanderlust (Steve Pitron & Max Sanna radio edit)
+    122.9 BPM | F# minor | danceability 1.139
+        ↓
+    Suggested transition: +5.1 BPM | same scale, different key | transition score 11.41
+
+08. The Weeknd - Angel
+    128.0 BPM | D# minor | danceability 1.077
+
+================================================================
+Tracks selected: 8
+Approximate duration: 31.2 minutes
+
+Note: SetFlow uses transparent, rule-based acoustic heuristics.
+Transition suggestions are not claims of objectively optimal mixes.
+================================================================

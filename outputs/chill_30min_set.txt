@@ -1,0 +1,56 @@
+================================================================
+SETFLOW — CHILL SET
+================================================================
+Requested duration: 30 minutes
+Candidate tracks considered: 33
+
+01. The Weeknd - As You Are
+    86.7 BPM | F major | danceability 1.190
+        ↓
+    Suggested transition: +3.8 BPM | same scale, different key | transition score 8.64
+
+02. The Weeknd - Real Life
+    90.5 BPM | G major | danceability 1.021
+        ↓
+    Suggested transition: -0.1 BPM | different key and scale | transition score 8.39
+
+03. SZA - Supermodel
+    90.4 BPM | A# minor | danceability 0.956
+        ↓
+    Suggested transition: -0.2 BPM | different key and scale | transition score 5.03
+
+04. SZA - 20 Something
+    90.3 BPM | B major | danceability 1.131
+        ↓
+    Suggested transition: -2.5 BPM | same scale, different key | transition score 4.68
+
+05. The Weeknd - Faith
+    87.8 BPM | A# major | danceability 1.090
+        ↓
+    Suggested transition: +6.3 BPM | same key and scale | transition score 6.84
+
+06. Don Toliver - Candy
+    94.0 BPM | A# major | danceability 1.208
+        ↓
+    Suggested transition: +5.5 BPM | same tonic, different scale | transition score 8.43
+
+07. Travis Scott - Never Catch Me
+    99.6 BPM | A# minor | danceability 1.026
+        ↓
+    Suggested transition: -7.7 BPM | same scale, different key | transition score 13.80
+
+08. The Weeknd - Montreal
+    91.9 BPM | C minor | danceability 1.456
+        ↓
+    Suggested transition: +9.4 BPM | same scale, different key | transition score 19.82
+
+09. Ariana Grande - True Love
+    101.3 BPM | E minor | danceability 0.982
+
+================================================================
+Tracks selected: 9
+Approximate duration: 33.7 minutes
+
+Note: SetFlow uses transparent, rule-based acoustic heuristics.
+Transition suggestions are not claims of objectively optimal mixes.
+================================================================

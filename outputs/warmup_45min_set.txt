@@ -1,0 +1,71 @@
+================================================================
+SETFLOW — WARMUP SET
+================================================================
+Requested duration: 45 minutes
+Candidate tracks considered: 52
+
+01. Travis Scott - Never Catch Me
+    99.6 BPM | A# minor | danceability 1.026
+        ↓
+    Suggested transition: +2.5 BPM | different key and scale | transition score 6.74
+
+02. SZA - The Weekend
+    102.1 BPM | B major | danceability 1.073
+        ↓
+    Suggested transition: +3.0 BPM | same scale, different key | transition score 8.04
+
+03. Ariana Grande - You’ll Never Know
+    105.0 BPM | C# major | danceability 1.283
+        ↓
+    Suggested transition: +2.9 BPM | same scale, different key | transition score 6.28
+
+04. Ariana Grande - Tattooed Heart
+    107.9 BPM | C major | danceability 1.003
+        ↓
+    Suggested transition: -0.3 BPM | same scale, different key | transition score 4.46
+
+05. Travis Scott - sdp interlude
+    107.7 BPM | A# major | danceability 0.963
+        ↓
+    Suggested transition: +3.3 BPM | same scale, different key | transition score 6.05
+
+06. SZA - Garden (Say It Like Dat)
+    111.0 BPM | A major | danceability 1.109
+        ↓
+    Suggested transition: +1.9 BPM | different key and scale | transition score 6.05
+
+07. SZA - Broken Clocks
+    112.9 BPM | A# minor | danceability 1.075
+        ↓
+    Suggested transition: -1.3 BPM | relative major/minor | transition score 2.52
+
+08. The Weeknd - Next
+    111.6 BPM | C# major | danceability 1.118
+        ↓
+    Suggested transition: -1.6 BPM | same scale, different key | transition score 10.19
+
+09. Ariana Grande - 34+35
+    109.9 BPM | F major | danceability 1.233
+        ↓
+    Suggested transition: -6.0 BPM | same key and scale | transition score 6.23
+
+10. Travis Scott - first take
+    104.0 BPM | F major | danceability 1.181
+        ↓
+    Suggested transition: -2.6 BPM | different key and scale | transition score 7.62
+
+11. Ariana Grande - True Love
+    101.3 BPM | E minor | danceability 0.982
+        ↓
+    Suggested transition: +0.6 BPM | same scale, different key | transition score 8.02
+
+12. The Weeknd - Earned It (Wasted Fates Edit)
+    102.0 BPM | G minor | danceability 1.261
+
+================================================================
+Tracks selected: 12
+Approximate duration: 45.5 minutes
+
+Note: SetFlow uses transparent, rule-based acoustic heuristics.
+Transition suggestions are not claims of objectively optimal mixes.
+================================================================
