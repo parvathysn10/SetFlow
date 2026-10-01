@@ -225,6 +225,681 @@
         "is_video": false
     },
     {
+        "recording_mbid": "a550f00e-6fa5-4011-96f2-35b4b3b7df13",
+        "title": "hate that i made you love me",
+        "artist": "Ariana Grande",
+        "length_seconds": 300.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "1769d9c8-59eb-470d-8111-a80a26ac148a",
+        "title": "You’ll Never Know",
+        "artist": "Ariana Grande",
+        "length_seconds": 214.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1ea8294e-5cd4-4441-866d-22d61a987efc",
+        "title": "Tattooed Heart",
+        "artist": "Ariana Grande",
+        "length_seconds": 194.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fb1fbf04-7f1b-4bcf-9ea6-430b66b1bd50",
+        "title": "Daydreamin’",
+        "artist": "Ariana Grande",
+        "length_seconds": 211.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a6d96a26-f79e-4240-9335-1e7dc7b3a134",
+        "title": "Be Alright",
+        "artist": "Ariana Grande",
+        "length_seconds": 179.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "cc81bd2b-563c-4323-aa61-ee8cef5e4c9d",
+        "title": "Step On Up",
+        "artist": "Ariana Grande",
+        "length_seconds": 181.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d9574353-89a4-4c4a-8738-2035bc5b8daa",
+        "title": "Knew Better Part Two",
+        "artist": "Ariana Grande",
+        "length_seconds": 165.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "83aeafac-4d6e-486d-8cd8-d1ec531827b2",
+        "title": "7 rings",
+        "artist": "Ariana Grande",
+        "length_seconds": 184.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "a2f54123-15b7-4b23-bea8-9ee3b62c7435",
+        "title": "past life",
+        "artist": "Ariana Grande",
+        "length_seconds": 216.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f46c4677-0fae-472b-824d-da948db7c1b9",
+        "title": "intro (end of the world)",
+        "artist": "Ariana Grande",
+        "length_seconds": 92.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0ca88c11-3d2e-4548-b921-43fbf3e29480",
+        "title": "imperfect for you",
+        "artist": "Ariana Grande",
+        "length_seconds": 183.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5df69fd3-e30b-428e-878a-eac4c520df97",
+        "title": "intro (end of the world)",
+        "artist": "Ariana Grande",
+        "length_seconds": 92.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2bfc39fb-c9a8-403a-8513-42980a1b1777",
+        "title": "Saturn Returns Interlude",
+        "artist": "Ariana Grande",
+        "length_seconds": 42.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "72a09521-833e-4dfd-98f0-51db70b3339a",
+        "title": "imperfect for you",
+        "artist": "Ariana Grande",
+        "length_seconds": 183.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ab100aa8-5405-4aac-a1b4-043e4e021b39",
+        "title": "Snow in California",
+        "artist": "Ariana Grande",
+        "length_seconds": 207.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "541cae70-cd3c-4a0c-9f16-3ea882dab50d",
+        "title": "One Last Time",
+        "artist": "Ariana Grande",
+        "length_seconds": 197.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8aac27f9-5d68-4d47-ab96-7c26e105ff40",
+        "title": "God Is a Woman",
+        "artist": "Ariana Grande",
+        "length_seconds": 197.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9b869983-5e85-4ffb-9716-8ffcf917862f",
+        "title": "Get Well Soon",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5a30b6a2-6327-4646-a8d3-156fbca42305",
+        "title": "Be Alright",
+        "artist": "Ariana Grande",
+        "length_seconds": 177.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a11165be-73b6-4de3-8d59-bef5ec0d1832",
+        "title": "NASA",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "708bfd0d-3b96-44b1-b89e-65b925498f26",
+        "title": "No Tears Left to Cry",
+        "artist": "Ariana Grande",
+        "length_seconds": 223.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fa3b4eb8-2e79-48be-8113-ac1b4b8ae139",
+        "title": "supernatural (live version)",
+        "artist": "Ariana Grande",
+        "length_seconds": 164.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c3d0149c-8b4b-488d-ac65-f67c30c2199a",
+        "title": "Tattooed Heart",
+        "artist": "Ariana Grande",
+        "length_seconds": 194.0,
+        "disambiguation": "live, 2023‐06‐25: Soho House, London, UK",
+        "is_alternative_version": true,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "7572f01a-57f6-4a03-8427-a0edf77bcb64",
+        "title": "The Way (Seamus Haji remix) (with no rap)",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "367f88ee-e652-4a86-94f9-352122fe7605",
+        "title": "The Wizard and I",
+        "artist": "Ariana Grande",
+        "length_seconds": 235.4,
+        "disambiguation": "live, 2018-10-29: Marquis Theatre, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b670b4ab-a749-48bc-ac08-855bfc1d3440",
+        "title": "Honeymoon Avenue",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "cca3bc1c-86c0-433d-929f-c5420ba6db1e",
+        "title": "Intro",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0ddf9307-3f48-4434-a541-4ed6703fd2d9",
+        "title": "Somewhere Over Rainbow",
+        "artist": "Ariana Grande",
+        "length_seconds": 309.0,
+        "disambiguation": "live, 2017-06-04: Old Trafford Cricket Ground, Old Trafford, Greater Manchester, UK",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1a56f894-9b99-44ef-8819-c7246132311a",
+        "title": "Born This Way/Express Yourself",
+        "artist": "Ariana Grande",
+        "length_seconds": 184.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1f2349f5-5dc7-4fa6-81d4-d556039c8f29",
+        "title": "Problem (Mercier bootleg)",
+        "artist": "Ariana Grande",
+        "length_seconds": 168.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "71fddd9c-8282-42ed-b7a6-522cc888e7b1",
+        "title": "Woman in the Club",
+        "artist": "Ariana Grande",
+        "length_seconds": 234.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1d538b20-b86e-41de-b733-406fccc34abb",
+        "title": "R.E.M",
+        "artist": "Ariana Grande",
+        "length_seconds": 187.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "57eefc00-5b07-4074-8034-5745a36258eb",
+        "title": "God is a woman",
+        "artist": "Ariana Grande",
+        "length_seconds": 241.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "4f566292-39f7-404b-83b8-0410fa46ac83",
+        "title": "worst behavior",
+        "artist": "Ariana Grande",
+        "length_seconds": 124.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1e5691e6-0ff5-4a06-9b98-25cd94da6882",
+        "title": "just like magic",
+        "artist": "Ariana Grande",
+        "length_seconds": 150.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a8af6c1f-1919-431d-845f-f71d10a85413",
+        "title": "yes, and? (Felix Jaehn remix)",
+        "artist": "Ariana Grande",
+        "length_seconds": 235.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2d64f1e7-f078-4df6-87ab-8d0a540980ac",
+        "title": "One Last Time (Gazzo remix)",
+        "artist": "Ariana Grande",
+        "length_seconds": 247.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "dbe14db9-a901-4265-82ad-b2d218fa97a4",
+        "title": "Pink Champagne",
+        "artist": "Ariana Grande",
+        "length_seconds": 205.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bb280621-7bdf-4e8f-aa41-3d9f9b0f2117",
+        "title": "Baby I (Cosmic Dawn dub)",
+        "artist": "Ariana Grande",
+        "length_seconds": 363.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6c49f1c5-ad49-4413-89ff-c723ec5ae4f4",
+        "title": "intro (end of the world) (extended) (a cappella)",
+        "artist": "Ariana Grande",
+        "length_seconds": 139.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "894767ba-2108-4907-92da-00185cb6103c",
+        "title": "no tears left to cry (instrumental)",
+        "artist": "Ariana Grande",
+        "length_seconds": 203.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "31865c23-d609-4ca9-957c-73badb3b4529",
+        "title": "Into You",
+        "artist": "Ariana Grande",
+        "length_seconds": 241.0,
+        "disambiguation": "live, 2016-09-24: iHeartRadio Music Festival, T-Mobile Arena, Las Vegas, NV, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0fb64566-1067-42ce-831d-3080d7255555",
+        "title": "Interviews",
+        "artist": "Ariana Grande",
+        "length_seconds": 225.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "984a1506-9741-4c45-a333-e016fb59a209",
+        "title": "Backstage with Ariana",
+        "artist": "Ariana Grande",
+        "length_seconds": 395.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a248e701-0f25-4c63-b028-6fe98a32ed26",
+        "title": "Home (Interlude)",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9769e137-46df-4de9-a7d7-73acc151671f",
+        "title": "in my head",
+        "artist": "Ariana Grande",
+        "length_seconds": 222.0,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "376a19e2-f02e-4be2-b166-d9b1d557e791",
+        "title": "The Universe Like Me",
+        "artist": "Ariana Grande",
+        "length_seconds": 351.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0d7783ec-dcfa-4353-82ad-2561618e86b9",
+        "title": "yes, and? (slowed)",
+        "artist": "Ariana Grande",
+        "length_seconds": 241.0,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fc7237cd-8dd1-4657-a701-b5c066aa5f27",
+        "title": "get well soon",
+        "artist": "Ariana Grande",
+        "length_seconds": 207.0,
+        "disambiguation": "live, 2019: Sweetener World Tour",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5757a165-35e8-4d22-8982-43db9e89183d",
+        "title": "the boy is mine",
+        "artist": "Ariana Grande",
+        "length_seconds": 173.0,
+        "disambiguation": "lyric visualizer",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "d32a141b-c262-4ceb-ab8c-b1589a340ad5",
+        "title": "home",
+        "artist": "Ariana Grande",
+        "length_seconds": 78.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6d053f00-c9be-4dc5-ab89-20d23bc4bcd4",
+        "title": "eternal sunshine",
+        "artist": "Ariana Grande",
+        "length_seconds": 208.0,
+        "disambiguation": "live version",
+        "is_alternative_version": true,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "0c1481db-8f8f-46ba-ba51-a238617c62b1",
+        "title": "my hair",
+        "artist": "Ariana Grande",
+        "length_seconds": 197.0,
+        "disambiguation": "Official Live Performance",
+        "is_alternative_version": true,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "00b1397d-7f3e-4c59-bb42-ccd7fa17ee10",
+        "title": "raindrops (an angel cried)",
+        "artist": "Ariana Grande",
+        "length_seconds": 36.0,
+        "disambiguation": "live",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "aac490da-e8fd-4dd3-bbc1-8862939697e8",
+        "title": "r.e.m",
+        "artist": "Ariana Grande",
+        "length_seconds": 172.0,
+        "disambiguation": "live, 2019: Sweetener World Tour",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c4db6bf3-d92e-4c7e-8f47-f8ad976d28fa",
+        "title": "you'll never know",
+        "artist": "Ariana Grande",
+        "length_seconds": 81.0,
+        "disambiguation": "live, 2019: Sweetener World Tour",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "26f8f52b-5ffb-49f0-990c-a3ca5a2c7cd5",
+        "title": "Side to Side (megamix 2)",
+        "artist": "Ariana Grande",
+        "length_seconds": 230.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4a3d34bb-0e1b-497f-a7d8-32ffeaf7932e",
+        "title": "Close to You",
+        "artist": "Ariana Grande",
+        "length_seconds": 112.0,
+        "disambiguation": "live",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "da813288-c695-4901-928c-728faff7816a",
+        "title": "Dangerous Woman",
+        "artist": "Ariana Grande",
+        "length_seconds": 233.0,
+        "disambiguation": "live",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7483ce0d-3e31-47f7-b8a5-69dd93a6e108",
+        "title": "34+35",
+        "artist": "Ariana Grande",
+        "length_seconds": 173.0,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "50f1b159-f25a-4bbb-a8c4-7ed81a012a92",
+        "title": "Baby I",
+        "artist": "Ariana Grande",
+        "length_seconds": 204.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "de15fafc-2e85-4a47-9555-dba98d3b612e",
+        "title": "my heart belongs to daddy",
+        "artist": "Ariana Grande",
+        "length_seconds": 107.3,
+        "disambiguation": "live, 2019: Sweetener World Tour",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5223f6f1-1dac-4a24-b201-c0a5b7451693",
+        "title": "Dangerous Woman IKAAW Version 1",
+        "artist": "Ariana Grande",
+        "length_seconds": 409.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3417b518-6aa2-45ed-b131-a0ea3a0d6c12",
+        "title": "No Tears Left to Cry",
+        "artist": "Ariana Grande",
+        "length_seconds": 212.1,
+        "disambiguation": "part of “Much Dance 2019” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2ffb2e1a-466d-46af-9d79-95435290a640",
+        "title": "Y Is Everyone So In Love With Me (Interlude)",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5fa796e9-1edb-4ae8-9b2d-a6570c0d39b7",
+        "title": "pov",
+        "artist": "Ariana Grande",
+        "length_seconds": 195.3,
+        "disambiguation": "live, 2021‐06‐21: Vevo Studios, Los Angeles, CA, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3fa4d221-dfed-42b4-869a-387ff834df44",
+        "title": "One Last Time",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "24667db2-b320-4690-9bb2-bb3f4188b8d3",
+        "title": "successful",
+        "artist": "Ariana Grande",
+        "length_seconds": 228.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5d58597b-57c6-4f3f-9bac-4efad3e81be8",
+        "title": "Santa Tell Me (naughty version)",
+        "artist": "Ariana Grande",
+        "length_seconds": 203.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9ae8979e-1a52-4254-9c0b-520749b40423",
+        "title": "Positions (clean single edit)",
+        "artist": "Ariana Grande",
+        "length_seconds": 171.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a2ae5bd5-9861-4db8-82a4-b8d147b18961",
+        "title": "My Fault",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6097719e-c4bb-4cda-b03a-e3abe59581eb",
+        "title": "The Way (Seamus Haji radio edit) (with no rap)",
+        "artist": "Ariana Grande",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c408329f-11cf-4dc1-b0ec-62ddf0b1e758",
+        "title": "better off",
+        "artist": "Ariana Grande",
+        "length_seconds": 175.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bee20d79-7153-4e59-98b4-a933cf89e910",
+        "title": "34+35",
+        "artist": "Ariana Grande",
+        "length_seconds": 174.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "df1aad98-8fc2-46c7-abdd-f41decf72d22",
+        "title": "my hair",
+        "artist": "Ariana Grande",
+        "length_seconds": 194.3,
+        "disambiguation": "live, 2021‐06‐21: Vevo Studios, Los Angeles, CA, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
         "recording_mbid": "ba44f209-37c8-4884-8e7f-cac6c79284ac",
         "title": "Cardigan (sped up version)",
         "artist": "Don Toliver",
@@ -445,6 +1120,456 @@
         "title": "Honeymoon",
         "artist": "Don Toliver",
         "length_seconds": 185.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "849db3ec-bfb1-4ae9-9373-21aeeec3ce19",
+        "title": "Company Pt. 3",
+        "artist": "Don Toliver",
+        "length_seconds": 181.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "83141111-0dfc-40eb-9ccf-ed6008c92689",
+        "title": "Ease Your Mind",
+        "artist": "Don Toliver",
+        "length_seconds": 101.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9b9b9795-2215-4295-8b6c-c6c2a338ccb4",
+        "title": "KRYPTONITE",
+        "artist": "Don Toliver",
+        "length_seconds": 182.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ac97b007-2c64-42cf-be39-323f399df876",
+        "title": "HARDSTONE NATIONAL ANTHEM",
+        "artist": "Don Toliver",
+        "length_seconds": 161.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f8bf656a-1cac-4967-ab33-779c4558a2bb",
+        "title": "LOVE IS A DRUG",
+        "artist": "Don Toliver",
+        "length_seconds": 188.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "70271dae-8b1e-476a-83a5-f6f7b3e1127b",
+        "title": "DEEP IN THE WATER",
+        "artist": "Don Toliver",
+        "length_seconds": 170.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ae76efc6-0b39-4fae-8ed6-ef73aa0d2417",
+        "title": "LAST LAUGH",
+        "artist": "Don Toliver",
+        "length_seconds": 241.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ea8367fd-e294-4d89-88f9-3bfb0153a387",
+        "title": "Candy",
+        "artist": "Don Toliver",
+        "length_seconds": 236.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ff2879ca-3a22-49b8-93a4-dedeaf132266",
+        "title": "No Photos",
+        "artist": "Don Toliver",
+        "length_seconds": 175.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a8b58c8c-5c4d-4bd2-a801-696448af76ac",
+        "title": "Candy (CHOPNOTSLOP REMIX)",
+        "artist": "Don Toliver",
+        "length_seconds": 297.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4f5febc6-8a11-4359-a89c-6da3d0ac5564",
+        "title": "No Photos (CHOPNOTSLOP REMIX)",
+        "artist": "Don Toliver",
+        "length_seconds": 230.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6ab1d6b1-c5f2-4e52-92f5-1ffac4e4ca06",
+        "title": "Clap",
+        "artist": "Don Toliver",
+        "length_seconds": 140.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "64667216-5838-4f51-a02c-7e7cf62ed9e2",
+        "title": "Company Pt 2",
+        "artist": "Don Toliver",
+        "length_seconds": 211.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0f900c67-f557-4868-9767-b2c206fe3773",
+        "title": "5X",
+        "artist": "Don Toliver",
+        "length_seconds": 132.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "43195702-28d0-4cc3-882f-84b7df548829",
+        "title": "What You Need",
+        "artist": "Don Toliver",
+        "length_seconds": 288.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "03fa36a7-5657-44c1-b7f9-2cbbe7463073",
+        "title": "Talk No More",
+        "artist": "Don Toliver",
+        "length_seconds": 210.8,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7cd5267e-e4e1-43d2-b723-3ae277dd8780",
+        "title": "Backend",
+        "artist": "Don Toliver",
+        "length_seconds": 231.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4a7714b9-bed6-4c4a-bc7a-a12c8c216a21",
+        "title": "2 Lil Shorty",
+        "artist": "Don Toliver",
+        "length_seconds": 149.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0b4f6bab-c337-4496-a4ea-b9cd47f7855d",
+        "title": "HARDSTONE NATIONAL ANTHEM",
+        "artist": "Don Toliver",
+        "length_seconds": 161.2,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b97b63f9-882a-4c3b-9255-e3b208d09756",
+        "title": "KRYPTONITE",
+        "artist": "Don Toliver",
+        "length_seconds": 182.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e0ad9e47-6a23-4a2e-8695-fde69b3dfb70",
+        "title": "NEW DROP",
+        "artist": "Don Toliver",
+        "length_seconds": 217.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4db9ea5a-e425-451a-8774-2702d8dc687e",
+        "title": "DEEP IN THE WATER",
+        "artist": "Don Toliver",
+        "length_seconds": 170.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b3e54cb5-41ba-4a5f-8807-572febdac845",
+        "title": "CARDIGAN (Knock2 remix)",
+        "artist": "Don Toliver",
+        "length_seconds": 184.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "492f30a6-3591-4e7f-98a1-19ba4141f716",
+        "title": "Tiramisu",
+        "artist": "Don Toliver",
+        "length_seconds": 138.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a04cf8cc-43bb-402c-ad30-d4d904fafef4",
+        "title": "E85",
+        "artist": "Don Toliver",
+        "length_seconds": 153.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "56e3db8b-c477-4bdd-83d9-5a5163fa0edf",
+        "title": "TMU",
+        "artist": "Don Toliver",
+        "length_seconds": 180.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "98a03888-e736-4b30-8b74-8c2ae9465779",
+        "title": "No Idea",
+        "artist": "Don Toliver",
+        "length_seconds": 154.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1e1504b4-8e22-4eb6-a75e-36a151bff875",
+        "title": "No Idea (Kryptogram remix)",
+        "artist": "Don Toliver",
+        "length_seconds": 363.8,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ccf511d3-f9f6-481d-b4b0-4268dd3a6ea7",
+        "title": "NEW DROP",
+        "artist": "Don Toliver",
+        "length_seconds": 217.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "82f92abd-9059-4737-bb9b-86af53b08587",
+        "title": "No Idea (Kryptogram remix)",
+        "artist": "Don Toliver",
+        "length_seconds": 270.0,
+        "disambiguation": "part of “Splash House, June 2022” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "522a093e-a5cb-411d-bd79-8abf711f7023",
+        "title": "TORE UP",
+        "artist": "Don Toliver",
+        "length_seconds": 127.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0b037f4b-e385-4486-807c-0f3455481adf",
+        "title": "Private Landing (Instrumental)",
+        "artist": "Don Toliver",
+        "length_seconds": 238.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1b6de160-27b4-4060-8737-8009571f7285",
+        "title": "TORE UP",
+        "artist": "Don Toliver",
+        "length_seconds": 127.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9e65fe73-0bff-4bae-a941-4cda2d4872cc",
+        "title": "GLOCK",
+        "artist": "Don Toliver",
+        "length_seconds": 228.6,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "52009a2c-9e99-4912-bf10-370e98d5dde4",
+        "title": "LAST LAUGH",
+        "artist": "Don Toliver",
+        "length_seconds": 241.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9f743438-f07c-49fb-8127-88f48f564d3e",
+        "title": "Geronimo",
+        "artist": "Don Toliver",
+        "length_seconds": 123.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c9fc3e5e-25ed-4824-b3d5-4e1f93a95112",
+        "title": "What You Need",
+        "artist": "Don Toliver",
+        "length_seconds": 217.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4951e91d-3161-42a0-9095-47b577e05b36",
+        "title": "BOGUS",
+        "artist": "Don Toliver",
+        "length_seconds": 199.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1c830be7-85db-4ba1-892b-591789d46385",
+        "title": "What You Need",
+        "artist": "Don Toliver",
+        "length_seconds": 217.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "84677b98-75e2-4856-8ee3-9d3a45fab3e8",
+        "title": "Behind Don Toliver’s “Life of a Don”",
+        "artist": "Don Toliver",
+        "length_seconds": 531.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "11864d2c-02a3-4b74-9951-4a048e2e5b3c",
+        "title": "Way Bigger",
+        "artist": "Don Toliver",
+        "length_seconds": 196.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3feaabd0-004e-48fa-b4b7-58a39dc305d0",
+        "title": "XSCAPE",
+        "artist": "Don Toliver",
+        "length_seconds": 156.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b2aa637f-b176-4852-9f14-5c55b6930f68",
+        "title": "Crossfaded",
+        "artist": "Don Toliver",
+        "length_seconds": 159.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "67e38898-9200-4f2a-bc99-3f225dedbf4a",
+        "title": "Secondhand (feat. Rema)",
+        "artist": "Don Toliver",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0fd79d24-f1be-4de4-8d70-f013c5f357f1",
+        "title": "Cardigan",
+        "artist": "Don Toliver",
+        "length_seconds": 158.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5c3999dd-c55b-4114-a100-96b00d926a8f",
+        "title": "Situation",
+        "artist": "Don Toliver",
+        "length_seconds": 141.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "46cceb4a-c7b5-4642-811a-3a97e01eae16",
+        "title": "Wasted (CHOPNOTSLOP REMIX)",
+        "artist": "Don Toliver",
+        "length_seconds": 248.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4f25a448-9a6e-4f2a-8397-9ae5b41ac64c",
+        "title": "Heaven or Hell (CHOPNOTSLOP REMIX)",
+        "artist": "Don Toliver",
+        "length_seconds": 385.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "81bdfa7e-55b7-49e2-bd90-02e939b9fe4a",
+        "title": "Cardigan (CHOPNOTSLOP REMIX)",
+        "artist": "Don Toliver",
+        "length_seconds": 305.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c95e9d28-1240-48ab-88b0-1d26b9cc7ea3",
+        "title": "After Party",
+        "artist": "Don Toliver",
+        "length_seconds": 167.9,
         "disambiguation": "",
         "is_alternative_version": false,
         "is_video": false
@@ -675,6 +1800,456 @@
         "is_video": false
     },
     {
+        "recording_mbid": "836ea34f-6f1a-447b-aa10-7620785205f0",
+        "title": "THE ODYSSEY",
+        "artist": "SZA",
+        "length_seconds": 202.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f5278460-2b74-4494-9435-4b8a951307f8",
+        "title": "Ice Moon",
+        "artist": "SZA",
+        "length_seconds": 189.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8c354ae0-3a8d-48b2-8f75-7f7966e32c58",
+        "title": "20 Something",
+        "artist": "SZA",
+        "length_seconds": 198.2,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9f0fa8ff-5a5f-4ce8-97c5-69e6e5491b0d",
+        "title": "Broken Clocks",
+        "artist": "SZA",
+        "length_seconds": 231.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3d381f93-3cb5-4875-870f-647d7ee93fd5",
+        "title": "Normal Girl",
+        "artist": "SZA",
+        "length_seconds": 253.6,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "03e003d5-4fc2-4e32-a23d-fe7a1cd883cf",
+        "title": "Supermodel",
+        "artist": "SZA",
+        "length_seconds": 181.1,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e5fabeda-71fe-41f0-a159-3d559ead7d67",
+        "title": "Far",
+        "artist": "SZA",
+        "length_seconds": 180.7,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e435d141-be43-4f08-a407-561ae4166377",
+        "title": "SOS",
+        "artist": "SZA",
+        "length_seconds": 117.8,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "edaed457-f135-4810-8eaa-27e6d8611912",
+        "title": "Low",
+        "artist": "SZA",
+        "length_seconds": 181.1,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5bf0b612-fda8-4ba2-bab1-fdd26786568c",
+        "title": "Omega",
+        "artist": "SZA",
+        "length_seconds": 263.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8f6bcf89-c31e-4d1d-821b-48e155b3d25d",
+        "title": "ICE.MOON",
+        "artist": "SZA",
+        "length_seconds": 190.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9e5dcdbc-7bea-4faf-b77e-684264d97cbe",
+        "title": "Kill Bill",
+        "artist": "SZA",
+        "length_seconds": 150.0,
+        "disambiguation": "part of Diplo’s “2023 MegaMix” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9de0788e-f8a5-4e35-90e2-628894b50601",
+        "title": "Ice Moon Official Video",
+        "artist": "SZA",
+        "length_seconds": 203.9,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "312eebf5-4c0a-4513-ae1c-67a7a572126c",
+        "title": "Ghost in the Machine",
+        "artist": "SZA",
+        "length_seconds": 159.0,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c8f8797e-27ea-426c-9947-85866f81d3e3",
+        "title": "Seek & Destroy",
+        "artist": "SZA",
+        "length_seconds": 154.4,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c0bd5ef6-4545-43d1-b1ae-3b6ca8ef3e49",
+        "title": "Low/Low (outro)",
+        "artist": "SZA",
+        "length_seconds": 294.5,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3b2ca547-b7da-4529-bbea-b0cece9c14cf",
+        "title": "Forgiveless",
+        "artist": "SZA",
+        "length_seconds": 75.8,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5c5a70c7-5a43-44af-881d-d6c184f7089f",
+        "title": "Saturn (live)",
+        "artist": "SZA",
+        "length_seconds": 181.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f309f9c6-1c77-421c-a086-10e1cd260b2d",
+        "title": "Love Language",
+        "artist": "SZA",
+        "length_seconds": 185.8,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "38c10d28-dc38-420e-ba77-15e2354472d0",
+        "title": "Kiss Me More",
+        "artist": "SZA",
+        "length_seconds": 161.8,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fda36725-d628-4a31-8b9b-92c96d2d728d",
+        "title": "F2F",
+        "artist": "SZA",
+        "length_seconds": 186.1,
+        "disambiguation": "live, 2023‐10‐06: Barclays Center, New York, NY, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5023b01a-b173-47d7-b6eb-e4e8b2176b09",
+        "title": "PSA",
+        "artist": "SZA",
+        "length_seconds": 99.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a8d575b0-9f64-470e-b022-99d06779bc3c",
+        "title": "Open Arms (just SZA)",
+        "artist": "SZA",
+        "length_seconds": 215.9,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "22e2fd9d-31e0-4acb-9255-6a0fe9a360ea",
+        "title": "Another Life",
+        "artist": "SZA",
+        "length_seconds": 205.2,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a9ebf7d3-3d03-4213-a4c4-115119542b25",
+        "title": "Diamond Boy (DTM)",
+        "artist": "SZA",
+        "length_seconds": 217.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "17894247-e585-4c97-83ea-de7047df7639",
+        "title": "Seek & Destroy",
+        "artist": "SZA",
+        "length_seconds": 203.7,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0f56ff37-1b90-4328-ac9c-83599c86569b",
+        "title": "Too Late",
+        "artist": "SZA",
+        "length_seconds": 164.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0ee56896-15cf-4baa-8b48-0ad4ca989269",
+        "title": "Special",
+        "artist": "SZA",
+        "length_seconds": 158.8,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f5e54962-d384-435f-8006-fbb872790c73",
+        "title": "I Hate U",
+        "artist": "SZA",
+        "length_seconds": 173.9,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5e6b6144-8567-4124-8e28-cfb51b8e020b",
+        "title": "Get Behind Me (interlude)",
+        "artist": "SZA",
+        "length_seconds": 108.1,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "819442af-767d-41a3-8cfd-1abbff94d92d",
+        "title": "Crybaby",
+        "artist": "SZA",
+        "length_seconds": 241.9,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0bacc960-63ba-4d37-9b42-7ef071a0a419",
+        "title": "Good Days",
+        "artist": "SZA",
+        "length_seconds": 131.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ddee403d-283f-4deb-ba38-b3d7356a0100",
+        "title": "Consideration",
+        "artist": "SZA",
+        "length_seconds": 79.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ab3b0283-5b2a-4e17-8325-88a71fe63bd8",
+        "title": "Kitchen",
+        "artist": "SZA",
+        "length_seconds": 224.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "34741f1e-4b64-48f3-8ddd-08600281b553",
+        "title": "The Weekend",
+        "artist": "SZA",
+        "length_seconds": 161.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "88233a05-2aab-4cb2-b50e-5efe9a55c905",
+        "title": "Cry Baby",
+        "artist": "SZA",
+        "length_seconds": 129.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4db37125-6b4e-4846-b1b0-97f47cdad48c",
+        "title": "Doves In The Wind",
+        "artist": "SZA",
+        "length_seconds": 179.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c81ae205-7a41-4c26-b6fa-007f767f27be",
+        "title": "Shirt",
+        "artist": "SZA",
+        "length_seconds": 101.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "af7cb705-e7c2-44a7-89f8-ff78c104a408",
+        "title": "Good Days (salute edit)",
+        "artist": "SZA",
+        "length_seconds": 274.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "397a77b6-2add-4b04-943b-6433612440af",
+        "title": "Miles",
+        "artist": "SZA",
+        "length_seconds": 69.7,
+        "disambiguation": "360 Reality Audio mix, explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "dc80e9a0-8282-4bea-8cdb-a7acdeb7f692",
+        "title": "Good Days",
+        "artist": "SZA",
+        "length_seconds": 278.0,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "70464a99-247e-45d1-8448-43eacfbf0079",
+        "title": "Nobody Gets Me",
+        "artist": "SZA",
+        "length_seconds": 171.2,
+        "disambiguation": "part of “Unhappy Valley” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9b6b096f-36d8-4297-b181-ea501c4b41a2",
+        "title": "Saturn",
+        "artist": "SZA",
+        "length_seconds": 186.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f864c9cb-178b-4ddf-b99e-29809b82e83a",
+        "title": "The Weekend",
+        "artist": "SZA",
+        "length_seconds": 272.2,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5cafdc9d-6c28-4595-b9ff-fd6aee92794e",
+        "title": "Broken Clocks",
+        "artist": "SZA",
+        "length_seconds": 231.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "51ff9de3-58a1-453c-85b1-59165c3d03ce",
+        "title": "Drew Barrymore",
+        "artist": "SZA",
+        "length_seconds": 231.4,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "90bbd234-fb65-4923-8fad-c0693d196218",
+        "title": "low [nightcore]",
+        "artist": "SZA",
+        "length_seconds": 157.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8ebaf42d-da26-4395-8243-a7c96a5abe3a",
+        "title": "too late [nightcore]",
+        "artist": "SZA",
+        "length_seconds": 143.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4e9568c0-0d10-4b33-8fb5-4f3e805626cd",
+        "title": "blind [nightcore]",
+        "artist": "SZA",
+        "length_seconds": 131.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4d49594b-2a3e-4116-b681-4d064a73bbff",
+        "title": "Too Late",
+        "artist": "SZA",
+        "length_seconds": 164.0,
+        "disambiguation": "360 Reality Audio mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
         "recording_mbid": "4ce908df-1351-4641-8fda-9eacb903da4e",
         "title": "Wicked Games (acoustic)",
         "artist": "The Weeknd",
@@ -900,6 +2475,681 @@
         "is_video": true
     },
     {
+        "recording_mbid": "fd9e35e7-97f3-4da8-830a-f766fa14c846",
+        "title": "I Can’t Fucking Sing",
+        "artist": "The Weeknd",
+        "length_seconds": 12.0,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "db293b2c-16d8-4b4b-a755-e4db3a7db22d",
+        "title": "Give Me Mercy",
+        "artist": "The Weeknd",
+        "length_seconds": 216.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "457264dd-35a4-454f-b207-d4d275228a79",
+        "title": "Party Monster",
+        "artist": "The Weeknd",
+        "length_seconds": 249.2,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d94e8eda-4ffb-4e4c-bf5a-307d80e55204",
+        "title": "Nothing Without You",
+        "artist": "The Weeknd",
+        "length_seconds": 200.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "254f855d-868c-4a4e-a546-ec47f0a9a431",
+        "title": "Six Feet Under",
+        "artist": "The Weeknd",
+        "length_seconds": 239.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4156b816-363a-4f39-8553-0aecd11871f3",
+        "title": "Attention",
+        "artist": "The Weeknd",
+        "length_seconds": 197.6,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a05e7e5c-9fab-4aa6-94f4-fe02f69cdd83",
+        "title": "Secrets",
+        "artist": "The Weeknd",
+        "length_seconds": 270.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7cd33c71-f420-464b-abcf-5ff2bb659346",
+        "title": "Party Monster",
+        "artist": "The Weeknd",
+        "length_seconds": 250.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8e639999-49fb-4793-b39f-baecf7e624e5",
+        "title": "Wasted Times",
+        "artist": "The Weeknd",
+        "length_seconds": 220.3,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0202b9ae-3680-4cfd-9b16-b4f8e3c4b5d6",
+        "title": "Without a Warning",
+        "artist": "The Weeknd",
+        "length_seconds": 298.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "281b2622-6ffc-4ea1-a330-b6f68a579baa",
+        "title": "I Can’t Fucking Sing",
+        "artist": "The Weeknd",
+        "length_seconds": 12.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "41ee6e02-c585-49b4-8c9a-a5f043f573a6",
+        "title": "Runaway",
+        "artist": "The Weeknd",
+        "length_seconds": 200.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7ccb8e72-5296-4e1f-9c2e-f2262ed16dd3",
+        "title": "Earned It (Fifty Shades of Grey)",
+        "artist": "The Weeknd",
+        "length_seconds": 251.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "636d99ed-0bd0-4ffd-882e-3473b378d88f",
+        "title": "In Your Eyes",
+        "artist": "The Weeknd",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f41d53b1-796a-4d0d-80ad-68f0f35b0ffe",
+        "title": "Wanderlust (Clean Bandit remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 196.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2d859824-8d7c-4f50-8334-94285743ecff",
+        "title": "Wanderlust (Steve Pitron & Max Sanna radio edit)",
+        "artist": "The Weeknd",
+        "length_seconds": 225.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e861ff0a-a99f-4dc9-8ff2-ad47105ab681",
+        "title": "Die for You (instrumental)",
+        "artist": "The Weeknd",
+        "length_seconds": 259.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2c47c325-3a08-4728-94d3-e7299f672025",
+        "title": "Privilege (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 267.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c231fa9b-a971-4b8e-be59-0706ac1a763c",
+        "title": "Mixerlude (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 103.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e3999c6b-965b-401d-8b23-2dbcae47acf8",
+        "title": "A Lonely Night (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 235.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "14141049-bdec-4e0c-8e39-f09145830608",
+        "title": "Ordinary Life (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 280.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "44dca14b-d82f-4bc8-a8d1-d9c955c43d9b",
+        "title": "Party Monster (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 395.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "853b7fd2-7312-4318-8962-e1946d14f229",
+        "title": "Six Feet Under (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 300.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "84c11b91-4ade-4443-b843-1b02deec38d4",
+        "title": "Nothing Without You (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 262.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5d065df7-6452-407e-9424-8c0e97dc2ef1",
+        "title": "Rockin' (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 269.9,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e6e6cf1a-d089-438c-86d0-64696aced064",
+        "title": "False Alarm (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 255.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d87eda68-181a-41a5-8e16-99fd9ee13fd4",
+        "title": "Cry For Me",
+        "artist": "The Weeknd",
+        "length_seconds": 225.8,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d2002105-9f9a-4b7c-9fda-0fe5014d2e18",
+        "title": "Open Hearts",
+        "artist": "The Weeknd",
+        "length_seconds": 225.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d5aaabcc-da1a-4374-9ab7-c24d51e35417",
+        "title": "Earned It (Fifty Shades of Grey)",
+        "artist": "The Weeknd",
+        "length_seconds": 279.0,
+        "disambiguation": "Dolby Atmos mix, album version, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "204fca57-4e80-4251-b087-0e20cd568482",
+        "title": "Acquainted",
+        "artist": "The Weeknd",
+        "length_seconds": 351.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "215cfb85-7813-40df-98d5-a0e2765539e6",
+        "title": "Tell Your Friends",
+        "artist": "The Weeknd",
+        "length_seconds": 335.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9976cb62-cf29-436c-813d-fb19c4bd557a",
+        "title": "As You Are",
+        "artist": "The Weeknd",
+        "length_seconds": 340.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2ac622d9-36de-4c74-810c-8d2f4f39fd99",
+        "title": "Real Life",
+        "artist": "The Weeknd",
+        "length_seconds": 224.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9be2b9ae-061d-4144-b508-1e5329c7c103",
+        "title": "Shameless",
+        "artist": "The Weeknd",
+        "length_seconds": 254.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d5638960-6602-4476-89a3-1b2f1b6e25df",
+        "title": "In the Night",
+        "artist": "The Weeknd",
+        "length_seconds": 237.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4b0fb3fb-7fc6-4b44-bcff-388a094987d7",
+        "title": "Real Life",
+        "artist": "The Weeknd",
+        "length_seconds": 223.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2951d649-e973-4264-8d7a-0a469a4b645f",
+        "title": "As You Are",
+        "artist": "The Weeknd",
+        "length_seconds": 342.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "04533c7d-9784-448f-9dd4-1c20fc741bca",
+        "title": "Angel",
+        "artist": "The Weeknd",
+        "length_seconds": 377.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "9022a606-0348-46af-a617-5391de54e4df",
+        "title": "Often",
+        "artist": "The Weeknd",
+        "length_seconds": 250.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "98329c6c-5c7b-4706-a400-e8e8fc5eb3ba",
+        "title": "Shameless",
+        "artist": "The Weeknd",
+        "length_seconds": 254.0,
+        "disambiguation": "Dolby Atmos mix, explicit",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1a55639b-d5a8-4f7e-a96f-00aae6f9659f",
+        "title": "Next",
+        "artist": "The Weeknd",
+        "length_seconds": 360.1,
+        "disambiguation": "Trilogy version",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "91e1a30c-0d99-4591-8c06-be954946484d",
+        "title": "Montreal",
+        "artist": "The Weeknd",
+        "length_seconds": 250.6,
+        "disambiguation": "Trilogy version",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8b6e81bb-6a1b-4134-8c2a-dd133f43abca",
+        "title": "The Knowing (Kayezdub remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 251.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e00c1c8a-2bd0-44e7-b9f0-991eaad96364",
+        "title": "Love In The Sky",
+        "artist": "The Weeknd",
+        "length_seconds": 259.0,
+        "disambiguation": "part of DJ-mix \"Sex Escapades Vol. 4\"",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "eb31211a-529b-4953-92c5-94a24eea2cc8",
+        "title": "Wrong or Right",
+        "artist": "The Weeknd",
+        "length_seconds": 205.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6acad2ea-8f5e-4216-ad02-3999c264c6b3",
+        "title": "One of Those Nights",
+        "artist": "The Weeknd",
+        "length_seconds": 257.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "81383d9f-32d0-4c05-8b4a-5a0179d8de0e",
+        "title": "XO / The Host",
+        "artist": "The Weeknd",
+        "length_seconds": 444.0,
+        "disambiguation": "Trilogy version, explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7133316d-e96e-42b9-aceb-2120a5f9b3a2",
+        "title": "Gone (Sango remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 245.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "39a173d5-e9be-42e5-8a99-275266545ab7",
+        "title": "Gone (slowed)",
+        "artist": "The Weeknd",
+        "length_seconds": 615.8,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d3130831-4449-4c8c-9452-3d5c2f8bc245",
+        "title": "The Party & the After Party",
+        "artist": "The Weeknd",
+        "length_seconds": 465.0,
+        "disambiguation": "live, 2011-07-24: Mod Club Theatre, Toronto, ON, Canada",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c83fbbc0-1d0e-455e-86f4-8d386a71439d",
+        "title": "Earned It (Wasted Fates Edit)",
+        "artist": "The Weeknd",
+        "length_seconds": 260.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c6024381-284f-4dbc-a947-defea79eccfe",
+        "title": "Best Friends",
+        "artist": "The Weeknd",
+        "length_seconds": 164.0,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3db78156-4fb0-425f-bd6c-f15308195dad",
+        "title": "Remember You",
+        "artist": "The Weeknd",
+        "length_seconds": 292.1,
+        "disambiguation": "from The Best Weeknd Ever",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "6ca17e18-4996-4c20-8b27-6938eb639f31",
+        "title": "Out of Time (Juelz & Squired remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 209.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0c0a0d8d-eeb1-414a-88b9-ccc36b238661",
+        "title": "Drinks",
+        "artist": "The Weeknd",
+        "length_seconds": 315.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1857c9c0-2950-4c79-a867-f606b943d515",
+        "title": "Coming Down (Chi Duly remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 246.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f56cad22-51d1-4777-b6d7-3766ca7ad3b6",
+        "title": "Glass House Girls (DJ Ray G-Mixxx)",
+        "artist": "The Weeknd",
+        "length_seconds": 444.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2d5f2628-17b5-4780-962e-8ae1129af516",
+        "title": "Thursday",
+        "artist": "The Weeknd",
+        "length_seconds": 307.3,
+        "disambiguation": "from Xtasy Overdose",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bbaf7a9f-dba5-4523-a5a2-ce831d842b12",
+        "title": "The Town",
+        "artist": "The Weeknd",
+        "length_seconds": 307.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c9725cc8-e6f9-46c6-80ee-0f96bc996dfa",
+        "title": "Out of Time (instrumental)",
+        "artist": "The Weeknd",
+        "length_seconds": 214.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bde112fe-d4f1-4b45-a015-4b93e64d8545",
+        "title": "Out of Time (KAYTRANADA remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 275.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c5b74f13-b451-41dc-b9cd-af593d908359",
+        "title": "Sacrifice",
+        "artist": "The Weeknd",
+        "length_seconds": 191.0,
+        "disambiguation": "live",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "551861fb-263a-4065-a106-23d43eb8bdce",
+        "title": "The Birds, Part One (CnS)",
+        "artist": "The Weeknd",
+        "length_seconds": 295.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "add075df-b151-4df4-abc5-8f2662c34b13",
+        "title": "Morning (Atlantic Connection mix)",
+        "artist": "The Weeknd",
+        "length_seconds": 243.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e4667380-e378-4a89-8d1c-8f919289a45d",
+        "title": "High for This (remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 288.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a74a5dff-a66b-4375-838b-46d3a39bcdb4",
+        "title": "Next",
+        "artist": "The Weeknd",
+        "length_seconds": 328.3,
+        "disambiguation": "from The Best Weeknd Ever",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4ea665b6-54d4-4494-af3a-14b96f570cbe",
+        "title": "The Stacks Party (Weeknd/Ozzie/Hucci remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 270.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2208d6e4-46ac-4f75-846e-83c474cfead2",
+        "title": "Rolling Swag (Weeknd/Hucci remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 254.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ebeda6c3-3093-4efb-b64d-970a2d0d26b9",
+        "title": "Blinding Lights (acapella)",
+        "artist": "The Weeknd",
+        "length_seconds": 202.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "858054d8-2171-41af-87ec-98e7ddc3e2f0",
+        "title": "Cocaine Kiss (Weeknd/36ty5 remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 221.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fd61c2d0-120a-4579-be63-d24b8a850727",
+        "title": "Popular (Vidojean X Oliver Afro House Remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 180.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c1b123db-dd43-4843-85b5-44fe2bec981a",
+        "title": "Wicked Games (Sy.Ic remix)",
+        "artist": "The Weeknd",
+        "length_seconds": 225.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ee03f9c6-707b-4cca-9594-2403016ba29b",
+        "title": "The Morning",
+        "artist": "The Weeknd",
+        "length_seconds": 313.0,
+        "disambiguation": "Dolby Atmos 2022 mix, original, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2195de91-330a-4b86-8ade-25136094e7f7",
+        "title": "The Party & the After Party",
+        "artist": "The Weeknd",
+        "length_seconds": 459.4,
+        "disambiguation": "Trilogy version, explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e6df38a9-b15c-4567-b9db-bea691b4c190",
+        "title": "A Tale By Quincy (Chopped Not Slopped)",
+        "artist": "The Weeknd",
+        "length_seconds": 114.1,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
         "recording_mbid": "23ff494f-d110-40e3-913d-d33200e2416b",
         "title": "Lost in Utopia",
         "artist": "PluggingAI",
@@ -1120,6 +3370,627 @@
         "title": "Instrumental 2",
         "artist": "Travis Scott",
         "length_seconds": 185.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2d7b09cc-3452-46aa-a8a1-72f14acef8af",
+        "title": "Next Chapter",
+        "artist": "PluggingAI",
+        "length_seconds": 160.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f447ffc2-7315-402a-91e7-9b55dd7440e7",
+        "title": "The Zone",
+        "artist": "PluggingAI",
+        "length_seconds": 132.9,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "10c2910a-7144-4ad2-8271-1fc57132527d",
+        "title": "NO BYSTANDERS",
+        "artist": "Travis Scott",
+        "length_seconds": 218.3,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bda75eb1-e2bc-46b3-83fc-250d73d54004",
+        "title": "CAROUSEL",
+        "artist": "Travis Scott",
+        "length_seconds": 180.2,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "363b2590-63b0-4ea4-894a-a89f4db3207e",
+        "title": "WHO? WHAT!",
+        "artist": "Travis Scott",
+        "length_seconds": 176.7,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "4338bca9-31ef-4b6c-b503-4b920c469e3b",
+        "title": "SICKO MODE (D-Nasty Bootleg)",
+        "artist": "Travis Scott",
+        "length_seconds": null,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "145dc431-f647-442b-9264-0fe9b23a989d",
+        "title": "Don't Play (Jayceeoh & B Sides remix)",
+        "artist": "Travis Scott",
+        "length_seconds": 212.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3e0c2362-41d7-4c36-bf62-f955f17322ca",
+        "title": "Antidote (Bass Boosted)",
+        "artist": "Travis Scott",
+        "length_seconds": 243.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "303107f3-8bf0-4850-a0db-6b906954475f",
+        "title": "BUTTERFLY EFFECT",
+        "artist": "Travis Scott",
+        "length_seconds": 190.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "8bfea32c-3419-4d6f-858f-3b424edc1877",
+        "title": "R.I.P. SCREW",
+        "artist": "Travis Scott",
+        "length_seconds": 185.6,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "73784600-a665-4a6c-9687-187dbefc556d",
+        "title": "SICKO MODE",
+        "artist": "Travis Scott",
+        "length_seconds": 312.8,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "407427a6-ecdb-47e5-8e40-6b1536f47593",
+        "title": "HOUSTONFORNICATION",
+        "artist": "Travis Scott",
+        "length_seconds": 217.8,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b6a56e40-759c-473d-ae0a-414977ced752",
+        "title": "beibs in the trap",
+        "artist": "Travis Scott",
+        "length_seconds": 213.9,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5ec047d4-0f38-49fd-9fed-9e4c0161a351",
+        "title": "Respected (slowed & chopped)",
+        "artist": "Travis Scott",
+        "length_seconds": 288.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d61ab159-e4da-45ed-b7b2-8252f3101cd7",
+        "title": "STOP TRYING TO BE GOD",
+        "artist": "Travis Scott",
+        "length_seconds": 277.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": true
+    },
+    {
+        "recording_mbid": "8a9ef73d-f10d-4d02-82a0-b59891a68b69",
+        "title": "Impossible",
+        "artist": "Travis Scott",
+        "length_seconds": 242.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "37c7db1f-d9d3-4ce5-92ca-da690eed4a4c",
+        "title": "Respected",
+        "artist": "Travis Scott",
+        "length_seconds": 195.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "aca1e3df-9dc6-4dbd-914d-9e3c2bde3109",
+        "title": "A-Team",
+        "artist": "Travis Scott",
+        "length_seconds": 176.6,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "2aada037-6cb6-4c3f-8f9f-2e917c07e096",
+        "title": "HOUSTONFORNICATION",
+        "artist": "Travis Scott",
+        "length_seconds": 217.8,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "38ebe9a4-7d50-42a8-bb18-9fb0ab70fd74",
+        "title": "MAFIA",
+        "artist": "Travis Scott",
+        "length_seconds": 240.0,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7b05a37d-b0bd-445e-ac0f-373384d02fd0",
+        "title": "Goosebumps (Gaszia 2017 edit)",
+        "artist": "Travis Scott",
+        "length_seconds": 227.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "168cd19a-d3f7-481f-912f-0b3413d65ff0",
+        "title": "Drugs You Should Try It",
+        "artist": "Travis Scott",
+        "length_seconds": 208.5,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5744de0f-605e-40ad-b9c4-dc7ba63578f0",
+        "title": "Serenade",
+        "artist": "Travis Scott",
+        "length_seconds": 216.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "527d48dc-9048-4755-b54f-15bff3702352",
+        "title": "Dinosaurs -Unrealeased- (ATILI REMIX)",
+        "artist": "Travis Scott",
+        "length_seconds": 231.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "cb958c46-7d58-4982-8a5a-d53dac13dee9",
+        "title": "CAN’T SAY",
+        "artist": "Travis Scott",
+        "length_seconds": 198.4,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "3133bb8f-e3ae-4cf4-a647-012475d4e151",
+        "title": "first take",
+        "artist": "Travis Scott",
+        "length_seconds": 313.9,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "da1cef08-8fa5-41ce-b2e7-e9e2d973be09",
+        "title": "Goosebumps (Yung Earle Remix)",
+        "artist": "Travis Scott",
+        "length_seconds": 146.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "04d36ad3-0f1d-4aca-af5e-16e5fa8dbdcd",
+        "title": "STOP TRYING TO BE GOD",
+        "artist": "Travis Scott",
+        "length_seconds": 338.4,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b5d19b4f-4930-499e-9587-17edd85bcd3c",
+        "title": "STARGAZING",
+        "artist": "Travis Scott",
+        "length_seconds": 270.7,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "bfde919d-541d-4003-8cbf-03e36832f1bc",
+        "title": "CAN’T SAY",
+        "artist": "Travis Scott",
+        "length_seconds": 198.4,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "39a05472-5b4c-4f1c-bf2a-1394578ced62",
+        "title": "COFFEE BEAN",
+        "artist": "Travis Scott",
+        "length_seconds": 209.1,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b074ea97-aa51-40c2-8c58-7908d6fb31ca",
+        "title": "Myles",
+        "artist": "Travis Scott",
+        "length_seconds": 260.4,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "7b5f4f0d-fbde-481b-b211-c662a835e455",
+        "title": "I KNOW ?",
+        "artist": "Travis Scott",
+        "length_seconds": 212.0,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "79cf2478-4111-470d-bd57-81509694e71d",
+        "title": "God Level",
+        "artist": "Travis Scott",
+        "length_seconds": 150.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "f38f1829-7302-4341-a227-50e7f201bafb",
+        "title": "A Man",
+        "artist": "Travis Scott",
+        "length_seconds": 193.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5c577781-b889-4b14-9f05-f6f7c6baef42",
+        "title": "DUMBO",
+        "artist": "Travis Scott",
+        "length_seconds": 238.2,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "30c4b26d-17e3-4f11-ae64-891eea9954ec",
+        "title": "Lights (Love Sick)",
+        "artist": "Travis Scott",
+        "length_seconds": 219.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "d96bd8fa-d0e7-4c5e-9a70-753778e583fe",
+        "title": "Stargazing",
+        "artist": "Travis Scott",
+        "length_seconds": 315.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5f3eda95-8532-46f2-ad93-68d00df1cc06",
+        "title": "sweet sweet",
+        "artist": "Travis Scott",
+        "length_seconds": 162.0,
+        "disambiguation": "part of “Rap Life: May 2025” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "fa860009-fda9-49a9-a001-f7e8793bbc81",
+        "title": "Antidote",
+        "artist": "Travis Scott",
+        "length_seconds": 252.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "346c5920-4b36-4472-9447-139d2c9e4560",
+        "title": "5% TINT",
+        "artist": "Travis Scott",
+        "length_seconds": 196.1,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "a36cd34d-a12c-4db7-a25f-0f233d34266a",
+        "title": "ESCAPE PLAN",
+        "artist": "Travis Scott",
+        "length_seconds": 149.6,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e0350799-668f-4420-8758-39288f37fc3b",
+        "title": "Zombies (slowed & chopped)",
+        "artist": "Travis Scott",
+        "length_seconds": 331.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ce308c67-faf4-4638-9eda-93adf2583997",
+        "title": "Serenade",
+        "artist": "Travis Scott",
+        "length_seconds": 178.3,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b87be178-f164-4645-98a0-737ad7ba3d48",
+        "title": "Wish You Were Here",
+        "artist": "Travis Scott",
+        "length_seconds": 45.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "01780ade-4ac0-4659-b75d-c8b675d04d90",
+        "title": "Quintana Pt. 2",
+        "artist": "Travis Scott",
+        "length_seconds": 186.2,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5202fb36-3358-4549-a3ff-3a7a55d962d2",
+        "title": "Dream",
+        "artist": "Travis Scott",
+        "length_seconds": 210.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "754005e5-c798-436a-8fc7-85983a85d5cb",
+        "title": "Days Before Rodeo: The Prayer",
+        "artist": "Travis Scott",
+        "length_seconds": 200.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e6c45471-a156-4f24-bae3-5e6bf6eb5364",
+        "title": "Upper Echelon (Mura Masa remix)",
+        "artist": "Travis Scott",
+        "length_seconds": 261.5,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c13042dc-8ecc-4e39-93ee-7cf449f344e0",
+        "title": "Analogue",
+        "artist": "Travis Scott",
+        "length_seconds": 175.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "039ef044-299f-453c-984d-04c353c3850c",
+        "title": "Wasted (feat. Yung Lean)",
+        "artist": "Travis Scott",
+        "length_seconds": 240.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "eb4e11f5-e5ee-4d56-b6da-b66d82c9311a",
+        "title": "Drugs You Should Try It",
+        "artist": "Travis Scott",
+        "length_seconds": 224.0,
+        "disambiguation": "Chopped Not Slopped, part of the “Purple Children 6” DJ‐mix",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "ee81e74d-65f8-4492-afc6-4cc4dba501b6",
+        "title": "MY EYES",
+        "artist": "Travis Scott",
+        "length_seconds": 251.2,
+        "disambiguation": "Dolby Atmos mix",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "32862ed8-3173-4c14-9284-7620a2e87fcb",
+        "title": "Grey (live)",
+        "artist": "Travis Scott",
+        "length_seconds": 207.0,
+        "disambiguation": "live, 2024-08-22: Heaven @ The Masquerade, Atlanta, GA, USA",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "15545384-1b49-484e-ac3a-7797bf28df33",
+        "title": "iLLemeriCA",
+        "artist": "Travis Scott",
+        "length_seconds": 295.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "332ce1f1-7109-4b96-9937-05d3f146c12a",
+        "title": "Antidote",
+        "artist": "Travis Scott",
+        "length_seconds": 262.7,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "047e2ca0-02a0-4282-9cc5-9b00757f1721",
+        "title": "Grey",
+        "artist": "Travis Scott",
+        "length_seconds": 220.0,
+        "disambiguation": "Dolby Atmos mix, clean",
+        "is_alternative_version": true,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "e6b55015-a520-4981-9258-972b7ab8c900",
+        "title": "4X4",
+        "artist": "Travis Scott",
+        "length_seconds": 214.9,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "c0b25b3c-6f7c-450e-b410-4e6328ff4906",
+        "title": "FLORIDA FLOW",
+        "artist": "Travis Scott",
+        "length_seconds": 328.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "1a2bf3ee-df47-4101-a826-39403aac6ee0",
+        "title": "Quintana Pt. 2 (Dean outro)",
+        "artist": "Travis Scott",
+        "length_seconds": 230.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "28771bc3-6dab-49a7-8072-4b8f8e35c471",
+        "title": "Payroll",
+        "artist": "PluggingAI",
+        "length_seconds": 201.6,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "dbc22816-428e-4194-9b53-d2a5cdc1b983",
+        "title": "NO BYSTANDERS",
+        "artist": "Travis Scott",
+        "length_seconds": 218.3,
+        "disambiguation": "explicit",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b7b29561-6d87-4044-8d32-512507ef75ca",
+        "title": "CAROUSEL",
+        "artist": "Travis Scott",
+        "length_seconds": 180.2,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "58e7723b-c7b6-42c6-a539-0f586772444d",
+        "title": "Drugs You Should Try (slowed & chopped)",
+        "artist": "Travis Scott",
+        "length_seconds": 280.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "0cd641f4-d4d5-4a80-85be-2d4609fee2e6",
+        "title": "Uber Everywhere (remix)",
+        "artist": "Travis Scott",
+        "length_seconds": 163.9,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "48870e85-ba5d-4b24-93d8-c43ebcdd5e34",
+        "title": "coordinate",
+        "artist": "Travis Scott",
+        "length_seconds": 226.4,
+        "disambiguation": "clean",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "de72c984-24f8-4802-ae9f-9c7212f473cc",
+        "title": "Never Catch Me",
+        "artist": "Travis Scott",
+        "length_seconds": 143.0,
+        "disambiguation": "part of mixtape \"Hot This Week 22\"",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "b1a74ce3-09fa-4a40-ab1b-cdd76f0ab915",
+        "title": "3 Wayz",
+        "artist": "Travis Scott",
+        "length_seconds": 206.0,
+        "disambiguation": "",
+        "is_alternative_version": false,
+        "is_video": false
+    },
+    {
+        "recording_mbid": "5f82c89d-9a2f-4d51-b301-c1ae55ec44d6",
+        "title": "Quintana Pt. 2 (slowed & chopped)",
+        "artist": "Travis Scott",
+        "length_seconds": 184.0,
         "disambiguation": "",
         "is_alternative_version": false,
         "is_video": false
