@@ -1,4 +1,3 @@
-import json
 import time
 from datetime import datetime
 from pathlib import Path
@@ -6,8 +5,6 @@ from pathlib import Path
 import requests
 
 
-# These are development seed artists.
-# They are NOT the final limit of the SetFlow catalogue.
 seed_artists = [
     "Ariana Grande",
     "Don Toliver",
@@ -22,6 +19,12 @@ url = "https://musicbrainz.org/ws/2/recording/"
 headers = {
     "User-Agent": "SetFlow/1.0"
 }
+
+
+# Pagination settings
+page_size = 25
+max_pages = 3
+
 
 raw_folder = Path("data/raw/catalogue")
 raw_folder.mkdir(parents=True, exist_ok=True)
@@ -64,52 +67,77 @@ def request_musicbrainz(params, max_attempts=3):
 
 for artist in seed_artists:
 
-    print(f"\nExtracting recordings for: {artist}")
+    print(f"\n=== Extracting: {artist} ===")
 
-    params = {
-        "query": f'artist:"{artist}"',
-        "fmt": "json",
-        "limit": 25,
-        "offset": 0
-    }
+    for page_number in range(max_pages):
 
-    response = request_musicbrainz(params)
+        offset = page_number * page_size
 
-    if response is None:
-        print(f"Could not retrieve data for {artist}")
-        continue
+        print(
+            f"\nPage {page_number + 1} "
+            f"(offset {offset})"
+        )
 
-    data = response.json()
+        params = {
+            "query": f'artist:"{artist}"',
+            "fmt": "json",
+            "limit": page_size,
+            "offset": offset
+        }
 
-    print(
-        f"MusicBrainz reports {data.get('count', 0)} "
-        f"matching recordings."
-    )
+        response = request_musicbrainz(params)
 
-    print(
-        f"Downloaded {len(data.get('recordings', []))} "
-        f"recordings in this request."
-    )
+        if response is None:
+            print(
+                f"Skipping page {page_number + 1} "
+                f"for {artist}."
+            )
+            continue
 
-    safe_artist_name = (
-        artist.lower()
-        .replace(" ", "_")
-        .replace(".", "")
-    )
+        data = response.json()
 
-    raw_file = raw_folder / (
-        f"{safe_artist_name}_{timestamp}.json"
-    )
+        recordings = data.get("recordings", [])
 
-    raw_file.write_text(
-        response.text,
-        encoding="utf-8"
-    )
+        print(
+            "Total matches reported by MusicBrainz:",
+            data.get("count", 0)
+        )
 
-    print("Raw response saved to:", raw_file)
+        print(
+            "Recordings downloaded on this page:",
+            len(recordings)
+        )
 
-    # Be polite to the API before requesting the next artist.
-    time.sleep(1)
+        safe_artist_name = (
+            artist.lower()
+            .replace(" ", "_")
+            .replace(".", "")
+        )
+
+        raw_file = raw_folder / (
+            f"{safe_artist_name}_"
+            f"page_{page_number + 1}_"
+            f"{timestamp}.json"
+        )
+
+        raw_file.write_text(
+            response.text,
+            encoding="utf-8"
+        )
+
+        print(
+            "Raw response saved to:",
+            raw_file
+        )
+
+        # If MusicBrainz returned fewer than page_size,
+        # there cannot be another full page.
+        if len(recordings) < page_size:
+            print("Reached the final page.")
+            break
+
+        # Avoid sending requests too quickly.
+        time.sleep(1)
 
 
-print("\nCatalogue extraction finished.")
+print("\nCatalogue pagination extraction finished.")
