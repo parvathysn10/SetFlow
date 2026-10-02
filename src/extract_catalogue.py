@@ -5,12 +5,54 @@ from pathlib import Path
 import requests
 
 
+# Development seed artists chosen to give SetFlow a broader
+# musical catalogue. These are catalogue seeds, not genre labels:
+# individual artists and recordings can span multiple styles.
 seed_artists = [
+    # Existing catalogue
     "Ariana Grande",
     "Don Toliver",
     "The Weeknd",
     "SZA",
-    "Travis Scott"
+    "Travis Scott",
+
+    # Broader contemporary pop / dance
+    "Dua Lipa",
+    "Lady Gaga",
+    "Calvin Harris",
+
+    # Electronic / dance
+    "Daft Punk",
+    "Disclosure",
+
+    # Indie / alternative
+    "Arctic Monkeys",
+    "Tame Impala",
+
+    # Rock
+    "Foo Fighters",
+    "Fleetwood Mac",
+
+    # Country
+    "Dolly Parton",
+    "Luke Combs",
+
+    # Latin
+    "Shakira",
+    "Bad Bunny",
+
+    # Funk / disco / soul
+    "CHIC",
+    "Earth, Wind & Fire",
+
+    # Reggae
+    "Bob Marley & The Wailers",
+
+    # Metal
+    "Metallica",
+
+    # Jazz
+    "Miles Davis"
 ]
 
 
@@ -112,6 +154,8 @@ for artist in seed_artists:
             artist.lower()
             .replace(" ", "_")
             .replace(".", "")
+            .replace(",", "")
+            .replace("&", "and")
         )
 
         raw_file = raw_folder / (
@@ -130,13 +174,11 @@ for artist in seed_artists:
             raw_file
         )
 
-        # If MusicBrainz returned fewer than page_size,
-        # there cannot be another full page.
         if len(recordings) < page_size:
             print("Reached the final page.")
             break
 
-        # Avoid sending requests too quickly.
+        # MusicBrainz asks clients not to make requests too quickly.
         time.sleep(1)
 
 
