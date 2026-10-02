@@ -1,5 +1,71 @@
 [
     {
+        "recording_mbid": "000d838c-702c-4680-876d-f1b3a048c419",
+        "bpm": 122.033905029,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.45972037315,
+        "average_loudness": 0.863185882568,
+        "dynamic_complexity": 4.03714513779,
+        "onset_rate": 5.7787027359,
+        "acoustic_length_seconds": 308.526855469
+    },
+    {
+        "recording_mbid": "002923dc-8e68-4bcf-8de2-7ddd6bf5bd92",
+        "bpm": 122.996360779,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.36853551865,
+        "average_loudness": 0.739436626434,
+        "dynamic_complexity": 5.52227449417,
+        "onset_rate": 4.6053981781,
+        "acoustic_length_seconds": 421.222473145
+    },
+    {
+        "recording_mbid": "00c21fcf-368d-4a71-9fb8-afdb62192e96",
+        "bpm": 94.0556335449,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.48678052425,
+        "average_loudness": 0.930807590485,
+        "dynamic_complexity": 8.23410224915,
+        "onset_rate": 4.35822486877,
+        "acoustic_length_seconds": 198.687347412
+    },
+    {
+        "recording_mbid": "0164f4b7-7631-41e7-b70f-1329a9b60795",
+        "bpm": 130.192062378,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.13688182831,
+        "average_loudness": 0.923157155514,
+        "dynamic_complexity": 3.131316185,
+        "onset_rate": 3.57733893394,
+        "acoustic_length_seconds": 256.600830078
+    },
+    {
+        "recording_mbid": "01aaaea1-d677-4791-9d6b-07abd2080bd4",
+        "bpm": 110.974433899,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.1931707859,
+        "average_loudness": 0.730888307095,
+        "dynamic_complexity": 5.24042701721,
+        "onset_rate": 4.02146720886,
+        "acoustic_length_seconds": 182.506668091
+    },
+    {
+        "recording_mbid": "02c9a9a3-d2a6-4f90-a1d7-45200d6f4214",
+        "bpm": 110.93321228,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.263910532,
+        "average_loudness": 0.550308346748,
+        "dynamic_complexity": 3.58701252937,
+        "onset_rate": 3.87307882309,
+        "acoustic_length_seconds": 636.682434082
+    },
+    {
         "recording_mbid": "03e003d5-4fc2-4e32-a23d-fe7a1cd883cf",
         "bpm": 90.4125518799,
         "key": "A#",
@@ -9,6 +75,39 @@
         "dynamic_complexity": 4.99904966354,
         "onset_rate": 3.83131456375,
         "acoustic_length_seconds": 181.119995117
+    },
+    {
+        "recording_mbid": "03eafe49-7a98-4485-8069-1c85fb1bf3ed",
+        "bpm": 130.782272339,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.27491509914,
+        "average_loudness": 0.797019898891,
+        "dynamic_complexity": 3.38314890862,
+        "onset_rate": 4.31777477264,
+        "acoustic_length_seconds": 264.933868408
+    },
+    {
+        "recording_mbid": "03ed9525-93b5-4315-9e17-773841ffc75b",
+        "bpm": 107.980690002,
+        "key": "F",
+        "scale": "major",
+        "danceability": 0.905641138554,
+        "average_loudness": 0.0439438000321,
+        "dynamic_complexity": 8.05040454865,
+        "onset_rate": 2.77264928818,
+        "acoustic_length_seconds": 304.390380859
+    },
+    {
+        "recording_mbid": "03f1b16a-af43-4cd7-b22c-d2991bf011a3",
+        "bpm": 101.962753296,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.10356867313,
+        "average_loudness": 0.170349612832,
+        "dynamic_complexity": 7.04888677597,
+        "onset_rate": 2.78428697586,
+        "acoustic_length_seconds": 433.133331299
     },
     {
         "recording_mbid": "03fa36a7-5657-44c1-b7f9-2cbbe7463073",
@@ -55,6 +154,72 @@
         "acoustic_length_seconds": 338.438079834
     },
     {
+        "recording_mbid": "0595c780-d773-47bb-b621-36bb3e5baabc",
+        "bpm": 154.672088623,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.10506141186,
+        "average_loudness": 0.599427223206,
+        "dynamic_complexity": 5.92411470413,
+        "onset_rate": 3.26537704468,
+        "acoustic_length_seconds": 191.386672974
+    },
+    {
+        "recording_mbid": "06076e6e-32dc-49ad-b29b-d2560fbf64c5",
+        "bpm": 131.714294434,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 0.941371679306,
+        "average_loudness": 0.114010706544,
+        "dynamic_complexity": 12.1201229095,
+        "onset_rate": 1.65399706364,
+        "acoustic_length_seconds": 136.014785767
+    },
+    {
+        "recording_mbid": "0622c450-3ff1-477c-a0b6-742ff09d36fa",
+        "bpm": 122.908119202,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 0.943623483181,
+        "average_loudness": 0.132064923644,
+        "dynamic_complexity": 6.69788599014,
+        "onset_rate": 3.51676082611,
+        "acoustic_length_seconds": 395.232666016
+    },
+    {
+        "recording_mbid": "07d57900-c5db-4576-a3e6-b84349e0c4c0",
+        "bpm": 137.25994873,
+        "key": "A",
+        "scale": "major",
+        "danceability": 0.915399432182,
+        "average_loudness": 0.96543854475,
+        "dynamic_complexity": 1.90785503387,
+        "onset_rate": 4.98676395416,
+        "acoustic_length_seconds": 123.715919495
+    },
+    {
+        "recording_mbid": "08285218-bfe8-40bc-9372-3fa0613d1480",
+        "bpm": 139.931549072,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.26431381702,
+        "average_loudness": 0.869587421417,
+        "dynamic_complexity": 3.13961100578,
+        "onset_rate": 4.62108135223,
+        "acoustic_length_seconds": 308.786651611
+    },
+    {
+        "recording_mbid": "08fbc4e0-40de-4ba6-a533-9ae4f1f4680f",
+        "bpm": 127.007423401,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.21911692619,
+        "average_loudness": 0.829520702362,
+        "dynamic_complexity": 4.85478639603,
+        "onset_rate": 3.98126888275,
+        "acoustic_length_seconds": 234.335784912
+    },
+    {
         "recording_mbid": "0901ce0e-65c7-42db-a264-72b07dab8fa9",
         "bpm": 165.274230957,
         "key": "D",
@@ -64,6 +229,39 @@
         "dynamic_complexity": 4.75553703308,
         "onset_rate": 4.23780441284,
         "acoustic_length_seconds": 176.488021851
+    },
+    {
+        "recording_mbid": "0a3d7e89-cbb9-4b20-b2bf-9a72cec46c99",
+        "bpm": 124.895874023,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.93387877941,
+        "average_loudness": 0.944403350353,
+        "dynamic_complexity": 3.71329140663,
+        "onset_rate": 4.6420674324,
+        "acoustic_length_seconds": 400.666656494
+    },
+    {
+        "recording_mbid": "0ad457ed-9b05-4be7-9c73-76c5bd385106",
+        "bpm": 117.6848526,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.21767699718,
+        "average_loudness": 0.7040386796,
+        "dynamic_complexity": 4.49423789978,
+        "onset_rate": 4.552693367,
+        "acoustic_length_seconds": 173.731704712
+    },
+    {
+        "recording_mbid": "0bcff7f0-844c-4955-a600-4caff49e3d6b",
+        "bpm": 128.161682129,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.62323606014,
+        "average_loudness": 0.958636403084,
+        "dynamic_complexity": 1.75712609291,
+        "onset_rate": 5.76736879349,
+        "acoustic_length_seconds": 315.036743164
     },
     {
         "recording_mbid": "0c3ac32c-538e-4c64-9af8-d8662fa89380",
@@ -77,6 +275,17 @@
         "acoustic_length_seconds": 168.89666748
     },
     {
+        "recording_mbid": "0c9302d2-4b16-4eef-9057-ece6f356227e",
+        "bpm": 128.090332031,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.35056126118,
+        "average_loudness": 0.931359708309,
+        "dynamic_complexity": 2.83337807655,
+        "onset_rate": 4.29347133636,
+        "acoustic_length_seconds": 315.115112305
+    },
+    {
         "recording_mbid": "0cd641f4-d4d5-4a80-85be-2d4609fee2e6",
         "bpm": 139.94694519,
         "key": "A#",
@@ -86,6 +295,28 @@
         "dynamic_complexity": 5.39736747742,
         "onset_rate": 4.19535398483,
         "acoustic_length_seconds": 163.970611572
+    },
+    {
+        "recording_mbid": "0d29f17b-fac7-4dff-8b3e-a39d0ec2addb",
+        "bpm": 99.9930038452,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.06218481064,
+        "average_loudness": 0.955329179764,
+        "dynamic_complexity": 2.04243588448,
+        "onset_rate": 3.28727650642,
+        "acoustic_length_seconds": 259.160003662
+    },
+    {
+        "recording_mbid": "0d50d593-d984-49d6-93d5-f4cd24063442",
+        "bpm": 143.821746826,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.25068306923,
+        "average_loudness": 0.833098292351,
+        "dynamic_complexity": 5.75909519196,
+        "onset_rate": 2.79822874069,
+        "acoustic_length_seconds": 186.177597046
     },
     {
         "recording_mbid": "0fd79d24-f1be-4de4-8d70-f013c5f357f1",
@@ -110,6 +341,215 @@
         "acoustic_length_seconds": 218.279998779
     },
     {
+        "recording_mbid": "10ca27b5-0605-4c0d-9a0e-55a4a00d2761",
+        "bpm": 108.054199219,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.56634652615,
+        "average_loudness": 0.903490185738,
+        "dynamic_complexity": 3.28123164177,
+        "onset_rate": 4.40808200836,
+        "acoustic_length_seconds": 448.026123047
+    },
+    {
+        "recording_mbid": "10ef51ef-567c-4b33-8d6e-6e281685da9f",
+        "bpm": 138.248291016,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 2.0319890976,
+        "average_loudness": 0.834044337273,
+        "dynamic_complexity": 7.01531171799,
+        "onset_rate": 3.39550256729,
+        "acoustic_length_seconds": 432.01940918
+    },
+    {
+        "recording_mbid": "110d95a6-a0b2-41f8-99b6-4b1d3a91f1be",
+        "bpm": 95.5250320435,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.07093214989,
+        "average_loudness": 0.804877340794,
+        "dynamic_complexity": 3.53403091431,
+        "onset_rate": 4.10509681702,
+        "acoustic_length_seconds": 175.125335693
+    },
+    {
+        "recording_mbid": "12147dd6-07db-4ca7-bf16-ca533cc4153f",
+        "bpm": 132.309707642,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.00573313236,
+        "average_loudness": 0.0275381486863,
+        "dynamic_complexity": 4.61969709396,
+        "onset_rate": 3.59668445587,
+        "acoustic_length_seconds": 687.566101074
+    },
+    {
+        "recording_mbid": "12e29c99-91ae-4e3e-b347-8da4f9c1073b",
+        "bpm": 123.740776062,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.7462927103,
+        "average_loudness": 0.943735122681,
+        "dynamic_complexity": 2.65137720108,
+        "onset_rate": 5.54614877701,
+        "acoustic_length_seconds": 214.906661987
+    },
+    {
+        "recording_mbid": "12f055b1-1654-48a5-ae42-765dbba00255",
+        "bpm": 122.296295166,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.24003624916,
+        "average_loudness": 0.773162484169,
+        "dynamic_complexity": 2.84886884689,
+        "onset_rate": 3.56730246544,
+        "acoustic_length_seconds": 287.880004883
+    },
+    {
+        "recording_mbid": "13a8b690-3393-4b62-97e2-518ba3bfe0d4",
+        "bpm": 99.0239181519,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.42569339275,
+        "average_loudness": 0.89919346571,
+        "dynamic_complexity": 3.50281882286,
+        "onset_rate": 3.98214030266,
+        "acoustic_length_seconds": 249.600006104
+    },
+    {
+        "recording_mbid": "13be2343-05e1-4784-8fb5-96566e84de4c",
+        "bpm": 127.987129211,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.51666808128,
+        "average_loudness": 0.754572629929,
+        "dynamic_complexity": 4.6801815033,
+        "onset_rate": 4.3604183197,
+        "acoustic_length_seconds": 395.133331299
+    },
+    {
+        "recording_mbid": "1415cd9e-b51d-49cd-975d-e8fb79810cfe",
+        "bpm": 126.98575592,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.46159493923,
+        "average_loudness": 0.850236654282,
+        "dynamic_complexity": 3.93560743332,
+        "onset_rate": 6.5873875618,
+        "acoustic_length_seconds": 293.880004883
+    },
+    {
+        "recording_mbid": "141675ff-75e8-4e65-b469-cc58865baa7e",
+        "bpm": 86.8705673218,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.50718820095,
+        "average_loudness": 0.922353386879,
+        "dynamic_complexity": 5.01210927963,
+        "onset_rate": 5.57359266281,
+        "acoustic_length_seconds": 401.345306396
+    },
+    {
+        "recording_mbid": "144cee3a-533b-4a9b-ad1b-2f695052144e",
+        "bpm": 116.81439209,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.44852638245,
+        "average_loudness": 0.800993442535,
+        "dynamic_complexity": 5.23482513428,
+        "onset_rate": 4.22843170166,
+        "acoustic_length_seconds": 290.866668701
+    },
+    {
+        "recording_mbid": "1452fb7e-46ca-4204-af71-cb00b4c625d4",
+        "bpm": 90.4029769897,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 0.956527650356,
+        "average_loudness": 0.505396544933,
+        "dynamic_complexity": 4.95101547241,
+        "onset_rate": 3.82579398155,
+        "acoustic_length_seconds": 181.119995117
+    },
+    {
+        "recording_mbid": "1490b845-cc56-465a-9947-8952085be9d1",
+        "bpm": 152.086837769,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.14702963829,
+        "average_loudness": 0.947058737278,
+        "dynamic_complexity": 4.03178119659,
+        "onset_rate": 3.31469392776,
+        "acoustic_length_seconds": 182.804901123
+    },
+    {
+        "recording_mbid": "154aae46-f675-49f3-bbec-6e8644b892b0",
+        "bpm": 114.521766663,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.28011476994,
+        "average_loudness": 0.957698702812,
+        "dynamic_complexity": 3.77719521523,
+        "onset_rate": 3.98263001442,
+        "acoustic_length_seconds": 133.306671143
+    },
+    {
+        "recording_mbid": "15d809bb-cee4-4b88-92aa-a35a6002d0cf",
+        "bpm": 79.6715927124,
+        "key": "E",
+        "scale": "major",
+        "danceability": 0.95920997858,
+        "average_loudness": 0.834988236427,
+        "dynamic_complexity": 3.76343679428,
+        "onset_rate": 2.57611107826,
+        "acoustic_length_seconds": 158.746124268
+    },
+    {
+        "recording_mbid": "15e5271d-d148-4348-a831-9e1a980ca869",
+        "bpm": 96.3026504517,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.13545024395,
+        "average_loudness": 0.783387720585,
+        "dynamic_complexity": 3.84541773796,
+        "onset_rate": 4.51554536819,
+        "acoustic_length_seconds": 225.201629639
+    },
+    {
+        "recording_mbid": "172f200c-8065-4acd-9012-d0c9e3142a7f",
+        "bpm": 109.976852417,
+        "key": "G#",
+        "scale": "minor",
+        "danceability": 1.40140640736,
+        "average_loudness": 0.87450248003,
+        "dynamic_complexity": 4.22622680664,
+        "onset_rate": 3.79361176491,
+        "acoustic_length_seconds": 157.090927124
+    },
+    {
+        "recording_mbid": "174da431-dc3e-4ad1-8d56-d44cd284652b",
+        "bpm": 92.1272277832,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 0.984889686108,
+        "average_loudness": 0.378942579031,
+        "dynamic_complexity": 7.31090259552,
+        "onset_rate": 3.36852240562,
+        "acoustic_length_seconds": 195.324813843
+    },
+    {
+        "recording_mbid": "1769a92c-6e11-48cf-a44f-ab925f0b5a72",
+        "bpm": 116.005493164,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.25926887989,
+        "average_loudness": 0.910325050354,
+        "dynamic_complexity": 5.16248178482,
+        "onset_rate": 4.5516705513,
+        "acoustic_length_seconds": 192.001068115
+    },
+    {
         "recording_mbid": "1769d9c8-59eb-470d-8111-a80a26ac148a",
         "bpm": 105.043029785,
         "key": "C#",
@@ -119,6 +559,28 @@
         "dynamic_complexity": 3.86730980873,
         "onset_rate": 4.32530450821,
         "acoustic_length_seconds": 214.308578491
+    },
+    {
+        "recording_mbid": "1794ee14-e175-4194-8e9f-4e74534dd4f7",
+        "bpm": 128.093093872,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.35179591179,
+        "average_loudness": 0.934705674648,
+        "dynamic_complexity": 2.12331342697,
+        "onset_rate": 4.33678436279,
+        "acoustic_length_seconds": 308.506134033
+    },
+    {
+        "recording_mbid": "17becbd4-6d37-4545-ae61-dc1ae5a335e8",
+        "bpm": 114.752197266,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.38816022873,
+        "average_loudness": 0.773333489895,
+        "dynamic_complexity": 7.08177280426,
+        "onset_rate": 3.95533490181,
+        "acoustic_length_seconds": 139.041107178
     },
     {
         "recording_mbid": "1892f310-8713-47e5-b9a8-06f8d4021ca9",
@@ -132,6 +594,17 @@
         "acoustic_length_seconds": 150.043106079
     },
     {
+        "recording_mbid": "190747fc-55a0-4d04-a42e-4f57d01490ad",
+        "bpm": 91.0618972778,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.26812934875,
+        "average_loudness": 0.904429614544,
+        "dynamic_complexity": 4.60164070129,
+        "onset_rate": 3.74387454987,
+        "acoustic_length_seconds": 210.989028931
+    },
+    {
         "recording_mbid": "1a55639b-d5a8-4f7e-a96f-00aae6f9659f",
         "bpm": 111.560806274,
         "key": "C#",
@@ -141,6 +614,149 @@
         "dynamic_complexity": 4.9180431366,
         "onset_rate": 3.2544863224,
         "acoustic_length_seconds": 360.106658936
+    },
+    {
+        "recording_mbid": "1aa4d1d1-f523-4984-9eb7-0ecb019ca813",
+        "bpm": 128.00604248,
+        "key": "G#",
+        "scale": "minor",
+        "danceability": 1.33700823784,
+        "average_loudness": 0.799682199955,
+        "dynamic_complexity": 5.23574972153,
+        "onset_rate": 4.79121160507,
+        "acoustic_length_seconds": 431.194549561
+    },
+    {
+        "recording_mbid": "1b0f9355-7a45-4ecc-bfe8-187573450cd0",
+        "bpm": 154.865097046,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.11685478687,
+        "average_loudness": 0.887671172619,
+        "dynamic_complexity": 3.47138166428,
+        "onset_rate": 3.48454117775,
+        "acoustic_length_seconds": 365.026672363
+    },
+    {
+        "recording_mbid": "1b8d8796-ad0a-46c3-acea-ef8610ba7667",
+        "bpm": 128.30847168,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.67862319946,
+        "average_loudness": 0.955743432045,
+        "dynamic_complexity": 3.16323542595,
+        "onset_rate": 6.23440647125,
+        "acoustic_length_seconds": 302.020477295
+    },
+    {
+        "recording_mbid": "1ba3684b-d787-43f8-96d9-e50defb60ddf",
+        "bpm": 118.073684692,
+        "key": "A",
+        "scale": "major",
+        "danceability": 0.998995006084,
+        "average_loudness": 0.287594020367,
+        "dynamic_complexity": 6.06672525406,
+        "onset_rate": 3.16208386421,
+        "acoustic_length_seconds": 272.274291992
+    },
+    {
+        "recording_mbid": "1c143e90-0411-40a8-8564-22b2596f1884",
+        "bpm": 140.276245117,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.23271477222,
+        "average_loudness": 0.727478742599,
+        "dynamic_complexity": 3.18956899643,
+        "onset_rate": 5.46654701233,
+        "acoustic_length_seconds": 482.742858887
+    },
+    {
+        "recording_mbid": "1c1f050a-38f9-4bd2-a286-128ab0b6bcf9",
+        "bpm": 128.035751343,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.05554437637,
+        "average_loudness": 0.93012624979,
+        "dynamic_complexity": 3.8544883728,
+        "onset_rate": 3.65009212494,
+        "acoustic_length_seconds": 213.681625366
+    },
+    {
+        "recording_mbid": "1c250baa-b461-4c92-8bf6-5f85d8f9111b",
+        "bpm": 120.019477844,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 0.734232544899,
+        "average_loudness": 0.000745928729884,
+        "dynamic_complexity": 11.7939682007,
+        "onset_rate": 2.03041434288,
+        "acoustic_length_seconds": 106.359977722
+    },
+    {
+        "recording_mbid": "1c459b30-1092-4be4-b014-8b876e4e533c",
+        "bpm": 129.893417358,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.16898226738,
+        "average_loudness": 0.959371030331,
+        "dynamic_complexity": 2.33151650429,
+        "onset_rate": 5.59996604919,
+        "acoustic_length_seconds": 239.987976074
+    },
+    {
+        "recording_mbid": "1cc91cae-4fcd-4b3c-9ba1-1f7ba467569f",
+        "bpm": 128.018234253,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.71002101898,
+        "average_loudness": 0.964595139027,
+        "dynamic_complexity": 3.26815533638,
+        "onset_rate": 4.51233243942,
+        "acoustic_length_seconds": 333.74041748
+    },
+    {
+        "recording_mbid": "1cd69228-2994-4016-8bd9-bb417da3d840",
+        "bpm": 119.130630493,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.15417504311,
+        "average_loudness": 0.877813458443,
+        "dynamic_complexity": 2.98226666451,
+        "onset_rate": 3.41695976257,
+        "acoustic_length_seconds": 314.586669922
+    },
+    {
+        "recording_mbid": "1d128297-e814-4163-a672-02196e0150eb",
+        "bpm": 151.045730591,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.03724503517,
+        "average_loudness": 0.754626393318,
+        "dynamic_complexity": 2.59626674652,
+        "onset_rate": 2.9938890934,
+        "acoustic_length_seconds": 247.823669434
+    },
+    {
+        "recording_mbid": "1dc43a4f-8f58-4a24-a2be-ba356b8ab33f",
+        "bpm": 119.660270691,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.27116274834,
+        "average_loudness": 0.832816064358,
+        "dynamic_complexity": 3.93072199821,
+        "onset_rate": 4.3499917984,
+        "acoustic_length_seconds": 201.816299438
+    },
+    {
+        "recording_mbid": "1dcd021c-2ad7-4648-b464-7cc159dd5254",
+        "bpm": 115.506546021,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.52743113041,
+        "average_loudness": 0.948375940323,
+        "dynamic_complexity": 4.36175060272,
+        "onset_rate": 4.63241958618,
+        "acoustic_length_seconds": 251.689788818
     },
     {
         "recording_mbid": "1ea8294e-5cd4-4441-866d-22d61a987efc",
@@ -154,6 +770,94 @@
         "acoustic_length_seconds": 194.742858887
     },
     {
+        "recording_mbid": "1ebb43df-b266-485e-a776-7bbae1d4cb5f",
+        "bpm": 151.995498657,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.3235180378,
+        "average_loudness": 0.82548481226,
+        "dynamic_complexity": 4.64708089828,
+        "onset_rate": 4.01671409607,
+        "acoustic_length_seconds": 196.412796021
+    },
+    {
+        "recording_mbid": "1ef5a078-c765-43df-81ee-9500a78bf3b5",
+        "bpm": 96.9716949463,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.08646929264,
+        "average_loudness": 0.937608480453,
+        "dynamic_complexity": 3.24129223824,
+        "onset_rate": 4.31866264343,
+        "acoustic_length_seconds": 216.253326416
+    },
+    {
+        "recording_mbid": "203ed06b-2462-46d7-8829-d429b50a9a98",
+        "bpm": 120.939308167,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.89237678051,
+        "average_loudness": 0.934967637062,
+        "dynamic_complexity": 4.6637802124,
+        "onset_rate": 4.1968793869,
+        "acoustic_length_seconds": 242.787841797
+    },
+    {
+        "recording_mbid": "204b7844-3a08-4456-bc1d-49d9bcf8e09d",
+        "bpm": 104.514656067,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.06775581837,
+        "average_loudness": 0.944934427738,
+        "dynamic_complexity": 2.55707263947,
+        "onset_rate": 2.83975410461,
+        "acoustic_length_seconds": 208.457138062
+    },
+    {
+        "recording_mbid": "21aae3e1-20cb-40bc-9d57-0025273b7149",
+        "bpm": 125.928611755,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.11897301674,
+        "average_loudness": 0.82110530138,
+        "dynamic_complexity": 2.37019300461,
+        "onset_rate": 6.34348869324,
+        "acoustic_length_seconds": 238.027755737
+    },
+    {
+        "recording_mbid": "21cf8cbf-e325-4956-a1f9-dbbbbb69a501",
+        "bpm": 103.892951965,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.19007480145,
+        "average_loudness": 0.644391477108,
+        "dynamic_complexity": 6.05070972443,
+        "onset_rate": 4.80303525925,
+        "acoustic_length_seconds": 205.061218262
+    },
+    {
+        "recording_mbid": "22699272-5bd1-4bb8-b387-5e96b9f295d7",
+        "bpm": 129.723861694,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.27892291546,
+        "average_loudness": 0.936615586281,
+        "dynamic_complexity": 3.60187959671,
+        "onset_rate": 3.80041480064,
+        "acoustic_length_seconds": 268.643280029
+    },
+    {
+        "recording_mbid": "230bcc2c-09c0-4d1e-8501-2e10084e17f6",
+        "bpm": 127.722953796,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.48124110699,
+        "average_loudness": 0.940562427044,
+        "dynamic_complexity": 2.5466632843,
+        "onset_rate": 6.16033887863,
+        "acoustic_length_seconds": 491.351959229
+    },
+    {
         "recording_mbid": "23b8b7c9-79fd-48c9-85d0-ea82e2b0718b",
         "bpm": 95.9121856689,
         "key": "C",
@@ -165,6 +869,116 @@
         "acoustic_length_seconds": 204.146942139
     },
     {
+        "recording_mbid": "24296cff-76e0-448d-8c46-21a31a576535",
+        "bpm": 107.568511963,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.0764964819,
+        "average_loudness": 0.14407607913,
+        "dynamic_complexity": 7.08185815811,
+        "onset_rate": 2.82228660583,
+        "acoustic_length_seconds": 461.66204834
+    },
+    {
+        "recording_mbid": "24e6ccd5-cbff-43ef-a439-5805226229d0",
+        "bpm": 133.185256958,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.01996147633,
+        "average_loudness": 0.103443972766,
+        "dynamic_complexity": 6.52582979202,
+        "onset_rate": 3.13339471817,
+        "acoustic_length_seconds": 337.632659912
+    },
+    {
+        "recording_mbid": "26137601-fdf2-4a89-94c0-a50bde4a6847",
+        "bpm": 150.895065308,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.12812399864,
+        "average_loudness": 0.662446081638,
+        "dynamic_complexity": 6.48824357986,
+        "onset_rate": 4.88154554367,
+        "acoustic_length_seconds": 102
+    },
+    {
+        "recording_mbid": "27117064-7212-4d61-9caf-4260c6a97d78",
+        "bpm": 99.6516342163,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.37632036209,
+        "average_loudness": 0.890879869461,
+        "dynamic_complexity": 4.67276287079,
+        "onset_rate": 3.1380147934,
+        "acoustic_length_seconds": 245.999984741
+    },
+    {
+        "recording_mbid": "27495747-89db-4a93-9b2b-c4e2dc013139",
+        "bpm": 128.062759399,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.66514778137,
+        "average_loudness": 0.962340891361,
+        "dynamic_complexity": 2.51209568977,
+        "onset_rate": 5.17913246155,
+        "acoustic_length_seconds": 424.56817627
+    },
+    {
+        "recording_mbid": "27543a45-21f8-46e7-b4db-bf73097fbe1c",
+        "bpm": 153.62663269,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.25672101974,
+        "average_loudness": 0.392436116934,
+        "dynamic_complexity": 6.40929508209,
+        "onset_rate": 3.61938166618,
+        "acoustic_length_seconds": 165.199188232
+    },
+    {
+        "recording_mbid": "275b9692-aa4d-44fd-aded-4ba9d0d067b4",
+        "bpm": 145.143798828,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.09691202641,
+        "average_loudness": 0.739205598831,
+        "dynamic_complexity": 4.05557060242,
+        "onset_rate": 3.10001301765,
+        "acoustic_length_seconds": 328.045715332
+    },
+    {
+        "recording_mbid": "2761a1dc-fa54-48c6-97f8-d3590f67c6b4",
+        "bpm": 172.265319824,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.1814801693,
+        "average_loudness": 0.929110586643,
+        "dynamic_complexity": 2.40443134308,
+        "onset_rate": 3.69321656227,
+        "acoustic_length_seconds": 165.69468689
+    },
+    {
+        "recording_mbid": "28f812a7-5101-4f39-963b-f0949d46d042",
+        "bpm": 123.842247009,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.61695289612,
+        "average_loudness": 0.911305367947,
+        "dynamic_complexity": 4.88621902466,
+        "onset_rate": 5.2100353241,
+        "acoustic_length_seconds": 269.079986572
+    },
+    {
+        "recording_mbid": "2a818ae0-10e8-4a21-b435-c457b65df573",
+        "bpm": 119.976402283,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.32745802402,
+        "average_loudness": 0.759713053703,
+        "dynamic_complexity": 5.35113096237,
+        "onset_rate": 5.01316928864,
+        "acoustic_length_seconds": 463.159362793
+    },
+    {
         "recording_mbid": "2aada037-6cb6-4c3f-8f9f-2e917c07e096",
         "bpm": 161.715988159,
         "key": "A#",
@@ -174,6 +988,61 @@
         "dynamic_complexity": 3.5723259449,
         "onset_rate": 4.44343233109,
         "acoustic_length_seconds": 217.826660156
+    },
+    {
+        "recording_mbid": "2afcec1f-4df4-43d0-a819-d2e9b12f1bef",
+        "bpm": 137.962814331,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.29353141785,
+        "average_loudness": 0.321360290051,
+        "dynamic_complexity": 6.45923089981,
+        "onset_rate": 6.41161823273,
+        "acoustic_length_seconds": 273.554290771
+    },
+    {
+        "recording_mbid": "2bb96678-caf6-4a4a-83e1-5c4a99a52cf5",
+        "bpm": 123.703132629,
+        "key": "D",
+        "scale": "major",
+        "danceability": 0.961071848869,
+        "average_loudness": 0.161901190877,
+        "dynamic_complexity": 5.74488639832,
+        "onset_rate": 2.51763415337,
+        "acoustic_length_seconds": 114.374237061
+    },
+    {
+        "recording_mbid": "2c70d765-0f1b-45d4-a369-770d827518c6",
+        "bpm": 151.097991943,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.01262462139,
+        "average_loudness": 0.532742679119,
+        "dynamic_complexity": 7.06148719788,
+        "onset_rate": 2.88026762009,
+        "acoustic_length_seconds": 788.453857422
+    },
+    {
+        "recording_mbid": "2cbaec05-3b56-4639-8188-5ee96b1e6c96",
+        "bpm": 108.94593811,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.23782360554,
+        "average_loudness": 0.846856534481,
+        "dynamic_complexity": 3.32691550255,
+        "onset_rate": 4.87429237366,
+        "acoustic_length_seconds": 196.937149048
+    },
+    {
+        "recording_mbid": "2cced4a3-ec38-4447-a60c-2b015956f087",
+        "bpm": 150.125732422,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.18188500404,
+        "average_loudness": 0.919132113457,
+        "dynamic_complexity": 3.04838466644,
+        "onset_rate": 3.47546601295,
+        "acoustic_length_seconds": 204.277557373
     },
     {
         "recording_mbid": "2d64f1e7-f078-4df6-87ab-8d0a540980ac",
@@ -198,6 +1067,39 @@
         "acoustic_length_seconds": 225.326446533
     },
     {
+        "recording_mbid": "2db88dcf-1258-457d-b05b-f93be8ce0348",
+        "bpm": 107.775093079,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.40474939346,
+        "average_loudness": 0.81097561121,
+        "dynamic_complexity": 6.1491112709,
+        "onset_rate": 3.82324910164,
+        "acoustic_length_seconds": 214.204086304
+    },
+    {
+        "recording_mbid": "2e5a54fd-f24d-40d8-858b-5f06d09ec1b2",
+        "bpm": 139.988189697,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.29972445965,
+        "average_loudness": 0.92451107502,
+        "dynamic_complexity": 2.04077792168,
+        "onset_rate": 4.06328296661,
+        "acoustic_length_seconds": 227.631027222
+    },
+    {
+        "recording_mbid": "2f5ee0bc-99d7-4570-9078-274322a68758",
+        "bpm": 90.9290618896,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 0.94542580843,
+        "average_loudness": 0.724802076817,
+        "dynamic_complexity": 6.39471530914,
+        "onset_rate": 2.17731380463,
+        "acoustic_length_seconds": 69.7991867065
+    },
+    {
         "recording_mbid": "303107f3-8bf0-4850-a0db-6b906954475f",
         "bpm": 140.809509277,
         "key": "A#",
@@ -207,6 +1109,17 @@
         "dynamic_complexity": 3.78197264671,
         "onset_rate": 4.48695230484,
         "acoustic_length_seconds": 191.869384766
+    },
+    {
+        "recording_mbid": "30355bea-0f3b-4758-af70-28c7a125e975",
+        "bpm": 139.943145752,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 1.50702595711,
+        "average_loudness": 0.923049032688,
+        "dynamic_complexity": 3.32501649857,
+        "onset_rate": 3.11504101753,
+        "acoustic_length_seconds": 440.111022949
     },
     {
         "recording_mbid": "3133bb8f-e3ae-4cf4-a647-012475d4e151",
@@ -220,6 +1133,28 @@
         "acoustic_length_seconds": 313.909393311
     },
     {
+        "recording_mbid": "32f7093f-b29c-4626-aceb-2270e1db9d77",
+        "bpm": 101.873321533,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.04930746555,
+        "average_loudness": 0.952853441238,
+        "dynamic_complexity": 1.52810025215,
+        "onset_rate": 3.28807806969,
+        "acoustic_length_seconds": 323.578765869
+    },
+    {
+        "recording_mbid": "3313bbdc-98e4-4a92-9a9a-d31dc49bc0e6",
+        "bpm": 91.969291687,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.48666894436,
+        "average_loudness": 0.924174904823,
+        "dynamic_complexity": 3.75910401344,
+        "onset_rate": 4.58757066727,
+        "acoustic_length_seconds": 192.024169922
+    },
+    {
         "recording_mbid": "346c5920-4b36-4472-9447-139d2c9e4560",
         "bpm": 139.684432983,
         "key": "B",
@@ -231,6 +1166,28 @@
         "acoustic_length_seconds": 196.138473511
     },
     {
+        "recording_mbid": "35092a8c-1add-4e9a-9b0f-687b937bf19e",
+        "bpm": 108.115951538,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.05187594891,
+        "average_loudness": 0.882253408432,
+        "dynamic_complexity": 3.41886401176,
+        "onset_rate": 2.97127914429,
+        "acoustic_length_seconds": 174.994293213
+    },
+    {
+        "recording_mbid": "35fcf9a4-32eb-40ca-b14a-942def251971",
+        "bpm": 123.008270264,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.47242581844,
+        "average_loudness": 0.910694360733,
+        "dynamic_complexity": 4.47897720337,
+        "onset_rate": 5.07111597061,
+        "acoustic_length_seconds": 288.879455566
+    },
+    {
         "recording_mbid": "363b2590-63b0-4ea4-894a-a89f4db3207e",
         "bpm": 140.014785767,
         "key": "A#",
@@ -240,6 +1197,94 @@
         "dynamic_complexity": 3.19468283653,
         "onset_rate": 5.02436733246,
         "acoustic_length_seconds": 176.720245361
+    },
+    {
+        "recording_mbid": "3654b14e-9153-424a-8048-0256705b19e3",
+        "bpm": 144.352020264,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 0.874873936176,
+        "average_loudness": 0.58382165432,
+        "dynamic_complexity": 5.3811545372,
+        "onset_rate": 3.75529265404,
+        "acoustic_length_seconds": 163.214126587
+    },
+    {
+        "recording_mbid": "36850339-c4aa-4e77-9955-f8afe37f245a",
+        "bpm": 123.546028137,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.22189044952,
+        "average_loudness": 0.900249481201,
+        "dynamic_complexity": 5.19362211227,
+        "onset_rate": 2.94711303711,
+        "acoustic_length_seconds": 334.550201416
+    },
+    {
+        "recording_mbid": "3791b5b6-e3eb-4aa1-b59c-c9af2543f20f",
+        "bpm": 129.810043335,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 2.05911278725,
+        "average_loudness": 0.958154499531,
+        "dynamic_complexity": 3.03245806694,
+        "onset_rate": 3.53362798691,
+        "acoustic_length_seconds": 198.36807251
+    },
+    {
+        "recording_mbid": "37d1b653-43ca-49e7-91ee-0e6cfbacd0bc",
+        "bpm": 117.968475342,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.57482850552,
+        "average_loudness": 0.9597453475,
+        "dynamic_complexity": 3.15274977684,
+        "onset_rate": 3.98011064529,
+        "acoustic_length_seconds": 236.408157349
+    },
+    {
+        "recording_mbid": "37f7d838-69ad-4b05-afc4-ebd58b2fa961",
+        "bpm": 90.2258834839,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.51979184151,
+        "average_loudness": 0.845065832138,
+        "dynamic_complexity": 5.0225777626,
+        "onset_rate": 3.69897890091,
+        "acoustic_length_seconds": 258.429382324
+    },
+    {
+        "recording_mbid": "3803320a-5869-4056-8380-a59f34a264e8",
+        "bpm": 153.200164795,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.09493744373,
+        "average_loudness": 0.524231851101,
+        "dynamic_complexity": 4.6230711937,
+        "onset_rate": 3.44492006302,
+        "acoustic_length_seconds": 203.759994507
+    },
+    {
+        "recording_mbid": "38523c69-718a-40ef-872c-422c86fc74ac",
+        "bpm": 122.888587952,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.40650093555,
+        "average_loudness": 0.891314208508,
+        "dynamic_complexity": 3.2740380764,
+        "onset_rate": 5.18317651749,
+        "acoustic_length_seconds": 480
+    },
+    {
+        "recording_mbid": "39241a4c-2c13-4d97-a860-f11637ed4482",
+        "bpm": 148.300643921,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.04739975929,
+        "average_loudness": 0.266663253307,
+        "dynamic_complexity": 8.60636615753,
+        "onset_rate": 2.88360142708,
+        "acoustic_length_seconds": 194.536773682
     },
     {
         "recording_mbid": "395c3c94-adc1-4c3c-81d5-2ba64051ba7e",
@@ -264,6 +1309,83 @@
         "acoustic_length_seconds": 209.115692139
     },
     {
+        "recording_mbid": "39b23085-9ec4-4b8d-a5c2-1f6abaa18f03",
+        "bpm": 178.206420898,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.01087129116,
+        "average_loudness": 0.118742763996,
+        "dynamic_complexity": 5.14051961899,
+        "onset_rate": 3.66713643074,
+        "acoustic_length_seconds": 568.006530762
+    },
+    {
+        "recording_mbid": "39d615b2-b8b6-42d8-b464-7ac3778be2d2",
+        "bpm": 128.019393921,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.4472373724,
+        "average_loudness": 0.905090093613,
+        "dynamic_complexity": 3.81257247925,
+        "onset_rate": 4.99968242645,
+        "acoustic_length_seconds": 237.199996948
+    },
+    {
+        "recording_mbid": "3a18ef70-f281-4c82-ab29-f8a60e70b787",
+        "bpm": 130.044113159,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.39327895641,
+        "average_loudness": 0.853399634361,
+        "dynamic_complexity": 5.09183168411,
+        "onset_rate": 3.99613332748,
+        "acoustic_length_seconds": 219.951019287
+    },
+    {
+        "recording_mbid": "3af750fa-7818-46bd-92c6-4a624aa9c610",
+        "bpm": 85.3432540894,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 0.977719604969,
+        "average_loudness": 0.764925301075,
+        "dynamic_complexity": 5.571600914,
+        "onset_rate": 2.34375,
+        "acoustic_length_seconds": 397.635925293
+    },
+    {
+        "recording_mbid": "3cafa807-62d6-4a07-aaa1-1b6ff0be9f7e",
+        "bpm": 80.1562805176,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.27269744873,
+        "average_loudness": 0.904950261116,
+        "dynamic_complexity": 4.91459560394,
+        "onset_rate": 4.53493404388,
+        "acoustic_length_seconds": 161.613327026
+    },
+    {
+        "recording_mbid": "3cbaa784-ef76-48a1-b795-ea6245a58b19",
+        "bpm": 89.9254302979,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.10632932186,
+        "average_loudness": 0.707987606525,
+        "dynamic_complexity": 3.60868835449,
+        "onset_rate": 2.68627333641,
+        "acoustic_length_seconds": 284.760803223
+    },
+    {
+        "recording_mbid": "3d188943-edbf-4541-adda-442cd3e13b68",
+        "bpm": 136.358673096,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.28095221519,
+        "average_loudness": 0.671900033951,
+        "dynamic_complexity": 2.65148663521,
+        "onset_rate": 4.0029540062,
+        "acoustic_length_seconds": 966.766784668
+    },
+    {
         "recording_mbid": "3d381f93-3cb5-4875-870f-647d7ee93fd5",
         "bpm": 152.782653809,
         "key": "A",
@@ -273,6 +1395,94 @@
         "dynamic_complexity": 5.22204971313,
         "onset_rate": 3.89577102661,
         "acoustic_length_seconds": 253.586669922
+    },
+    {
+        "recording_mbid": "3d8b3457-ce65-47f4-98b6-f801c269f893",
+        "bpm": 99.8352584839,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 0.938714504242,
+        "average_loudness": 0.855062544346,
+        "dynamic_complexity": 3.85272216797,
+        "onset_rate": 2.25514793396,
+        "acoustic_length_seconds": 361.377960205
+    },
+    {
+        "recording_mbid": "3d8e877d-df55-4e18-a086-9b38fe4d7599",
+        "bpm": 132.553848267,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.12176501751,
+        "average_loudness": 0.869009673595,
+        "dynamic_complexity": 2.15639662743,
+        "onset_rate": 1.77405118942,
+        "acoustic_length_seconds": 476.291687012
+    },
+    {
+        "recording_mbid": "3db3658e-1d89-4e3c-90cf-19d47849d7a8",
+        "bpm": 89.9811401367,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.42053127289,
+        "average_loudness": 0.890141665936,
+        "dynamic_complexity": 4.25228118896,
+        "onset_rate": 3.89928650856,
+        "acoustic_length_seconds": 197.967773438
+    },
+    {
+        "recording_mbid": "3dc38d9d-6730-4185-92f5-6cf5a6ff6852",
+        "bpm": 139.027908325,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.3545473814,
+        "average_loudness": 0.899695038795,
+        "dynamic_complexity": 5.48662996292,
+        "onset_rate": 4.40423202515,
+        "acoustic_length_seconds": 217.733337402
+    },
+    {
+        "recording_mbid": "3e2fce7c-ec71-4cc9-99f2-7c508b8022c8",
+        "bpm": 129.844161987,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.32290780544,
+        "average_loudness": 0.419648736715,
+        "dynamic_complexity": 5.92598676682,
+        "onset_rate": 4.92788743973,
+        "acoustic_length_seconds": 228.066665649
+    },
+    {
+        "recording_mbid": "3f04a21d-09ba-4c36-b3eb-c5b4b1b6d479",
+        "bpm": 118.055458069,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.11946952343,
+        "average_loudness": 0.528282642365,
+        "dynamic_complexity": 5.00106430054,
+        "onset_rate": 3.22077608109,
+        "acoustic_length_seconds": 468.506652832
+    },
+    {
+        "recording_mbid": "3f3e16d7-9c3a-4f70-ba64-20f4052b3dfd",
+        "bpm": 128.234939575,
+        "key": "F",
+        "scale": "major",
+        "danceability": 0.988874077797,
+        "average_loudness": 0.8078738451,
+        "dynamic_complexity": 5.98920869827,
+        "onset_rate": 3.92300701141,
+        "acoustic_length_seconds": 219.199996948
+    },
+    {
+        "recording_mbid": "3f84190a-7920-4781-8b6b-39e6e0b4fbc9",
+        "bpm": 123.717323303,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.77103042603,
+        "average_loudness": 0.938283264637,
+        "dynamic_complexity": 2.34388399124,
+        "onset_rate": 5.48245239258,
+        "acoustic_length_seconds": 221.231018066
     },
     {
         "recording_mbid": "407427a6-ecdb-47e5-8e40-6b1536f47593",
@@ -297,6 +1507,28 @@
         "acoustic_length_seconds": 197.653335571
     },
     {
+        "recording_mbid": "423e5b04-5aaa-4e5c-b34e-7958933394b9",
+        "bpm": 97.0886688232,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.01772153378,
+        "average_loudness": 0.80785369873,
+        "dynamic_complexity": 7.62694597244,
+        "onset_rate": 3.15131163597,
+        "acoustic_length_seconds": 219.57333374
+    },
+    {
+        "recording_mbid": "4245513e-e09f-4482-a28f-359c7f04d79c",
+        "bpm": 103.852027893,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 1.21665668488,
+        "average_loudness": 0.879121243954,
+        "dynamic_complexity": 3.8770942688,
+        "onset_rate": 2.92790937424,
+        "acoustic_length_seconds": 286.876739502
+    },
+    {
         "recording_mbid": "429d43af-d132-48b3-8370-9ba7491d3e5a",
         "bpm": 120.972808838,
         "key": "A#",
@@ -306,6 +1538,39 @@
         "dynamic_complexity": 2.88093280792,
         "onset_rate": 2.64074897766,
         "acoustic_length_seconds": 306.335998535
+    },
+    {
+        "recording_mbid": "42ab2cdb-8ff2-4f74-9bcd-d8a33f3dcca9",
+        "bpm": 98.7677764893,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 0.999975919724,
+        "average_loudness": 0.249374166131,
+        "dynamic_complexity": 5.43260240555,
+        "onset_rate": 3.71272706985,
+        "acoustic_length_seconds": 489.116729736
+    },
+    {
+        "recording_mbid": "43134d25-f4a4-4f78-906a-b63b324d2110",
+        "bpm": 97.2123794556,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.25464761257,
+        "average_loudness": 0.261641681194,
+        "dynamic_complexity": 6.82783555984,
+        "onset_rate": 3.8065032959,
+        "acoustic_length_seconds": 538.533325195
+    },
+    {
+        "recording_mbid": "432c28c6-6b24-4c4a-86e6-725f10f45dfe",
+        "bpm": 143.87310791,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.20339488983,
+        "average_loudness": 0.939195990562,
+        "dynamic_complexity": 2.94364309311,
+        "onset_rate": 2.41509127617,
+        "acoustic_length_seconds": 183.823669434
     },
     {
         "recording_mbid": "43978c50-6080-4f45-b3d2-27243367207c",
@@ -330,6 +1595,17 @@
         "acoustic_length_seconds": 251.820404053
     },
     {
+        "recording_mbid": "485eb81b-0a4f-462a-9b21-2926ee86af3f",
+        "bpm": 119.021835327,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.19652736187,
+        "average_loudness": 0.906230449677,
+        "dynamic_complexity": 2.78366303444,
+        "onset_rate": 3.50876092911,
+        "acoustic_length_seconds": 261.616333008
+    },
+    {
         "recording_mbid": "48870e85-ba5d-4b24-93d8-c43ebcdd5e34",
         "bpm": 151.275848389,
         "key": "A#",
@@ -352,6 +1628,39 @@
         "acoustic_length_seconds": 149.562469482
     },
     {
+        "recording_mbid": "4a8fbabf-2396-4865-9387-494d080f2270",
+        "bpm": 128.957473755,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.02453231812,
+        "average_loudness": 0.650515317917,
+        "dynamic_complexity": 6.84021615982,
+        "onset_rate": 3.62889790535,
+        "acoustic_length_seconds": 200.87437439
+    },
+    {
+        "recording_mbid": "4a920541-2ebe-49e8-87bd-7495814250e0",
+        "bpm": 161.540618896,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.14086914063,
+        "average_loudness": 0.863854050636,
+        "dynamic_complexity": 2.84205651283,
+        "onset_rate": 4.20126247406,
+        "acoustic_length_seconds": 216.346115112
+    },
+    {
+        "recording_mbid": "4ad22c75-b114-4778-9e69-d0050934c12d",
+        "bpm": 124.278251648,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 2.1836373806,
+        "average_loudness": 0.958393454552,
+        "dynamic_complexity": 3.28616285324,
+        "onset_rate": 5.58443975449,
+        "acoustic_length_seconds": 247.63999939
+    },
+    {
         "recording_mbid": "4b0fb3fb-7fc6-4b44-bcff-388a094987d7",
         "bpm": 90.4782104492,
         "key": "G",
@@ -361,6 +1670,50 @@
         "dynamic_complexity": 5.29486608505,
         "onset_rate": 2.75334906578,
         "acoustic_length_seconds": 223.348236084
+    },
+    {
+        "recording_mbid": "4b5fe167-b803-4d9c-98fc-1863a7808a25",
+        "bpm": 127.882965088,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.57787001133,
+        "average_loudness": 0.977600574493,
+        "dynamic_complexity": 1.3377494812,
+        "onset_rate": 2.23945307732,
+        "acoustic_length_seconds": 17.3975505829
+    },
+    {
+        "recording_mbid": "4c790a7d-4c9b-482b-9bc1-c27048c122f6",
+        "bpm": 109.872627258,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.3014575243,
+        "average_loudness": 0.863055586815,
+        "dynamic_complexity": 4.79056930542,
+        "onset_rate": 3.90259599686,
+        "acoustic_length_seconds": 210.36000061
+    },
+    {
+        "recording_mbid": "4dd37c20-e6ba-4ba3-8c27-7dbae2078ea0",
+        "bpm": 146.316757202,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 0.973946511745,
+        "average_loudness": 0.378574043512,
+        "dynamic_complexity": 5.56136322021,
+        "onset_rate": 2.21270084381,
+        "acoustic_length_seconds": 239.96081543
+    },
+    {
+        "recording_mbid": "4e80e55f-2a76-47a2-89ee-b7dfd8d6f0be",
+        "bpm": 129.873321533,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.40410232544,
+        "average_loudness": 0.944730877876,
+        "dynamic_complexity": 2.07523441315,
+        "onset_rate": 4.77225160599,
+        "acoustic_length_seconds": 236.773880005
     },
     {
         "recording_mbid": "501e60bf-7a86-4ace-a37e-dc2749e9f073",
@@ -374,6 +1727,28 @@
         "acoustic_length_seconds": 156.880004883
     },
     {
+        "recording_mbid": "51173793-df67-4171-947f-8379c556514a",
+        "bpm": 80.9089584351,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.78460502625,
+        "average_loudness": 0.950887680054,
+        "dynamic_complexity": 3.49958872795,
+        "onset_rate": 4.60464954376,
+        "acoustic_length_seconds": 193.266662598
+    },
+    {
+        "recording_mbid": "511f05a3-8d6a-49cb-bb24-efc4d9556f50",
+        "bpm": 122.913879395,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.05749881268,
+        "average_loudness": 0.963358938694,
+        "dynamic_complexity": 2.47054123878,
+        "onset_rate": 5.89319944382,
+        "acoustic_length_seconds": 160.67918396
+    },
+    {
         "recording_mbid": "51ff9de3-58a1-453c-85b1-59165c3d03ce",
         "bpm": 67.4963150024,
         "key": "C",
@@ -383,6 +1758,182 @@
         "dynamic_complexity": 3.82985639572,
         "onset_rate": 3.30133295059,
         "acoustic_length_seconds": 231.399993896
+    },
+    {
+        "recording_mbid": "524bb708-7171-468a-a3c2-ff3f7aac7407",
+        "bpm": 110.963249207,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.36865055561,
+        "average_loudness": 0.896409511566,
+        "dynamic_complexity": 3.36408734322,
+        "onset_rate": 5.12853717804,
+        "acoustic_length_seconds": 413.359985352
+    },
+    {
+        "recording_mbid": "5349fef5-03c2-4f20-88f9-3654681cea9e",
+        "bpm": 115.833274841,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.17427933216,
+        "average_loudness": 0.976898431778,
+        "dynamic_complexity": 1.58196890354,
+        "onset_rate": 3.82042312622,
+        "acoustic_length_seconds": 251
+    },
+    {
+        "recording_mbid": "5354f80a-9e4b-4641-a049-323c366464a2",
+        "bpm": 128.131851196,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.15511775017,
+        "average_loudness": 0.640457928181,
+        "dynamic_complexity": 3.40355682373,
+        "onset_rate": 3.12798094749,
+        "acoustic_length_seconds": 330.866943359
+    },
+    {
+        "recording_mbid": "5488dfea-8a29-4ae4-a986-1f6dbefd1289",
+        "bpm": 129.782669067,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 2.07303833961,
+        "average_loudness": 0.976226806641,
+        "dynamic_complexity": 2.71777272224,
+        "onset_rate": 4.19026041031,
+        "acoustic_length_seconds": 357
+    },
+    {
+        "recording_mbid": "54c3251e-04f8-4b65-97e0-3831c9ecf6d0",
+        "bpm": 134.506088257,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.46973121166,
+        "average_loudness": 0.917579770088,
+        "dynamic_complexity": 3.60932731628,
+        "onset_rate": 4.43795776367,
+        "acoustic_length_seconds": 197.600006104
+    },
+    {
+        "recording_mbid": "54c4c5fc-f0dd-469d-a2a3-3e62a40737b9",
+        "bpm": 133.455581665,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 0.912441551685,
+        "average_loudness": 0.113880783319,
+        "dynamic_complexity": 7.37872457504,
+        "onset_rate": 2.89989972115,
+        "acoustic_length_seconds": 224.470199585
+    },
+    {
+        "recording_mbid": "54f6a421-470e-4b22-b2d6-9b688eac8313",
+        "bpm": 81.2327423096,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.44382655621,
+        "average_loudness": 0.965395689011,
+        "dynamic_complexity": 5.38392782211,
+        "onset_rate": 4.48045110703,
+        "acoustic_length_seconds": 12.9333333969
+    },
+    {
+        "recording_mbid": "558c92f6-0ca8-4e0a-9142-576637be556d",
+        "bpm": 126.011932373,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.25935220718,
+        "average_loudness": 0.829482793808,
+        "dynamic_complexity": 5.35611391068,
+        "onset_rate": 5.32230901718,
+        "acoustic_length_seconds": 300.225311279
+    },
+    {
+        "recording_mbid": "562acc33-b516-4375-a1bd-c3f9f91f9b45",
+        "bpm": 86.4968109131,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.14357876778,
+        "average_loudness": 0.86053699255,
+        "dynamic_complexity": 3.69459724426,
+        "onset_rate": 4.60216140747,
+        "acoustic_length_seconds": 343.954284668
+    },
+    {
+        "recording_mbid": "5698f2d1-0083-4cce-977a-6883e9364a29",
+        "bpm": 146.084121704,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.28576803207,
+        "average_loudness": 0.0955127999187,
+        "dynamic_complexity": 10.2327308655,
+        "onset_rate": 4.48362588882,
+        "acoustic_length_seconds": 29.6518821716
+    },
+    {
+        "recording_mbid": "57395f06-51e4-4288-a108-38e247c7ba3a",
+        "bpm": 172.265213013,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.1506510973,
+        "average_loudness": 0.934838831425,
+        "dynamic_complexity": 1.98692774773,
+        "onset_rate": 3.18536734581,
+        "acoustic_length_seconds": 500.401641846
+    },
+    {
+        "recording_mbid": "57e2f806-d8d4-4f53-8748-668bd2443142",
+        "bpm": 125.891708374,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.20714604855,
+        "average_loudness": 0.832122087479,
+        "dynamic_complexity": 3.96073150635,
+        "onset_rate": 6.2939209938,
+        "acoustic_length_seconds": 394.01940918
+    },
+    {
+        "recording_mbid": "57eb5693-967c-43a9-beb9-c88797adc958",
+        "bpm": 88.0731048584,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.01160097122,
+        "average_loudness": 0.226625919342,
+        "dynamic_complexity": 7.71228551865,
+        "onset_rate": 3.48040699959,
+        "acoustic_length_seconds": 172.094696045
+    },
+    {
+        "recording_mbid": "586ddb4f-37d1-4bc7-b922-c2f07c1d3de0",
+        "bpm": 104.036590576,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.34063160419,
+        "average_loudness": 0.889430463314,
+        "dynamic_complexity": 3.75850820541,
+        "onset_rate": 4.02196884155,
+        "acoustic_length_seconds": 229.720809937
+    },
+    {
+        "recording_mbid": "58e889f9-79c0-4bcb-810d-17df6b6d462a",
+        "bpm": 104.262702942,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.2290725708,
+        "average_loudness": 0.886845707893,
+        "dynamic_complexity": 3.57973647118,
+        "onset_rate": 2.66477942467,
+        "acoustic_length_seconds": 246.533340454
+    },
+    {
+        "recording_mbid": "5920d4fa-8d18-4370-a001-a3efbb1e50ec",
+        "bpm": 94.0780410767,
+        "key": "D",
+        "scale": "major",
+        "danceability": 0.929728031158,
+        "average_loudness": 0.891483187675,
+        "dynamic_complexity": 4.94762468338,
+        "onset_rate": 3.06904292107,
+        "acoustic_length_seconds": 80.1333312988
     },
     {
         "recording_mbid": "59c7fa9c-e68d-48e3-80f7-f7d6d6ed836b",
@@ -396,6 +1947,61 @@
         "acoustic_length_seconds": 201.181427002
     },
     {
+        "recording_mbid": "59cd28d4-79f9-4d44-a2b7-340cb82df5c9",
+        "bpm": 98.0033721924,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.08911669254,
+        "average_loudness": 0.921222448349,
+        "dynamic_complexity": 3.20487880707,
+        "onset_rate": 2.44533610344,
+        "acoustic_length_seconds": 168.469970703
+    },
+    {
+        "recording_mbid": "5a7aaf6a-df18-4a10-aa7d-de94a038eaf3",
+        "bpm": 124.136299133,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.17983651161,
+        "average_loudness": 0.778024852276,
+        "dynamic_complexity": 3.29817223549,
+        "onset_rate": 3.75596451759,
+        "acoustic_length_seconds": 251.58531189
+    },
+    {
+        "recording_mbid": "5a8e2d5a-2067-4591-a3c0-f5df83357d32",
+        "bpm": 178.205780029,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 0.845719754696,
+        "average_loudness": 0.00870254915208,
+        "dynamic_complexity": 17.1189022064,
+        "onset_rate": 1.44221401215,
+        "acoustic_length_seconds": 94.9799804688
+    },
+    {
+        "recording_mbid": "5ad7ab00-e866-4593-b8f4-8e8a510227ed",
+        "bpm": 121.057983398,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.35316109657,
+        "average_loudness": 0.92889881134,
+        "dynamic_complexity": 3.18399190903,
+        "onset_rate": 4.57729816437,
+        "acoustic_length_seconds": 251.219589233
+    },
+    {
+        "recording_mbid": "5bda2d14-0b40-42af-956f-4cd9603ee59e",
+        "bpm": 136.017471313,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.52800798416,
+        "average_loudness": 0.9652364254,
+        "dynamic_complexity": 3.38996863365,
+        "onset_rate": 4.72217845917,
+        "acoustic_length_seconds": 292.858764648
+    },
+    {
         "recording_mbid": "5bf0b612-fda8-4ba2-bab1-fdd26786568c",
         "bpm": 124.017669678,
         "key": "A",
@@ -405,6 +2011,171 @@
         "dynamic_complexity": 4.95017957687,
         "onset_rate": 3.69395279884,
         "acoustic_length_seconds": 263.653869629
+    },
+    {
+        "recording_mbid": "5de3b638-d965-4225-8ad9-0e60083907ca",
+        "bpm": 101.915855408,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 0.978866398335,
+        "average_loudness": 0.114811420441,
+        "dynamic_complexity": 8.50716590881,
+        "onset_rate": 2.90529370308,
+        "acoustic_length_seconds": 98.4199752808
+    },
+    {
+        "recording_mbid": "5dec5b16-bca7-4c9a-bf27-e6cfb3f5bf0e",
+        "bpm": 136.916412354,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.07432663441,
+        "average_loudness": 0.841039478779,
+        "dynamic_complexity": 3.34019136429,
+        "onset_rate": 3.24049568176,
+        "acoustic_length_seconds": 506.383666992
+    },
+    {
+        "recording_mbid": "5e043bc8-cfa3-469b-bc7b-52391a06b642",
+        "bpm": 123.457008362,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.54261064529,
+        "average_loudness": 0.873720109463,
+        "dynamic_complexity": 4.00146818161,
+        "onset_rate": 4.65413427353,
+        "acoustic_length_seconds": 574.525146484
+    },
+    {
+        "recording_mbid": "5f581191-248b-495b-bbc3-09a292eaa9cb",
+        "bpm": 128.021820068,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.5484855175,
+        "average_loudness": 0.922185182571,
+        "dynamic_complexity": 4.07179069519,
+        "onset_rate": 4.17674541473,
+        "acoustic_length_seconds": 348.34576416
+    },
+    {
+        "recording_mbid": "5f8c0bde-2915-4c46-8ad4-34ae4286ed7c",
+        "bpm": 172.265350342,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.13707792759,
+        "average_loudness": 0.853245854378,
+        "dynamic_complexity": 4.09990119934,
+        "onset_rate": 4.47233247757,
+        "acoustic_length_seconds": 185.573883057
+    },
+    {
+        "recording_mbid": "5fa0fa2a-8a9e-4342-beac-d9e107d7875c",
+        "bpm": 107.57006073,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 0.974481105804,
+        "average_loudness": 0.246894553304,
+        "dynamic_complexity": 5.9578166008,
+        "onset_rate": 2.96397900581,
+        "acoustic_length_seconds": 191.622543335
+    },
+    {
+        "recording_mbid": "617c65c2-6d65-40a0-bb91-731722e265d5",
+        "bpm": 117.099845886,
+        "key": "F",
+        "scale": "major",
+        "danceability": 0.919283211231,
+        "average_loudness": 0.0245260074735,
+        "dynamic_complexity": 8.29603290558,
+        "onset_rate": 2.88490486145,
+        "acoustic_length_seconds": 711.960021973
+    },
+    {
+        "recording_mbid": "61cbb33b-16cc-4585-899a-51f11c836fd7",
+        "bpm": 128.95664978,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.32984888554,
+        "average_loudness": 0.943489015102,
+        "dynamic_complexity": 3.51524043083,
+        "onset_rate": 5.30701065063,
+        "acoustic_length_seconds": 322.760009766
+    },
+    {
+        "recording_mbid": "61cd25db-9fed-4f56-bc09-e6ced9677953",
+        "bpm": 122.109695435,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.21361792088,
+        "average_loudness": 0.923234045506,
+        "dynamic_complexity": 2.58546543121,
+        "onset_rate": 3.6789586544,
+        "acoustic_length_seconds": 247.875915527
+    },
+    {
+        "recording_mbid": "62aee525-a7a2-4cfb-aa19-fc40613a4bdd",
+        "bpm": 122.150222778,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.13328588009,
+        "average_loudness": 0.88262462616,
+        "dynamic_complexity": 3.70044946671,
+        "onset_rate": 3.953748703,
+        "acoustic_length_seconds": 264.799987793
+    },
+    {
+        "recording_mbid": "63bd9785-fa2b-41af-baeb-0f1bfdcb2f07",
+        "bpm": 128.116043091,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.15010070801,
+        "average_loudness": 0.820266664028,
+        "dynamic_complexity": 7.16760587692,
+        "onset_rate": 5.49755954742,
+        "acoustic_length_seconds": 304.661529541
+    },
+    {
+        "recording_mbid": "640cf27f-d8a5-47ac-a2ed-b14dac7c488a",
+        "bpm": 126.877243042,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.24867391586,
+        "average_loudness": 0.847123384476,
+        "dynamic_complexity": 2.41635727882,
+        "onset_rate": 3.62147378922,
+        "acoustic_length_seconds": 175.046524048
+    },
+    {
+        "recording_mbid": "646866aa-9f9a-4787-88d0-a614905c80c6",
+        "bpm": 100.420524597,
+        "key": "B",
+        "scale": "major",
+        "danceability": 0.925801813602,
+        "average_loudness": 0.708461761475,
+        "dynamic_complexity": 5.21046495438,
+        "onset_rate": 2.07321882248,
+        "acoustic_length_seconds": 185.688690186
+    },
+    {
+        "recording_mbid": "65352951-b869-460c-ab06-4a254445260d",
+        "bpm": 102.571594238,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.27300429344,
+        "average_loudness": 0.596615374088,
+        "dynamic_complexity": 3.82184815407,
+        "onset_rate": 4.72798156738,
+        "acoustic_length_seconds": 263.314300537
+    },
+    {
+        "recording_mbid": "663009ae-00ee-4e3c-91d7-b1e7bb7b75cc",
+        "bpm": 129.997375488,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.49334740639,
+        "average_loudness": 0.934673428535,
+        "dynamic_complexity": 3.12782359123,
+        "onset_rate": 5.35225486755,
+        "acoustic_length_seconds": 446.893341064
     },
     {
         "recording_mbid": "66e5d28f-cad5-4f9f-a48e-f2d6d57fd21d",
@@ -418,6 +2189,83 @@
         "acoustic_length_seconds": 208.399993896
     },
     {
+        "recording_mbid": "670b0d3f-d0ab-4fc1-a08e-08fd70debe25",
+        "bpm": 132.255218506,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 0.849959373474,
+        "average_loudness": 0.575138390064,
+        "dynamic_complexity": 6.40236473083,
+        "onset_rate": 2.81213498116,
+        "acoustic_length_seconds": 100.623672485
+    },
+    {
+        "recording_mbid": "67c538cc-3d93-4b2d-9b31-d2acc490928a",
+        "bpm": 119.412406921,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.00662016869,
+        "average_loudness": 0.668249607086,
+        "dynamic_complexity": 4.286216259,
+        "onset_rate": 2.59567046165,
+        "acoustic_length_seconds": 266.971435547
+    },
+    {
+        "recording_mbid": "688f3a13-ac7b-4c4a-9792-42b54a0c9a07",
+        "bpm": 163.681137085,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.04113805294,
+        "average_loudness": 0.518979668617,
+        "dynamic_complexity": 6.11990451813,
+        "onset_rate": 3.70312857628,
+        "acoustic_length_seconds": 142.559997559
+    },
+    {
+        "recording_mbid": "692c43ce-744e-401a-85e3-adfa60085d0a",
+        "bpm": 129.068466187,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.4810988903,
+        "average_loudness": 0.781299233437,
+        "dynamic_complexity": 4.25677156448,
+        "onset_rate": 3.5273270607,
+        "acoustic_length_seconds": 345.286529541
+    },
+    {
+        "recording_mbid": "6932cba3-4b31-412d-954f-16e2660dbc35",
+        "bpm": 127.96244812,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.09997439384,
+        "average_loudness": 0.868537306786,
+        "dynamic_complexity": 3.01805448532,
+        "onset_rate": 4.09694719315,
+        "acoustic_length_seconds": 226.977966309
+    },
+    {
+        "recording_mbid": "698826e6-394a-4b4b-9bc3-ad1f96952826",
+        "bpm": 138.01965332,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.49833345413,
+        "average_loudness": 0.88083344698,
+        "dynamic_complexity": 2.86796545982,
+        "onset_rate": 4.03375911713,
+        "acoustic_length_seconds": 306.898132324
+    },
+    {
+        "recording_mbid": "69d84bad-3367-4b2a-8622-3795edf45ff2",
+        "bpm": 121.666343689,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.31064581871,
+        "average_loudness": 0.768836140633,
+        "dynamic_complexity": 3.52232766151,
+        "onset_rate": 4.7230758667,
+        "acoustic_length_seconds": 402.691680908
+    },
+    {
         "recording_mbid": "69ebbc04-b1d5-4829-b836-850ae4614c71",
         "bpm": 147.923141479,
         "key": "F",
@@ -427,6 +2275,116 @@
         "dynamic_complexity": 3.47702145576,
         "onset_rate": 3.27608251572,
         "acoustic_length_seconds": 145.588485718
+    },
+    {
+        "recording_mbid": "6be7ebca-c7ea-4e54-a378-94bc7a5a18f1",
+        "bpm": 154.017074585,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.17323923111,
+        "average_loudness": 0.838824808598,
+        "dynamic_complexity": 3.11839699745,
+        "onset_rate": 2.78623199463,
+        "acoustic_length_seconds": 366.066680908
+    },
+    {
+        "recording_mbid": "6c51ecc0-0f20-4085-9a6a-207c7a00d415",
+        "bpm": 147.350463867,
+        "key": "F",
+        "scale": "major",
+        "danceability": 0.916933476925,
+        "average_loudness": 0.0210134275258,
+        "dynamic_complexity": 10.438082695,
+        "onset_rate": 2.27153682709,
+        "acoustic_length_seconds": 269.400817871
+    },
+    {
+        "recording_mbid": "6f592495-a041-495d-a870-54baca8df7ac",
+        "bpm": 128.156448364,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.47098612785,
+        "average_loudness": 0.946157634258,
+        "dynamic_complexity": 1.9799413681,
+        "onset_rate": 3.96420431137,
+        "acoustic_length_seconds": 186.148574829
+    },
+    {
+        "recording_mbid": "6ff3fceb-6f85-49db-9b17-a44ae62e6b2d",
+        "bpm": 134.714736938,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.03015065193,
+        "average_loudness": 0.80883616209,
+        "dynamic_complexity": 6.28312397003,
+        "onset_rate": 3.3123934269,
+        "acoustic_length_seconds": 188.969802856
+    },
+    {
+        "recording_mbid": "6ff90d3a-baad-4f2f-a462-15206919c5eb",
+        "bpm": 145.732894897,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.19845807552,
+        "average_loudness": 0.938669145107,
+        "dynamic_complexity": 1.84616589546,
+        "onset_rate": 3.56584358215,
+        "acoustic_length_seconds": 251.541763306
+    },
+    {
+        "recording_mbid": "703d12bc-4dd0-4393-af21-afdc47c794d6",
+        "bpm": 90.9105682373,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.02113246918,
+        "average_loudness": 0.206928268075,
+        "dynamic_complexity": 7.62796497345,
+        "onset_rate": 2.71775269508,
+        "acoustic_length_seconds": 320.835906982
+    },
+    {
+        "recording_mbid": "70598189-60a6-44ab-a299-92c4f1a39d61",
+        "bpm": 123.914489746,
+        "key": "A",
+        "scale": "major",
+        "danceability": 0.944719791412,
+        "average_loudness": 0.820054769516,
+        "dynamic_complexity": 3.58445954323,
+        "onset_rate": 3.16869091988,
+        "acoustic_length_seconds": 313.051422119
+    },
+    {
+        "recording_mbid": "708d9b95-db75-4b35-a1ce-d1c9806790c6",
+        "bpm": 104.869018555,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.38085103035,
+        "average_loudness": 0.861225903034,
+        "dynamic_complexity": 3.85435009003,
+        "onset_rate": 4.82685089111,
+        "acoustic_length_seconds": 262.478363037
+    },
+    {
+        "recording_mbid": "71887c54-a8cb-4a8a-81d4-534e988c0935",
+        "bpm": 143.588607788,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 0.832831263542,
+        "average_loudness": 0.00110989331733,
+        "dynamic_complexity": 5.06894016266,
+        "onset_rate": 2.63419890404,
+        "acoustic_length_seconds": 327.981872559
+    },
+    {
+        "recording_mbid": "734afd24-1b3f-4c7a-bebe-da0d8b82d8d0",
+        "bpm": 128.470657349,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.36566102505,
+        "average_loudness": 0.922701895237,
+        "dynamic_complexity": 2.78605222702,
+        "onset_rate": 5.72363996506,
+        "acoustic_length_seconds": 395.359985352
     },
     {
         "recording_mbid": "73784600-a665-4a6c-9687-187dbefc556d",
@@ -440,6 +2398,17 @@
         "acoustic_length_seconds": 312.842437744
     },
     {
+        "recording_mbid": "745eb07b-7c97-4987-884c-24bf5a62afec",
+        "bpm": 129.812103271,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.33185577393,
+        "average_loudness": 0.944348812103,
+        "dynamic_complexity": 3.87790989876,
+        "onset_rate": 4.09581947327,
+        "acoustic_length_seconds": 207.266662598
+    },
+    {
         "recording_mbid": "7483ce0d-3e31-47f7-b8a5-69dd93a6e108",
         "bpm": 109.944442749,
         "key": "F",
@@ -451,6 +2420,72 @@
         "acoustic_length_seconds": 173.290527344
     },
     {
+        "recording_mbid": "74e0af1b-b521-4ea4-9c0b-6482535980d5",
+        "bpm": 129.895675659,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 2.6044781208,
+        "average_loudness": 0.974460363388,
+        "dynamic_complexity": 2.43989729881,
+        "onset_rate": 4.13741588593,
+        "acoustic_length_seconds": 410.389465332
+    },
+    {
+        "recording_mbid": "763bb660-1ecf-40fb-9d27-bd59236b85d0",
+        "bpm": 99.5557861328,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.11803424358,
+        "average_loudness": 0.556504607201,
+        "dynamic_complexity": 4.69441127777,
+        "onset_rate": 3.923828125,
+        "acoustic_length_seconds": 208.967987061
+    },
+    {
+        "recording_mbid": "782118aa-badd-45fc-8ed8-caa93f8189ec",
+        "bpm": 121.257148743,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.91154313087,
+        "average_loudness": 0.96898329258,
+        "dynamic_complexity": 4.3580160141,
+        "onset_rate": 4.53654336929,
+        "acoustic_length_seconds": 130.03755188
+    },
+    {
+        "recording_mbid": "782ee794-afb3-4adb-a1d7-c6fdc1d945de",
+        "bpm": 97.9313201904,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.23774302006,
+        "average_loudness": 0.483102798462,
+        "dynamic_complexity": 13.4916267395,
+        "onset_rate": 2.80648517609,
+        "acoustic_length_seconds": 213.061248779
+    },
+    {
+        "recording_mbid": "784613b1-5924-4117-bbbf-3517b8ead625",
+        "bpm": 126.016838074,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.38016462326,
+        "average_loudness": 0.844550311565,
+        "dynamic_complexity": 4.51853513718,
+        "onset_rate": 3.78512072563,
+        "acoustic_length_seconds": 152.424484253
+    },
+    {
+        "recording_mbid": "78be434c-0908-458f-9693-f16cdebb68ef",
+        "bpm": 117.135108948,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.24086332321,
+        "average_loudness": 0.954539716244,
+        "dynamic_complexity": 2.06376957893,
+        "onset_rate": 3.49026560783,
+        "acoustic_length_seconds": 218.880004883
+    },
+    {
         "recording_mbid": "796632fc-2ec5-43c7-ad02-e9f434985780",
         "bpm": 140.002075195,
         "key": "A#",
@@ -460,6 +2495,61 @@
         "dynamic_complexity": 3.16010069847,
         "onset_rate": 5.0073928833,
         "acoustic_length_seconds": 176.720001221
+    },
+    {
+        "recording_mbid": "7a235148-133e-457a-a0fe-102f24953b97",
+        "bpm": 118.019264221,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.39954769611,
+        "average_loudness": 0.938436448574,
+        "dynamic_complexity": 3.82307291031,
+        "onset_rate": 3.97620034218,
+        "acoustic_length_seconds": 238.14666748
+    },
+    {
+        "recording_mbid": "7a5f00a7-e7de-422c-b64f-42b240a1d6be",
+        "bpm": 139.606170654,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 0.962006926537,
+        "average_loudness": 0.225837171078,
+        "dynamic_complexity": 7.28329515457,
+        "onset_rate": 2.19187068939,
+        "acoustic_length_seconds": 90.7755126953
+    },
+    {
+        "recording_mbid": "7a96e6db-4da7-46e1-b070-24965b3f7c43",
+        "bpm": 99.9888381958,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.43043875694,
+        "average_loudness": 0.824983775616,
+        "dynamic_complexity": 3.48019886017,
+        "onset_rate": 4.32974624634,
+        "acoustic_length_seconds": 240.187210083
+    },
+    {
+        "recording_mbid": "7ab207e6-2069-4dce-92a2-aa8f90f106b1",
+        "bpm": 128.051986694,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.22540044785,
+        "average_loudness": 0.955779075623,
+        "dynamic_complexity": 2.22694587708,
+        "onset_rate": 3.8744559288,
+        "acoustic_length_seconds": 226.85333252
+    },
+    {
+        "recording_mbid": "7b2369b8-6d19-48f8-89e3-3dd6f21f990b",
+        "bpm": 109.975357056,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.19505572319,
+        "average_loudness": 0.856355011463,
+        "dynamic_complexity": 4.69083404541,
+        "onset_rate": 4.37639379501,
+        "acoustic_length_seconds": 334.733062744
     },
     {
         "recording_mbid": "7ccb8e72-5296-4e1f-9c2e-f2262ed16dd3",
@@ -484,6 +2574,61 @@
         "acoustic_length_seconds": 231.479721069
     },
     {
+        "recording_mbid": "7d62c3af-805f-489e-b9a0-83daf4af8f2e",
+        "bpm": 118.959846497,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.923787415028,
+        "average_loudness": 0.599135160446,
+        "dynamic_complexity": 4.29013538361,
+        "onset_rate": 3.50531888008,
+        "acoustic_length_seconds": 201.960006714
+    },
+    {
+        "recording_mbid": "7e23b7d0-709e-4930-bfae-9bbe999e5ee5",
+        "bpm": 133.008178711,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.69563567638,
+        "average_loudness": 0.973650872707,
+        "dynamic_complexity": 1.95477342606,
+        "onset_rate": 4.4878282547,
+        "acoustic_length_seconds": 298.57333374
+    },
+    {
+        "recording_mbid": "7fb8f7ca-6607-488f-8b5a-027bdba2f479",
+        "bpm": 126.201423645,
+        "key": "E",
+        "scale": "major",
+        "danceability": 0.824706554413,
+        "average_loudness": 0.209661349654,
+        "dynamic_complexity": 12.2656641006,
+        "onset_rate": 1.89954268932,
+        "acoustic_length_seconds": 148.440002441
+    },
+    {
+        "recording_mbid": "803dfaa9-c7ef-44c1-b2cd-442a80cfdfe1",
+        "bpm": 125.978233337,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.30991721153,
+        "average_loudness": 0.839669167995,
+        "dynamic_complexity": 3.16013717651,
+        "onset_rate": 4.20944881439,
+        "acoustic_length_seconds": 379.126800537
+    },
+    {
+        "recording_mbid": "808dbd40-b814-499a-89f1-def250f9a84d",
+        "bpm": 113.426261902,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.24933636189,
+        "average_loudness": 0.885208129883,
+        "dynamic_complexity": 5.27488899231,
+        "onset_rate": 3.82116913795,
+        "acoustic_length_seconds": 169.299591064
+    },
+    {
         "recording_mbid": "81383d9f-32d0-4c05-8b4a-5a0179d8de0e",
         "bpm": 127.996307373,
         "key": "A#",
@@ -493,6 +2638,28 @@
         "dynamic_complexity": 4.40762329102,
         "onset_rate": 3.45945668221,
         "acoustic_length_seconds": 443.986663818
+    },
+    {
+        "recording_mbid": "818548d8-869f-49e4-97b5-aff0eac2aab0",
+        "bpm": 152.564712524,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.11975991726,
+        "average_loudness": 0.660175681114,
+        "dynamic_complexity": 3.15317845345,
+        "onset_rate": 3.19790172577,
+        "acoustic_length_seconds": 175.720550537
+    },
+    {
+        "recording_mbid": "829533f5-a0d5-4dda-bd88-5e95b98839d3",
+        "bpm": 125.247344971,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.02299797535,
+        "average_loudness": 0.970541834831,
+        "dynamic_complexity": 1.568110466,
+        "onset_rate": 3.84851813316,
+        "acoustic_length_seconds": 208.117553711
     },
     {
         "recording_mbid": "82e3c6ea-a008-4ae3-891c-19d39c1b6050",
@@ -517,6 +2684,83 @@
         "acoustic_length_seconds": 202.36000061
     },
     {
+        "recording_mbid": "83c80477-4f60-4504-aee0-1934d1ab56e4",
+        "bpm": 127.701194763,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.46457338333,
+        "average_loudness": 0.963032364845,
+        "dynamic_complexity": 3.72329545021,
+        "onset_rate": 4.64955425262,
+        "acoustic_length_seconds": 284.316741943
+    },
+    {
+        "recording_mbid": "849c03f1-da03-4ba6-a49b-3921a9c81363",
+        "bpm": 91.6049880981,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.01695311069,
+        "average_loudness": 0.798550367355,
+        "dynamic_complexity": 5.55155801773,
+        "onset_rate": 3.91824030876,
+        "acoustic_length_seconds": 131.422042847
+    },
+    {
+        "recording_mbid": "84c90eda-5f11-4c39-a76b-46ca679550f6",
+        "bpm": 142.176544189,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.33391785622,
+        "average_loudness": 0.932872056961,
+        "dynamic_complexity": 3.90470099449,
+        "onset_rate": 3.60228705406,
+        "acoustic_length_seconds": 201.795913696
+    },
+    {
+        "recording_mbid": "8586ac34-7ad1-44f8-a732-da26749f25a1",
+        "bpm": 106.868179321,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.08343541622,
+        "average_loudness": 0.574345886707,
+        "dynamic_complexity": 3.56080460548,
+        "onset_rate": 4.23517179489,
+        "acoustic_length_seconds": 623.334960938
+    },
+    {
+        "recording_mbid": "85ab63fe-6246-432c-a9b6-76138dde5f7b",
+        "bpm": 88.0919570923,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.43136906624,
+        "average_loudness": 0.931217133999,
+        "dynamic_complexity": 5.27073478699,
+        "onset_rate": 4.53533744812,
+        "acoustic_length_seconds": 259.056335449
+    },
+    {
+        "recording_mbid": "85f059c8-b61b-4697-bd38-654773d5ac24",
+        "bpm": 84.8500442505,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.1210103035,
+        "average_loudness": 0.933212280273,
+        "dynamic_complexity": 4.35638189316,
+        "onset_rate": 3.75657129288,
+        "acoustic_length_seconds": 163.960006714
+    },
+    {
+        "recording_mbid": "85fc396c-e696-4e3e-b1f2-737d3b587877",
+        "bpm": 144.865814209,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.952623605728,
+        "average_loudness": 0.178507551551,
+        "dynamic_complexity": 5.80701160431,
+        "onset_rate": 2.52196764946,
+        "acoustic_length_seconds": 295.39263916
+    },
+    {
         "recording_mbid": "86c26c07-25ec-4eb4-be09-529f346d6739",
         "bpm": 117.962226868,
         "key": "A#",
@@ -528,6 +2772,83 @@
         "acoustic_length_seconds": 156.62828064
     },
     {
+        "recording_mbid": "871f7d13-ff7a-4624-ad71-73cd049e3f3c",
+        "bpm": 132.902267456,
+        "key": "G",
+        "scale": "major",
+        "danceability": 0.871072530746,
+        "average_loudness": 0.0496779717505,
+        "dynamic_complexity": 9.82893180847,
+        "onset_rate": 2.42148113251,
+        "acoustic_length_seconds": 314.253051758
+    },
+    {
+        "recording_mbid": "87633ab2-16c5-4351-975e-035ef2ac2a4e",
+        "bpm": 99.9227142334,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.36940574646,
+        "average_loudness": 0.907726109028,
+        "dynamic_complexity": 3.67688655853,
+        "onset_rate": 5.13009500504,
+        "acoustic_length_seconds": 215.960006714
+    },
+    {
+        "recording_mbid": "8810ea5d-cfb6-4e01-8008-43ba2c3f22f2",
+        "bpm": 86.2221069336,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.48212301731,
+        "average_loudness": 0.91193819046,
+        "dynamic_complexity": 2.62930655479,
+        "onset_rate": 3.8202662468,
+        "acoustic_length_seconds": 229.020355225
+    },
+    {
+        "recording_mbid": "88650c1f-92cd-41a3-b62c-022a5e6ee101",
+        "bpm": 115.911972046,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.86844789982,
+        "average_loudness": 0.933132827282,
+        "dynamic_complexity": 5.01608848572,
+        "onset_rate": 6.10838031769,
+        "acoustic_length_seconds": 279.43182373
+    },
+    {
+        "recording_mbid": "897efa99-787c-4fbd-9b97-18fb80b0b540",
+        "bpm": 119.407966614,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.03154146671,
+        "average_loudness": 0.908840537071,
+        "dynamic_complexity": 2.843334198,
+        "onset_rate": 2.78090238571,
+        "acoustic_length_seconds": 239.472000122
+    },
+    {
+        "recording_mbid": "8ab70f6d-daef-4074-9cda-204ea0e75ec9",
+        "bpm": 108.850990295,
+        "key": "G#",
+        "scale": "minor",
+        "danceability": 1.55415534973,
+        "average_loudness": 0.947820842266,
+        "dynamic_complexity": 3.86700606346,
+        "onset_rate": 5.1175942421,
+        "acoustic_length_seconds": 386.690612793
+    },
+    {
+        "recording_mbid": "8afec88d-11c8-4286-8079-176564b50afc",
+        "bpm": 119.938926697,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.49727189541,
+        "average_loudness": 0.936398684978,
+        "dynamic_complexity": 3.05362248421,
+        "onset_rate": 4.1334810257,
+        "acoustic_length_seconds": 205.868118286
+    },
+    {
         "recording_mbid": "8b79e6af-fc22-403a-af0a-93a8c736b81d",
         "bpm": 67.4961776733,
         "key": "C",
@@ -537,6 +2858,17 @@
         "dynamic_complexity": 4.07707977295,
         "onset_rate": 3.30565404892,
         "acoustic_length_seconds": 231.399993896
+    },
+    {
+        "recording_mbid": "8ba49e5e-5f0a-40af-be8e-846452a2e364",
+        "bpm": 115.473823547,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.6900857687,
+        "average_loudness": 0.865944087505,
+        "dynamic_complexity": 5.82801103592,
+        "onset_rate": 3.40344047546,
+        "acoustic_length_seconds": 186.270477295
     },
     {
         "recording_mbid": "8bfea32c-3419-4d6f-858f-3b424edc1877",
@@ -561,6 +2893,105 @@
         "acoustic_length_seconds": 198.160003662
     },
     {
+        "recording_mbid": "8c43596e-286e-4a4d-a11c-818fcc120866",
+        "bpm": 84.9592285156,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.15959656239,
+        "average_loudness": 0.78473764658,
+        "dynamic_complexity": 4.23969650269,
+        "onset_rate": 2.71241116524,
+        "acoustic_length_seconds": 272.431030273
+    },
+    {
+        "recording_mbid": "8c45220f-1037-4d4c-9d7b-16a3db5fce8a",
+        "bpm": 153.006286621,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 0.930181860924,
+        "average_loudness": 0.4972397089,
+        "dynamic_complexity": 5.828373909,
+        "onset_rate": 1.93711769581,
+        "acoustic_length_seconds": 137.813339233
+    },
+    {
+        "recording_mbid": "8c47bacc-8d6b-40d3-a381-8830c1440795",
+        "bpm": 144.666625977,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.10087049007,
+        "average_loudness": 0.778354167938,
+        "dynamic_complexity": 4.72510385513,
+        "onset_rate": 4.47683429718,
+        "acoustic_length_seconds": 162.151412964
+    },
+    {
+        "recording_mbid": "8c4ebbb7-f095-48c1-8ae7-0b0086af4505",
+        "bpm": 87.6756896973,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.15588879585,
+        "average_loudness": 0.839171588421,
+        "dynamic_complexity": 5.4100985527,
+        "onset_rate": 3.47708797455,
+        "acoustic_length_seconds": 230.347747803
+    },
+    {
+        "recording_mbid": "8c8c23e3-4e2e-498d-bc68-e1fd730fbb66",
+        "bpm": 108.691215515,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.2470511198,
+        "average_loudness": 0.838366866112,
+        "dynamic_complexity": 6.58001327515,
+        "onset_rate": 4.41935396194,
+        "acoustic_length_seconds": 201.826660156
+    },
+    {
+        "recording_mbid": "8cf4f0f0-9cd6-458a-a87a-a97e33688d72",
+        "bpm": 121.932914734,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.48862874508,
+        "average_loudness": 0.938925027847,
+        "dynamic_complexity": 8.55133628845,
+        "onset_rate": 2.81271910667,
+        "acoustic_length_seconds": 260.937133789
+    },
+    {
+        "recording_mbid": "8e3cb5bf-6b7c-4597-ba73-ad24b743e0a6",
+        "bpm": 134.799743652,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.3269122839,
+        "average_loudness": 0.883071899414,
+        "dynamic_complexity": 4.99121761322,
+        "onset_rate": 3.75584864616,
+        "acoustic_length_seconds": 202.605712891
+    },
+    {
+        "recording_mbid": "8e3de156-1e29-41fe-9919-56ba16c8d622",
+        "bpm": 129.855514526,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.48583936691,
+        "average_loudness": 0.807672381401,
+        "dynamic_complexity": 3.58191490173,
+        "onset_rate": 4.18599081039,
+        "acoustic_length_seconds": 231.235916138
+    },
+    {
+        "recording_mbid": "8e58bb68-45e8-426e-b703-5aa9529a7677",
+        "bpm": 127.975250244,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.63592791557,
+        "average_loudness": 0.95736682415,
+        "dynamic_complexity": 3.09893321991,
+        "onset_rate": 5.10606431961,
+        "acoustic_length_seconds": 284.943664551
+    },
+    {
         "recording_mbid": "8e639999-49fb-4793-b39f-baecf7e624e5",
         "bpm": 122.722312927,
         "key": "A#",
@@ -570,6 +3001,39 @@
         "dynamic_complexity": 3.10916948318,
         "onset_rate": 4.25218343735,
         "acoustic_length_seconds": 220.342849731
+    },
+    {
+        "recording_mbid": "8e64c7e0-fddc-4e52-b6ee-64c8215ee3cd",
+        "bpm": 129.96774292,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.28624117374,
+        "average_loudness": 0.815719485283,
+        "dynamic_complexity": 3.55924224854,
+        "onset_rate": 4.3043012619,
+        "acoustic_length_seconds": 170.971817017
+    },
+    {
+        "recording_mbid": "8eab3fe8-5e25-4ebe-a8f6-6ea7604eea2f",
+        "bpm": 129.958847046,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.17505097389,
+        "average_loudness": 0.897471010685,
+        "dynamic_complexity": 3.00662493706,
+        "onset_rate": 3.73051786423,
+        "acoustic_length_seconds": 253.831832886
+    },
+    {
+        "recording_mbid": "8efe6bb1-9993-4662-a1b6-d4f35f000042",
+        "bpm": 86.6982879639,
+        "key": "E",
+        "scale": "major",
+        "danceability": 0.899334192276,
+        "average_loudness": 0.106624506414,
+        "dynamic_complexity": 9.6715221405,
+        "onset_rate": 4.31439113617,
+        "acoustic_length_seconds": 38.6933326721
     },
     {
         "recording_mbid": "8f6bcf89-c31e-4d1d-821b-48e155b3d25d",
@@ -583,6 +3047,50 @@
         "acoustic_length_seconds": 259.448150635
     },
     {
+        "recording_mbid": "903a162d-0865-4b85-bd31-9aae213b01c3",
+        "bpm": 132.241943359,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.12340927124,
+        "average_loudness": 0.952260971069,
+        "dynamic_complexity": 1.48378360271,
+        "onset_rate": 1.06261122227,
+        "acoustic_length_seconds": 244.662857056
+    },
+    {
+        "recording_mbid": "906b2aa6-6f7e-4475-af67-4e5fcb4de3de",
+        "bpm": 126.819633484,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.31616342068,
+        "average_loudness": 0.918606519699,
+        "dynamic_complexity": 2.18313837051,
+        "onset_rate": 5.8075056076,
+        "acoustic_length_seconds": 309.243347168
+    },
+    {
+        "recording_mbid": "90bbdd7e-cfa6-47cc-9d50-d2cca87ecac1",
+        "bpm": 107.216094971,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.23166632652,
+        "average_loudness": 0.934709966183,
+        "dynamic_complexity": 2.42118239403,
+        "onset_rate": 3.26223754883,
+        "acoustic_length_seconds": 472.359985352
+    },
+    {
+        "recording_mbid": "90f672be-46df-4255-911e-1286030edcb0",
+        "bpm": 128.891738892,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 0.937340319157,
+        "average_loudness": 0.867497682571,
+        "dynamic_complexity": 2.6764998436,
+        "onset_rate": 2.53946328163,
+        "acoustic_length_seconds": 186.63999939
+    },
+    {
         "recording_mbid": "912783e8-4296-48a2-b449-06b1f5b5fd12",
         "bpm": 87.7819366455,
         "key": "A#",
@@ -594,6 +3102,17 @@
         "acoustic_length_seconds": 283.216949463
     },
     {
+        "recording_mbid": "91861f18-d122-4bd9-b150-87e65d34b5e8",
+        "bpm": 123.802085876,
+        "key": "G#",
+        "scale": "minor",
+        "danceability": 1.32065653801,
+        "average_loudness": 0.86342227459,
+        "dynamic_complexity": 5.16271066666,
+        "onset_rate": 4.63540458679,
+        "acoustic_length_seconds": 354.645080566
+    },
+    {
         "recording_mbid": "919f5899-3770-4f19-8242-69efdc17ece5",
         "bpm": 117.904495239,
         "key": "C",
@@ -603,6 +3122,17 @@
         "dynamic_complexity": 1.76321434975,
         "onset_rate": 3.44441890717,
         "acoustic_length_seconds": 268.533325195
+    },
+    {
+        "recording_mbid": "919f7476-c4fb-4ec5-9e00-c4f21746d336",
+        "bpm": 120.73298645,
+        "key": "G",
+        "scale": "major",
+        "danceability": 0.990753412247,
+        "average_loudness": 0.938108563423,
+        "dynamic_complexity": 4.36407661438,
+        "onset_rate": 2.88207316399,
+        "acoustic_length_seconds": 267.154296875
     },
     {
         "recording_mbid": "91e1a30c-0d99-4591-8c06-be954946484d",
@@ -638,6 +3168,50 @@
         "acoustic_length_seconds": 217.847976685
     },
     {
+        "recording_mbid": "93e6fc14-cbfe-41ae-8199-4fd1ef29b8d0",
+        "bpm": 128.053817749,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.34948062897,
+        "average_loudness": 0.931488633156,
+        "dynamic_complexity": 2.83695197105,
+        "onset_rate": 4.30283260345,
+        "acoustic_length_seconds": 315.119995117
+    },
+    {
+        "recording_mbid": "94d3e498-13b3-435b-ad35-4251e88a3185",
+        "bpm": 103.984832764,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.17408716679,
+        "average_loudness": 0.956766664982,
+        "dynamic_complexity": 3.27459025383,
+        "onset_rate": 3.31436610222,
+        "acoustic_length_seconds": 171.964080811
+    },
+    {
+        "recording_mbid": "9609005f-58c6-4636-b566-978a21d0d756",
+        "bpm": 96.2226409912,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.23502314091,
+        "average_loudness": 0.799902200699,
+        "dynamic_complexity": 4.60073232651,
+        "onset_rate": 3.3295583725,
+        "acoustic_length_seconds": 153.756729126
+    },
+    {
+        "recording_mbid": "964322e4-850e-473d-afee-3bb93b3e8449",
+        "bpm": 119.91153717,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.38738274574,
+        "average_loudness": 0.871963799,
+        "dynamic_complexity": 3.61462283134,
+        "onset_rate": 4.78394269943,
+        "acoustic_length_seconds": 320.42666626
+    },
+    {
         "recording_mbid": "965566f3-a760-4719-9846-3b3b3cdaf839",
         "bpm": 128.407546997,
         "key": "A",
@@ -647,6 +3221,28 @@
         "dynamic_complexity": 4.2172908783,
         "onset_rate": 2.80147004128,
         "acoustic_length_seconds": 161.332244873
+    },
+    {
+        "recording_mbid": "966aa05f-b047-42b5-9c76-40a9731436ce",
+        "bpm": 74.0489807129,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.3225928545,
+        "average_loudness": 0.898670196533,
+        "dynamic_complexity": 5.10783481598,
+        "onset_rate": 4.80837392807,
+        "acoustic_length_seconds": 222.511016846
+    },
+    {
+        "recording_mbid": "9741cbf1-8bee-4910-bb47-1a27c9c3dfff",
+        "bpm": 147.425689697,
+        "key": "D#",
+        "scale": "minor",
+        "danceability": 0.632796525955,
+        "average_loudness": 0.00144703732803,
+        "dynamic_complexity": 22.3302173615,
+        "onset_rate": 0.547403931618,
+        "acoustic_length_seconds": 42.0039215088
     },
     {
         "recording_mbid": "976064bd-953f-4b6e-976e-7dad5b362d4e",
@@ -671,6 +3267,28 @@
         "acoustic_length_seconds": 222.946670532
     },
     {
+        "recording_mbid": "977d2935-42fe-48ff-8b90-4e868b94ea78",
+        "bpm": 107.007705688,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.19476556778,
+        "average_loudness": 0.900845885277,
+        "dynamic_complexity": 3.61847066879,
+        "onset_rate": 4.67220449448,
+        "acoustic_length_seconds": 199.679992676
+    },
+    {
+        "recording_mbid": "978d91e3-054d-40dd-87bb-e37c4d08075c",
+        "bpm": 164.947982788,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.999595105648,
+        "average_loudness": 0.979412257671,
+        "dynamic_complexity": 1.59221529961,
+        "onset_rate": 2.73774552345,
+        "acoustic_length_seconds": 263.706115723
+    },
+    {
         "recording_mbid": "98a03888-e736-4b30-8b74-8c2ae9465779",
         "bpm": 128.088699341,
         "key": "F#",
@@ -680,6 +3298,17 @@
         "dynamic_complexity": 3.33880138397,
         "onset_rate": 4.20922899246,
         "acoustic_length_seconds": 153.455993652
+    },
+    {
+        "recording_mbid": "992211c6-d67f-447b-b357-950c0a9a1c04",
+        "bpm": 77.0140075684,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.05951547623,
+        "average_loudness": 0.87285977602,
+        "dynamic_complexity": 3.09960722923,
+        "onset_rate": 4.33996725082,
+        "acoustic_length_seconds": 199.520004272
     },
     {
         "recording_mbid": "9976cb62-cf29-436c-813d-fb19c4bd557a",
@@ -693,6 +3322,39 @@
         "acoustic_length_seconds": 340.504302979
     },
     {
+        "recording_mbid": "9a60895b-61f3-4aed-89ac-d44f46933c26",
+        "bpm": 155.961135864,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.18710231781,
+        "average_loudness": 0.890572071075,
+        "dynamic_complexity": 3.90430688858,
+        "onset_rate": 3.60860919952,
+        "acoustic_length_seconds": 208.927352905
+    },
+    {
+        "recording_mbid": "9a95dc06-7212-4145-a804-609623e6575f",
+        "bpm": 122.733833313,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.06715261936,
+        "average_loudness": 0.481209218502,
+        "dynamic_complexity": 4.84702730179,
+        "onset_rate": 5.23019504547,
+        "acoustic_length_seconds": 238.785308838
+    },
+    {
+        "recording_mbid": "9aa3ea75-cc4a-4e53-9f9e-0fc5a5eb4c97",
+        "bpm": 80.1562805176,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.27222621441,
+        "average_loudness": 0.905075192451,
+        "dynamic_complexity": 4.91517734528,
+        "onset_rate": 4.52874708176,
+        "acoustic_length_seconds": 161.613327026
+    },
+    {
         "recording_mbid": "9aef4b87-31f4-454c-b2e2-db6cede7bb4b",
         "bpm": 101.346542358,
         "key": "E",
@@ -702,6 +3364,50 @@
         "dynamic_complexity": 4.65570688248,
         "onset_rate": 2.95226597786,
         "acoustic_length_seconds": 166.301315308
+    },
+    {
+        "recording_mbid": "9b09c06f-98c8-4499-ae38-fb5ecd1ac707",
+        "bpm": 135.819503784,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.15266418457,
+        "average_loudness": 0.66417080164,
+        "dynamic_complexity": 4.29270839691,
+        "onset_rate": 2.53519964218,
+        "acoustic_length_seconds": 250.057189941
+    },
+    {
+        "recording_mbid": "9b81eb06-8f3c-41d7-8948-6a93303f3c02",
+        "bpm": 87.0548934937,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.20539784431,
+        "average_loudness": 0.967617452145,
+        "dynamic_complexity": 1.88970816135,
+        "onset_rate": 2.84780454636,
+        "acoustic_length_seconds": 244.738327026
+    },
+    {
+        "recording_mbid": "9c19fca4-a8a8-4639-9482-55febffc7d28",
+        "bpm": 125.996482849,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.41396379471,
+        "average_loudness": 0.781288444996,
+        "dynamic_complexity": 4.40694618225,
+        "onset_rate": 4.93974924088,
+        "acoustic_length_seconds": 445.962463379
+    },
+    {
+        "recording_mbid": "9d1f5afc-854e-4af7-914e-5c9e1c50000e",
+        "bpm": 142.337844849,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.14407539368,
+        "average_loudness": 0.881205141544,
+        "dynamic_complexity": 5.16828727722,
+        "onset_rate": 3.03564739227,
+        "acoustic_length_seconds": 203.559997559
     },
     {
         "recording_mbid": "9d4e6dc4-33db-4e8a-aa82-630f6bb6e4e7",
@@ -715,6 +3421,39 @@
         "acoustic_length_seconds": 167.468551636
     },
     {
+        "recording_mbid": "9d7d119f-60d1-480b-8fd5-7f20a6dafe4e",
+        "bpm": 119.95123291,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.28134775162,
+        "average_loudness": 0.760382413864,
+        "dynamic_complexity": 4.21521806717,
+        "onset_rate": 5.53823947906,
+        "acoustic_length_seconds": 246.456604004
+    },
+    {
+        "recording_mbid": "9d7e64f0-373f-4113-8e4b-c82e8b8f5fb9",
+        "bpm": 90.8921203613,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.14746558666,
+        "average_loudness": 0.239047825336,
+        "dynamic_complexity": 6.28003644943,
+        "onset_rate": 3.96895194054,
+        "acoustic_length_seconds": 732.171630859
+    },
+    {
+        "recording_mbid": "9db8c054-4379-4f1a-8b5e-5d6b1c2b0f3a",
+        "bpm": 154.816421509,
+        "key": "F",
+        "scale": "major",
+        "danceability": 0.95668900013,
+        "average_loudness": 0.562075972557,
+        "dynamic_complexity": 4.13738059998,
+        "onset_rate": 2.27357554436,
+        "acoustic_length_seconds": 319.306671143
+    },
+    {
         "recording_mbid": "9f0fa8ff-5a5f-4ce8-97c5-69e6e5491b0d",
         "bpm": 112.872497559,
         "key": "A#",
@@ -724,6 +3463,149 @@
         "dynamic_complexity": 3.27273249626,
         "onset_rate": 4.643907547,
         "acoustic_length_seconds": 231.253326416
+    },
+    {
+        "recording_mbid": "9f6fae55-9c5d-41bd-948b-66131a098842",
+        "bpm": 117.347229004,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.21442842484,
+        "average_loudness": 0.381676644087,
+        "dynamic_complexity": 6.01147127151,
+        "onset_rate": 4.85675239563,
+        "acoustic_length_seconds": 489.613067627
+    },
+    {
+        "recording_mbid": "a0b94529-d89a-4bec-bf68-e56968ce4617",
+        "bpm": 84.1334838867,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.18700098991,
+        "average_loudness": 0.495438635349,
+        "dynamic_complexity": 5.1647362709,
+        "onset_rate": 3.57783007622,
+        "acoustic_length_seconds": 275.565704346
+    },
+    {
+        "recording_mbid": "a1039c49-70cf-40ab-9d6b-0979e665b37d",
+        "bpm": 80.1490020752,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.03780114651,
+        "average_loudness": 0.878422796726,
+        "dynamic_complexity": 3.80164694786,
+        "onset_rate": 4.10600614548,
+        "acoustic_length_seconds": 171.441635132
+    },
+    {
+        "recording_mbid": "a1ccf56a-bdc6-46f8-a3a9-da79e1a57e79",
+        "bpm": 112.873954773,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.38062930107,
+        "average_loudness": 0.934483289719,
+        "dynamic_complexity": 3.77885866165,
+        "onset_rate": 4.00061130524,
+        "acoustic_length_seconds": 292.440826416
+    },
+    {
+        "recording_mbid": "a1e701f5-feb8-4320-af89-fc58844b617d",
+        "bpm": 102.598472595,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.12650227547,
+        "average_loudness": 0.157812014222,
+        "dynamic_complexity": 4.30586910248,
+        "onset_rate": 4.14912080765,
+        "acoustic_length_seconds": 764.969787598
+    },
+    {
+        "recording_mbid": "a24a3588-0423-42cb-b292-a5fddec9bb8b",
+        "bpm": 96.8458480835,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.02163720131,
+        "average_loudness": 0.168914422393,
+        "dynamic_complexity": 8.51282215118,
+        "onset_rate": 3.17801260948,
+        "acoustic_length_seconds": 196.022857666
+    },
+    {
+        "recording_mbid": "a7b0ab4a-ae56-4a6b-ba16-450f1690b305",
+        "bpm": 110.589645386,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.16145849228,
+        "average_loudness": 0.202833652496,
+        "dynamic_complexity": 5.08509397507,
+        "onset_rate": 2.59021306038,
+        "acoustic_length_seconds": 425.430206299
+    },
+    {
+        "recording_mbid": "a88ffcea-6b74-4942-acc7-d1b3caee0b13",
+        "bpm": 128.026565552,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.12379741669,
+        "average_loudness": 0.951564192772,
+        "dynamic_complexity": 2.79081916809,
+        "onset_rate": 3.45129299164,
+        "acoustic_length_seconds": 240.759994507
+    },
+    {
+        "recording_mbid": "a8b28560-2312-4eee-92f9-24927ef7af65",
+        "bpm": 163.667526245,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.02925658226,
+        "average_loudness": 0.709019482136,
+        "dynamic_complexity": 4.71546697617,
+        "onset_rate": 2.67725753784,
+        "acoustic_length_seconds": 301.786651611
+    },
+    {
+        "recording_mbid": "a8bde31e-c9f7-4200-b613-7f68d58e2545",
+        "bpm": 155.247833252,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.15145540237,
+        "average_loudness": 0.583035290241,
+        "dynamic_complexity": 4.1895365715,
+        "onset_rate": 4.17329883575,
+        "acoustic_length_seconds": 245.597457886
+    },
+    {
+        "recording_mbid": "a90bee55-49a7-4f65-9034-4c6a3a9b7cdd",
+        "bpm": 117.917945862,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 0.858619093895,
+        "average_loudness": 0.120332106948,
+        "dynamic_complexity": 6.68457078934,
+        "onset_rate": 4.34668636322,
+        "acoustic_length_seconds": 1268.53222656
+    },
+    {
+        "recording_mbid": "a913fa06-2bdb-4da6-9fc4-7dd0eca16760",
+        "bpm": 124.866241455,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.46599674225,
+        "average_loudness": 0.569560825825,
+        "dynamic_complexity": 5.47496747971,
+        "onset_rate": 4.80052089691,
+        "acoustic_length_seconds": 343.492797852
+    },
+    {
+        "recording_mbid": "a99d9d29-0e33-48c2-a421-a0cbe0b1484c",
+        "bpm": 139.695724487,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.06340169907,
+        "average_loudness": 0.864411473274,
+        "dynamic_complexity": 1.83980154991,
+        "onset_rate": 3.3467977047,
+        "acoustic_length_seconds": 280.555114746
     },
     {
         "recording_mbid": "a9f07dc4-ef42-4604-b9a6-a336b04a7e18",
@@ -737,6 +3619,17 @@
         "acoustic_length_seconds": 200.452896118
     },
     {
+        "recording_mbid": "aaab6788-00a8-4f91-9bd2-dfb77cefc3c2",
+        "bpm": 91.9653396606,
+        "key": "C#",
+        "scale": "minor",
+        "danceability": 1.45994067192,
+        "average_loudness": 0.932650506496,
+        "dynamic_complexity": 4.13977575302,
+        "onset_rate": 3.99250388145,
+        "acoustic_length_seconds": 178.567443848
+    },
+    {
         "recording_mbid": "ab100aa8-5405-4aac-a1b4-043e4e021b39",
         "bpm": 135.035186768,
         "key": "C#",
@@ -746,6 +3639,39 @@
         "dynamic_complexity": 4.84767341614,
         "onset_rate": 4.14947128296,
         "acoustic_length_seconds": 207.725708008
+    },
+    {
+        "recording_mbid": "ab4e0e12-7180-428f-a20a-599069f68a3d",
+        "bpm": 178.206253052,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.26960790157,
+        "average_loudness": 0.668651521206,
+        "dynamic_complexity": 5.01764059067,
+        "onset_rate": 3.54162764549,
+        "acoustic_length_seconds": 185.2081604
+    },
+    {
+        "recording_mbid": "ab56b9ad-13d2-4e9b-8ecb-5f572bef8508",
+        "bpm": 151.708679199,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.24698674679,
+        "average_loudness": 0.612997591496,
+        "dynamic_complexity": 5.10498905182,
+        "onset_rate": 3.65610790253,
+        "acoustic_length_seconds": 149.320007324
+    },
+    {
+        "recording_mbid": "abdcc0a1-2c2d-485c-9498-be4692d56a90",
+        "bpm": 143.963775635,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.26517283916,
+        "average_loudness": 0.592846870422,
+        "dynamic_complexity": 5.73692941666,
+        "onset_rate": 4.54518222809,
+        "acoustic_length_seconds": 155.088973999
     },
     {
         "recording_mbid": "aca1e3df-9dc6-4dbd-914d-9e3c2bde3109",
@@ -759,6 +3685,61 @@
         "acoustic_length_seconds": 176.587753296
     },
     {
+        "recording_mbid": "acb14bf3-92f8-4308-abaf-0c5ef4ec76c2",
+        "bpm": 128.1665802,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.7498717308,
+        "average_loudness": 0.942973554134,
+        "dynamic_complexity": 4.30988883972,
+        "onset_rate": 4.87031412125,
+        "acoustic_length_seconds": 275.945953369
+    },
+    {
+        "recording_mbid": "ad3fc29a-8e9f-4958-aace-e67e2e1b0a1c",
+        "bpm": 110.06401062,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.07220411301,
+        "average_loudness": 0.848831176758,
+        "dynamic_complexity": 5.472427845,
+        "onset_rate": 2.06273913383,
+        "acoustic_length_seconds": 222.986663818
+    },
+    {
+        "recording_mbid": "ae23c26c-20d0-4c82-a138-16efe09b96e2",
+        "bpm": 128.064697266,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.19317352772,
+        "average_loudness": 0.919250309467,
+        "dynamic_complexity": 2.91039395332,
+        "onset_rate": 3.26320338249,
+        "acoustic_length_seconds": 241.162445068
+    },
+    {
+        "recording_mbid": "ae255d78-9081-47c0-a1f7-edfd7d6c3259",
+        "bpm": 116.836303711,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.33903801441,
+        "average_loudness": 0.89526450634,
+        "dynamic_complexity": 2.51983952522,
+        "onset_rate": 5.65360593796,
+        "acoustic_length_seconds": 307.043273926
+    },
+    {
+        "recording_mbid": "aed707c1-59be-4fd4-af45-19ba588fec8e",
+        "bpm": 68.555229187,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.24998962879,
+        "average_loudness": 0.645728468895,
+        "dynamic_complexity": 6.03493022919,
+        "onset_rate": 4.75743246078,
+        "acoustic_length_seconds": 60.093334198
+    },
+    {
         "recording_mbid": "af0534ab-9f05-4f27-bd6a-e4d6c2772a35",
         "bpm": 140.013015747,
         "key": "A",
@@ -768,6 +3749,83 @@
         "dynamic_complexity": 3.48752880096,
         "onset_rate": 4.3516960144,
         "acoustic_length_seconds": 181.975234985
+    },
+    {
+        "recording_mbid": "b05697cc-72f1-4fa7-8285-f913e76858bb",
+        "bpm": 128.391647339,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 0.980787873268,
+        "average_loudness": 0.842488408089,
+        "dynamic_complexity": 4.85665082932,
+        "onset_rate": 2.61759233475,
+        "acoustic_length_seconds": 213.925445557
+    },
+    {
+        "recording_mbid": "b107868c-0239-46d3-9760-2ab6cfca6f8e",
+        "bpm": 144.038299561,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.08193731308,
+        "average_loudness": 0.631147921085,
+        "dynamic_complexity": 5.13944339752,
+        "onset_rate": 4.05721569061,
+        "acoustic_length_seconds": 138.507034302
+    },
+    {
+        "recording_mbid": "b1b2a322-031e-445a-b9a2-502ee540095a",
+        "bpm": 109.972053528,
+        "key": "G",
+        "scale": "major",
+        "danceability": 0.816892385483,
+        "average_loudness": 0.527760326862,
+        "dynamic_complexity": 5.35852241516,
+        "onset_rate": 1.6041226387,
+        "acoustic_length_seconds": 244.976333618
+    },
+    {
+        "recording_mbid": "b39f7e5f-6752-4d00-b79f-3f1ef920e2e2",
+        "bpm": 120.034217834,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.45338761806,
+        "average_loudness": 0.932616651058,
+        "dynamic_complexity": 5.14941310883,
+        "onset_rate": 3.86437821388,
+        "acoustic_length_seconds": 196.133331299
+    },
+    {
+        "recording_mbid": "b3aef0df-01a0-4366-bf4c-506e8587de6f",
+        "bpm": 172.265609741,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.952096939087,
+        "average_loudness": 0.241202324629,
+        "dynamic_complexity": 5.89239263535,
+        "onset_rate": 2.90248799324,
+        "acoustic_length_seconds": 168.803268433
+    },
+    {
+        "recording_mbid": "b43c2ec9-aa7f-4801-89b0-63cc9c4f6e4a",
+        "bpm": 81.2886581421,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.35549211502,
+        "average_loudness": 0.969288766384,
+        "dynamic_complexity": 1.89498221874,
+        "onset_rate": 4.12249565125,
+        "acoustic_length_seconds": 102.353561401
+    },
+    {
+        "recording_mbid": "b58ada63-d644-442d-9648-3f6f77c88ab3",
+        "bpm": 101.954658508,
+        "key": "B",
+        "scale": "minor",
+        "danceability": 1.22920358181,
+        "average_loudness": 0.955682754517,
+        "dynamic_complexity": 1.42968118191,
+        "onset_rate": 2.91070556641,
+        "acoustic_length_seconds": 132.937149048
     },
     {
         "recording_mbid": "b5d19b4f-4930-499e-9587-17edd85bcd3c",
@@ -781,6 +3839,17 @@
         "acoustic_length_seconds": 270.706665039
     },
     {
+        "recording_mbid": "b65e9a72-d67e-4f34-b138-b346cef49dc2",
+        "bpm": 110.824264526,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.75238823891,
+        "average_loudness": 0.888431072235,
+        "dynamic_complexity": 4.60161304474,
+        "onset_rate": 4.22997522354,
+        "acoustic_length_seconds": 224.333328247
+    },
+    {
         "recording_mbid": "b6a56e40-759c-473d-ae0a-414977ced752",
         "bpm": 119.024986267,
         "key": "F",
@@ -790,6 +3859,17 @@
         "dynamic_complexity": 6.15996456146,
         "onset_rate": 3.43652248383,
         "acoustic_length_seconds": 213.863037109
+    },
+    {
+        "recording_mbid": "b6f1d137-cfc6-4198-b4f0-ebb6756b18ca",
+        "bpm": 102.431404114,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.06926882267,
+        "average_loudness": 0.650441050529,
+        "dynamic_complexity": 1.80846071243,
+        "onset_rate": 2.4932281971,
+        "acoustic_length_seconds": 291.970611572
     },
     {
         "recording_mbid": "b7326a80-8332-4ee0-8238-d6737efba347",
@@ -814,6 +3894,72 @@
         "acoustic_length_seconds": 180.186660767
     },
     {
+        "recording_mbid": "b7d3c591-4c27-4b9a-bc40-fea186263eeb",
+        "bpm": 103.720321655,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.3025803566,
+        "average_loudness": 0.875265717506,
+        "dynamic_complexity": 4.69954299927,
+        "onset_rate": 3.99384260178,
+        "acoustic_length_seconds": 156.473464966
+    },
+    {
+        "recording_mbid": "b8c1dece-ab11-4ad1-971d-050e48aa1833",
+        "bpm": 143.138626099,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.15638029575,
+        "average_loudness": 0.859892010689,
+        "dynamic_complexity": 3.97228527069,
+        "onset_rate": 4.06887769699,
+        "acoustic_length_seconds": 182.099594116
+    },
+    {
+        "recording_mbid": "b9bf3177-ab20-4bfa-ad72-5158f6b6fb55",
+        "bpm": 115.967506409,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.06600880623,
+        "average_loudness": 0.898041427135,
+        "dynamic_complexity": 2.56828355789,
+        "onset_rate": 3.10286211967,
+        "acoustic_length_seconds": 272.959991455
+    },
+    {
+        "recording_mbid": "baa583d8-154e-4466-866e-7ebd13ca5804",
+        "bpm": 125.036102295,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.26181566715,
+        "average_loudness": 0.789058744907,
+        "dynamic_complexity": 3.06014847755,
+        "onset_rate": 4.5001373291,
+        "acoustic_length_seconds": 439.519989014
+    },
+    {
+        "recording_mbid": "bb0f6c24-cdab-4f5f-9f06-d1e3fed51279",
+        "bpm": 146.135375977,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.2401497364,
+        "average_loudness": 0.953002870083,
+        "dynamic_complexity": 4.18977832794,
+        "onset_rate": 3.41613554955,
+        "acoustic_length_seconds": 164.493057251
+    },
+    {
+        "recording_mbid": "bb5ffd67-c412-4621-9a6e-1eba9cac37aa",
+        "bpm": 121.980148315,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.25492632389,
+        "average_loudness": 0.845331132412,
+        "dynamic_complexity": 3.3846206665,
+        "onset_rate": 4.12604951859,
+        "acoustic_length_seconds": 245.013336182
+    },
+    {
         "recording_mbid": "bbaf7a9f-dba5-4523-a5a2-ce831d842b12",
         "bpm": 139.716064453,
         "key": "G#",
@@ -823,6 +3969,28 @@
         "dynamic_complexity": 4.79517793655,
         "onset_rate": 3.18154978752,
         "acoustic_length_seconds": 307.382843018
+    },
+    {
+        "recording_mbid": "bbb42bb8-5e98-4742-86a5-0bf5a98eabe2",
+        "bpm": 117.122306824,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.76078259945,
+        "average_loudness": 0.807050406933,
+        "dynamic_complexity": 5.1538066864,
+        "onset_rate": 5.69302892685,
+        "acoustic_length_seconds": 461.078643799
+    },
+    {
+        "recording_mbid": "bcb3e8ad-b75b-4c41-bf13-22479f04eda2",
+        "bpm": 152.047531128,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.15479826927,
+        "average_loudness": 0.955810070038,
+        "dynamic_complexity": 2.48169231415,
+        "onset_rate": 3.68526315689,
+        "acoustic_length_seconds": 232.535980225
     },
     {
         "recording_mbid": "bda75eb1-e2bc-46b3-83fc-250d73d54004",
@@ -836,6 +4004,50 @@
         "acoustic_length_seconds": 180.182556152
     },
     {
+        "recording_mbid": "be36d876-8e6a-4880-9627-456984d4facf",
+        "bpm": 151.574020386,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.005397439,
+        "average_loudness": 0.135133966804,
+        "dynamic_complexity": 4.44853496552,
+        "onset_rate": 1.18513512611,
+        "acoustic_length_seconds": 128.243804932
+    },
+    {
+        "recording_mbid": "be73ec7f-eb9d-46c0-abe3-57210c24f814",
+        "bpm": 83.8270645142,
+        "key": "F",
+        "scale": "minor",
+        "danceability": 1.07784152031,
+        "average_loudness": 0.795881748199,
+        "dynamic_complexity": 6.3499174118,
+        "onset_rate": 2.93418073654,
+        "acoustic_length_seconds": 157.440002441
+    },
+    {
+        "recording_mbid": "beb133be-db62-43e0-8569-9250e46d9116",
+        "bpm": 120.043983459,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.57251489162,
+        "average_loudness": 0.778626322746,
+        "dynamic_complexity": 5.40686750412,
+        "onset_rate": 5.46848154068,
+        "acoustic_length_seconds": 236.251434326
+    },
+    {
+        "recording_mbid": "bfc63f3a-654a-4351-bbf8-ca0438c8d919",
+        "bpm": 138.05506897,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.10287928581,
+        "average_loudness": 0.893631517887,
+        "dynamic_complexity": 3.94084072113,
+        "onset_rate": 4.28873062134,
+        "acoustic_length_seconds": 206.567977905
+    },
+    {
         "recording_mbid": "bfde919d-541d-4003-8cbf-03e36832f1bc",
         "bpm": 147.924057007,
         "key": "A#",
@@ -845,6 +4057,182 @@
         "dynamic_complexity": 4.61250114441,
         "onset_rate": 3.79990291595,
         "acoustic_length_seconds": 198.413330078
+    },
+    {
+        "recording_mbid": "c055b9fe-995c-4260-be5d-340d21ab38d7",
+        "bpm": 109.931190491,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.954879939556,
+        "average_loudness": 0.191810637712,
+        "dynamic_complexity": 8.1582736969,
+        "onset_rate": 2.6766371727,
+        "acoustic_length_seconds": 218.543991089
+    },
+    {
+        "recording_mbid": "c120b648-5f29-4c13-942c-c33f4666d74a",
+        "bpm": 154.906265259,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.38203811646,
+        "average_loudness": 0.883832037449,
+        "dynamic_complexity": 3.36329269409,
+        "onset_rate": 4.18769407272,
+        "acoustic_length_seconds": 203.440002441
+    },
+    {
+        "recording_mbid": "c1bcca73-83ad-42f6-9074-145d9d6af9be",
+        "bpm": 161.917419434,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 0.989068448544,
+        "average_loudness": 0.810485601425,
+        "dynamic_complexity": 4.72636842728,
+        "onset_rate": 2.85459399223,
+        "acoustic_length_seconds": 268.669372559
+    },
+    {
+        "recording_mbid": "c3b56af4-5d50-41de-b224-46b7689a6db6",
+        "bpm": 137.240753174,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 0.968552947044,
+        "average_loudness": 0.0292010027915,
+        "dynamic_complexity": 6.48754024506,
+        "onset_rate": 2.64559340477,
+        "acoustic_length_seconds": 192
+    },
+    {
+        "recording_mbid": "c443e33a-c14d-403d-930f-634718b5d1b9",
+        "bpm": 139.978515625,
+        "key": "C",
+        "scale": "major",
+        "danceability": 0.934850096703,
+        "average_loudness": 0.0352237746119,
+        "dynamic_complexity": 8.74381446838,
+        "onset_rate": 2.67125463486,
+        "acoustic_length_seconds": 214.491424561
+    },
+    {
+        "recording_mbid": "c46fd7c8-086b-46de-9860-8b78ddccc4a8",
+        "bpm": 184.57043457,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.11342906952,
+        "average_loudness": 0.807283103466,
+        "dynamic_complexity": 5.32386016846,
+        "onset_rate": 3.11835741997,
+        "acoustic_length_seconds": 148.143325806
+    },
+    {
+        "recording_mbid": "c483b7b4-7989-4db5-9791-0b729630da20",
+        "bpm": 115.980560303,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.38213074207,
+        "average_loudness": 0.850967407227,
+        "dynamic_complexity": 3.25025033951,
+        "onset_rate": 5.8826789856,
+        "acoustic_length_seconds": 311.745300293
+    },
+    {
+        "recording_mbid": "c48725c7-8a7f-4738-9933-63092c70ad7c",
+        "bpm": 116.781211853,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.77295327187,
+        "average_loudness": 0.80546694994,
+        "dynamic_complexity": 5.31657648087,
+        "onset_rate": 5.88703727722,
+        "acoustic_length_seconds": 465.753509521
+    },
+    {
+        "recording_mbid": "c5022b80-7b82-4479-bf6d-0214da2f3c7e",
+        "bpm": 161.964004517,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.11091673374,
+        "average_loudness": 0.898596286774,
+        "dynamic_complexity": 3.45546102524,
+        "onset_rate": 4.13855648041,
+        "acoustic_length_seconds": 208.509384155
+    },
+    {
+        "recording_mbid": "c596ca6d-4903-4960-bd43-23991b6be2d5",
+        "bpm": 119.948295593,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.4828953743,
+        "average_loudness": 0.954011559486,
+        "dynamic_complexity": 3.46954274178,
+        "onset_rate": 5.61818885803,
+        "acoustic_length_seconds": 209.129074097
+    },
+    {
+        "recording_mbid": "c625b7a8-8e76-457e-9c6e-b517f9151c49",
+        "bpm": 139.984222412,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.15516769886,
+        "average_loudness": 0.833076059818,
+        "dynamic_complexity": 4.57763004303,
+        "onset_rate": 4.09040737152,
+        "acoustic_length_seconds": 221.96244812
+    },
+    {
+        "recording_mbid": "c6329bd2-49da-4616-b506-d36a2046778a",
+        "bpm": 155.712020874,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.32577860355,
+        "average_loudness": 0.952809393406,
+        "dynamic_complexity": 3.08237886429,
+        "onset_rate": 3.75101804733,
+        "acoustic_length_seconds": 199.134338379
+    },
+    {
+        "recording_mbid": "c66d60d3-8b47-45e2-82a4-b76d610aacff",
+        "bpm": 85.4105911255,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 0.988910198212,
+        "average_loudness": 0.901778817177,
+        "dynamic_complexity": 4.57102251053,
+        "onset_rate": 3.80115127563,
+        "acoustic_length_seconds": 187.820404053
+    },
+    {
+        "recording_mbid": "c68e3de0-87fa-48ba-8fcc-20942db24631",
+        "bpm": 105.700721741,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.59363508224,
+        "average_loudness": 0.946668982506,
+        "dynamic_complexity": 4.19106674194,
+        "onset_rate": 5.02353620529,
+        "acoustic_length_seconds": 208.800003052
+    },
+    {
+        "recording_mbid": "c7bc67b1-b9c1-4eb8-ba7e-a8dad1604da5",
+        "bpm": 153.793807983,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.100289464,
+        "average_loudness": 0.86015945673,
+        "dynamic_complexity": 4.15090417862,
+        "onset_rate": 3.20533847809,
+        "acoustic_length_seconds": 199.340408325
+    },
+    {
+        "recording_mbid": "c834e8b6-6ace-4755-8d10-434027b2ab10",
+        "bpm": 118.938980103,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.24634838104,
+        "average_loudness": 0.895426094532,
+        "dynamic_complexity": 3.38208150864,
+        "onset_rate": 4.2084774971,
+        "acoustic_length_seconds": 191.503677368
     },
     {
         "recording_mbid": "c83fbbc0-1d0e-455e-86f4-8d386a71439d",
@@ -858,6 +4246,17 @@
         "acoustic_length_seconds": 260.310211182
     },
     {
+        "recording_mbid": "c9047841-122d-4f96-96af-8d0f7879fc57",
+        "bpm": 164.340438843,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.25114893913,
+        "average_loudness": 0.652980864048,
+        "dynamic_complexity": 4.24536705017,
+        "onset_rate": 4.0791387558,
+        "acoustic_length_seconds": 169.874282837
+    },
+    {
         "recording_mbid": "c95e9d28-1240-48ab-88b0-1d26b9cc7ea3",
         "bpm": 163.019271851,
         "key": "A#",
@@ -867,6 +4266,61 @@
         "dynamic_complexity": 2.93993663788,
         "onset_rate": 4.78151750565,
         "acoustic_length_seconds": 167.915878296
+    },
+    {
+        "recording_mbid": "cad2fd48-ba74-4718-915e-1cde2276b60f",
+        "bpm": 140.400650024,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.10987579823,
+        "average_loudness": 0.915074765682,
+        "dynamic_complexity": 2.68919444084,
+        "onset_rate": 3.55043315887,
+        "acoustic_length_seconds": 172.355911255
+    },
+    {
+        "recording_mbid": "cada327f-4fd2-4ca7-a6f2-0735ec87f805",
+        "bpm": 123.699241638,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.51559901237,
+        "average_loudness": 0.832875192165,
+        "dynamic_complexity": 5.58853244781,
+        "onset_rate": 5.29994058609,
+        "acoustic_length_seconds": 398.85168457
+    },
+    {
+        "recording_mbid": "cae5647c-e7b5-4af6-94bc-6902ad23209b",
+        "bpm": 105.546073914,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.43103945255,
+        "average_loudness": 0.871281147003,
+        "dynamic_complexity": 3.95185351372,
+        "onset_rate": 4.84520530701,
+        "acoustic_length_seconds": 266.42666626
+    },
+    {
+        "recording_mbid": "cb0e3425-bb27-44be-bfad-5fb5a955bb03",
+        "bpm": 122.234436035,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.23111140728,
+        "average_loudness": 0.863219201565,
+        "dynamic_complexity": 4.00213575363,
+        "onset_rate": 3.00589823723,
+        "acoustic_length_seconds": 339.982208252
+    },
+    {
+        "recording_mbid": "cb5c4b3f-da36-4629-96e3-b9b5acce64e9",
+        "bpm": 113.597694397,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.12919402122,
+        "average_loudness": 0.766574442387,
+        "dynamic_complexity": 4.9619383812,
+        "onset_rate": 3.5946726799,
+        "acoustic_length_seconds": 215.306671143
     },
     {
         "recording_mbid": "cb958c46-7d58-4982-8a5a-d53dac13dee9",
@@ -880,6 +4334,50 @@
         "acoustic_length_seconds": 198.408432007
     },
     {
+        "recording_mbid": "cc5cbbc6-e7e7-4ea8-a401-367b3e6699fc",
+        "bpm": 137.063415527,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.07904160023,
+        "average_loudness": 0.0655508041382,
+        "dynamic_complexity": 6.35335302353,
+        "onset_rate": 3.18499016762,
+        "acoustic_length_seconds": 550.373901367
+    },
+    {
+        "recording_mbid": "cc8219a4-a417-446b-8c5e-153c6cfd8b9d",
+        "bpm": 107.652046204,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.0651884079,
+        "average_loudness": 0.9156203866,
+        "dynamic_complexity": 3.54278731346,
+        "onset_rate": 3.72523093224,
+        "acoustic_length_seconds": 190.040817261
+    },
+    {
+        "recording_mbid": "cee62add-baa1-45b9-ac90-cd24be1fc376",
+        "bpm": 117.4349823,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.38798379898,
+        "average_loudness": 0.835755169392,
+        "dynamic_complexity": 4.99692583084,
+        "onset_rate": 3.71986579895,
+        "acoustic_length_seconds": 234.396728516
+    },
+    {
+        "recording_mbid": "d02ebf0a-cb19-494f-9257-1727202e8f50",
+        "bpm": 178.205383301,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.10386753082,
+        "average_loudness": 0.960396885872,
+        "dynamic_complexity": 2.50236201286,
+        "onset_rate": 3.44429969788,
+        "acoustic_length_seconds": 197.416061401
+    },
+    {
         "recording_mbid": "d0743238-1a5a-4cb2-b0de-ab9b1c110c5b",
         "bpm": 162.097595215,
         "key": "A",
@@ -889,6 +4387,259 @@
         "dynamic_complexity": 2.95343184471,
         "onset_rate": 4.09355545044,
         "acoustic_length_seconds": 172.453338623
+    },
+    {
+        "recording_mbid": "d0d40475-1792-4a3b-a9c8-248aee2f4d7d",
+        "bpm": 139.462921143,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.12699484825,
+        "average_loudness": 0.928696155548,
+        "dynamic_complexity": 3.06988239288,
+        "onset_rate": 3.8643219471,
+        "acoustic_length_seconds": 324.754272461
+    },
+    {
+        "recording_mbid": "d10e5227-6cc7-4266-84be-09a11bd11cb4",
+        "bpm": 118.263168335,
+        "key": "D#",
+        "scale": "minor",
+        "danceability": 1.38706314564,
+        "average_loudness": 0.865043759346,
+        "dynamic_complexity": 4.892390728,
+        "onset_rate": 4.40126132965,
+        "acoustic_length_seconds": 231.960006714
+    },
+    {
+        "recording_mbid": "d111795e-2aa0-417c-ab82-8b05e4334f36",
+        "bpm": 89.9762649536,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.0552444458,
+        "average_loudness": 0.942428588867,
+        "dynamic_complexity": 3.29106616974,
+        "onset_rate": 4.79737186432,
+        "acoustic_length_seconds": 150.059997559
+    },
+    {
+        "recording_mbid": "d14dcb68-a314-44fa-9fdc-1e20b1633d8e",
+        "bpm": 101.273643494,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.55435848236,
+        "average_loudness": 0.919199109077,
+        "dynamic_complexity": 4.31244039536,
+        "onset_rate": 4.32177972794,
+        "acoustic_length_seconds": 350.066680908
+    },
+    {
+        "recording_mbid": "d2515b94-8a0e-4ca8-b9ee-f6f7958fa779",
+        "bpm": 165.673995972,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.05189979076,
+        "average_loudness": 0.655357241631,
+        "dynamic_complexity": 5.82811546326,
+        "onset_rate": 3.22014689445,
+        "acoustic_length_seconds": 245.315917969
+    },
+    {
+        "recording_mbid": "d28cfc80-b16c-47c9-a370-f13f49732e75",
+        "bpm": 126.722999573,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.32395577431,
+        "average_loudness": 0.902874112129,
+        "dynamic_complexity": 2.89540553093,
+        "onset_rate": 5.15493345261,
+        "acoustic_length_seconds": 202.506668091
+    },
+    {
+        "recording_mbid": "d42bfa92-fafd-425f-b323-e1a70ccbb4d6",
+        "bpm": 102.188316345,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.17152690887,
+        "average_loudness": 0.899270176888,
+        "dynamic_complexity": 3.34535455704,
+        "onset_rate": 2.43772101402,
+        "acoustic_length_seconds": 340.871826172
+    },
+    {
+        "recording_mbid": "d4435e61-ea3a-4d72-a2f3-3710aa7d2ffc",
+        "bpm": 139.957809448,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.14473319054,
+        "average_loudness": 0.896732866764,
+        "dynamic_complexity": 4.73838615417,
+        "onset_rate": 3.33578205109,
+        "acoustic_length_seconds": 212.532241821
+    },
+    {
+        "recording_mbid": "d55a477b-f562-4d08-8534-752bf04d2a05",
+        "bpm": 106.379295349,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.62984454632,
+        "average_loudness": 0.94225269556,
+        "dynamic_complexity": 3.97666049004,
+        "onset_rate": 4.15046834946,
+        "acoustic_length_seconds": 212.244903564
+    },
+    {
+        "recording_mbid": "d74e09a5-072c-4e59-b11c-da203c8539d7",
+        "bpm": 121.93611908,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.07630503178,
+        "average_loudness": 0.8627191782,
+        "dynamic_complexity": 3.28999090195,
+        "onset_rate": 3.47238349915,
+        "acoustic_length_seconds": 192.071105957
+    },
+    {
+        "recording_mbid": "d76d09b5-a077-4d51-a65e-700a8a0df03d",
+        "bpm": 117.327735901,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.08287727833,
+        "average_loudness": 0.835759818554,
+        "dynamic_complexity": 5.17667007446,
+        "onset_rate": 4.1039018631,
+        "acoustic_length_seconds": 345.991851807
+    },
+    {
+        "recording_mbid": "d7b25f27-585f-4013-b41e-b40a7c3c6350",
+        "bpm": 128.967376709,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.12434065342,
+        "average_loudness": 0.821776032448,
+        "dynamic_complexity": 3.6464817524,
+        "onset_rate": 3.8819937706,
+        "acoustic_length_seconds": 231.826660156
+    },
+    {
+        "recording_mbid": "d8374304-218d-4630-8fce-48164a48157d",
+        "bpm": 143.877120972,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 0.983735322952,
+        "average_loudness": 0.70228344202,
+        "dynamic_complexity": 5.24414014816,
+        "onset_rate": 4.04738092422,
+        "acoustic_length_seconds": 61.5066680908
+    },
+    {
+        "recording_mbid": "d8672c81-9320-4f5e-9b05-edbbef9b37bb",
+        "bpm": 143.576675415,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.22639846802,
+        "average_loudness": 0.7090498209,
+        "dynamic_complexity": 4.4604973793,
+        "onset_rate": 4.7046084404,
+        "acoustic_length_seconds": 402.782043457
+    },
+    {
+        "recording_mbid": "d86a4d4a-ba15-492b-b567-19fee843ee48",
+        "bpm": 154.183074951,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.05839848518,
+        "average_loudness": 0.977614402771,
+        "dynamic_complexity": 1.64396822453,
+        "onset_rate": 2.71965956688,
+        "acoustic_length_seconds": 259.944488525
+    },
+    {
+        "recording_mbid": "d8c868cb-0f3f-42d4-871b-15ef8cdf1687",
+        "bpm": 107.959609985,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.03252208233,
+        "average_loudness": 0.747286498547,
+        "dynamic_complexity": 4.53728580475,
+        "onset_rate": 3.07473158836,
+        "acoustic_length_seconds": 198.37387085
+    },
+    {
+        "recording_mbid": "d8e75c36-badb-40de-84b7-dc483289075e",
+        "bpm": 90.3314743042,
+        "key": "D",
+        "scale": "major",
+        "danceability": 0.913297772408,
+        "average_loudness": 0.858355462551,
+        "dynamic_complexity": 3.00229096413,
+        "onset_rate": 1.57450926304,
+        "acoustic_length_seconds": 195.604904175
+    },
+    {
+        "recording_mbid": "d9711edb-de10-4c09-b98e-1d7bd790e85b",
+        "bpm": 93.0707702637,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.04807209969,
+        "average_loudness": 0.842158734798,
+        "dynamic_complexity": 2.88022184372,
+        "onset_rate": 3.74161863327,
+        "acoustic_length_seconds": 132.284088135
+    },
+    {
+        "recording_mbid": "d9f66df9-237e-41fb-adbc-6d8ab456455e",
+        "bpm": 120.849380493,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.1169757843,
+        "average_loudness": 0.892003953457,
+        "dynamic_complexity": 4.20818567276,
+        "onset_rate": 3.55264949799,
+        "acoustic_length_seconds": 277.239990234
+    },
+    {
+        "recording_mbid": "dafc4af1-90d4-43b3-be98-712e4194a1ed",
+        "bpm": 108.106529236,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.41286325455,
+        "average_loudness": 0.951807618141,
+        "dynamic_complexity": 3.34585142136,
+        "onset_rate": 4.88882827759,
+        "acoustic_length_seconds": 297.390197754
+    },
+    {
+        "recording_mbid": "db152153-2388-49aa-95dd-f3f6ee31b0a3",
+        "bpm": 114.627380371,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.64390385151,
+        "average_loudness": 0.972685754299,
+        "dynamic_complexity": 2.89923739433,
+        "onset_rate": 4.34974622726,
+        "acoustic_length_seconds": 102.060409546
+    },
+    {
+        "recording_mbid": "db644461-3d63-4b80-9a95-435ccef31243",
+        "bpm": 128.979919434,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.16686534882,
+        "average_loudness": 0.822100818157,
+        "dynamic_complexity": 3.92737746239,
+        "onset_rate": 3.14683556557,
+        "acoustic_length_seconds": 201.142852783
+    },
+    {
+        "recording_mbid": "db7f1471-2b96-44eb-9313-ebca8f06e80e",
+        "bpm": 99.439453125,
+        "key": "D#",
+        "scale": "minor",
+        "danceability": 1.01491224766,
+        "average_loudness": 0.970527350903,
+        "dynamic_complexity": 2.67107009888,
+        "onset_rate": 2.2324962616,
+        "acoustic_length_seconds": 134.815063477
     },
     {
         "recording_mbid": "dbc22816-428e-4194-9b53-d2a5cdc1b983",
@@ -913,6 +4664,28 @@
         "acoustic_length_seconds": 280.868560791
     },
     {
+        "recording_mbid": "de01bb69-328e-4e24-a93e-7bd3b2eb81a1",
+        "bpm": 147.924758911,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.13333392143,
+        "average_loudness": 0.824579000473,
+        "dynamic_complexity": 3.52112174034,
+        "onset_rate": 3.44425606728,
+        "acoustic_length_seconds": 265.064483643
+    },
+    {
+        "recording_mbid": "de2aedca-4d06-4eea-9ee5-b69984578c54",
+        "bpm": 94.8071136475,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 0.998552501202,
+        "average_loudness": 0.907310366631,
+        "dynamic_complexity": 8.43075370789,
+        "onset_rate": 2.20302700996,
+        "acoustic_length_seconds": 288.679168701
+    },
+    {
         "recording_mbid": "de72c984-24f8-4802-ae9f-9c7212f473cc",
         "bpm": 99.5502624512,
         "key": "A#",
@@ -922,6 +4695,193 @@
         "dynamic_complexity": 2.6615447998,
         "onset_rate": 3.18750953674,
         "acoustic_length_seconds": 142.733062744
+    },
+    {
+        "recording_mbid": "dfd3c4cd-19a3-4c51-8948-e5cc7183ebc6",
+        "bpm": 100.911392212,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.53981268406,
+        "average_loudness": 0.943859755993,
+        "dynamic_complexity": 3.57676267624,
+        "onset_rate": 5.6336517334,
+        "acoustic_length_seconds": 248.137145996
+    },
+    {
+        "recording_mbid": "e0935220-5e09-4985-91c9-220e06f79a6a",
+        "bpm": 113.945449829,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 0.973833799362,
+        "average_loudness": 0.922046065331,
+        "dynamic_complexity": 4.72196435928,
+        "onset_rate": 3.12723374367,
+        "acoustic_length_seconds": 197.919998169
+    },
+    {
+        "recording_mbid": "e1630ef6-8421-41d1-ad73-efa8bea63c75",
+        "bpm": 136.941650391,
+        "key": "B",
+        "scale": "major",
+        "danceability": 0.906811356544,
+        "average_loudness": 0.930049300194,
+        "dynamic_complexity": 13.4817848206,
+        "onset_rate": 2.80258607864,
+        "acoustic_length_seconds": 5.33147382736
+    },
+    {
+        "recording_mbid": "e1ce149c-345f-4dc1-8670-57790a5837cd",
+        "bpm": 140.95274353,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.0396900177,
+        "average_loudness": 0.775555312634,
+        "dynamic_complexity": 3.38700842857,
+        "onset_rate": 4.31581878662,
+        "acoustic_length_seconds": 245.133056641
+    },
+    {
+        "recording_mbid": "e217cb7e-782a-4474-b408-e994992f41a2",
+        "bpm": 112.946655273,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.08589947224,
+        "average_loudness": 0.836508333683,
+        "dynamic_complexity": 3.35663986206,
+        "onset_rate": 4.61796426773,
+        "acoustic_length_seconds": 231.253326416
+    },
+    {
+        "recording_mbid": "e2dbdca2-dd69-4ea1-b95d-64ab09495412",
+        "bpm": 139.740463257,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 2.31211829185,
+        "average_loudness": 0.975464701653,
+        "dynamic_complexity": 8.43118190765,
+        "onset_rate": 4.71823072433,
+        "acoustic_length_seconds": 19.9053058624
+    },
+    {
+        "recording_mbid": "e3e447c8-4bfd-4ce6-ba25-67d15ef20ea7",
+        "bpm": 99.9256286621,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.0556242466,
+        "average_loudness": 0.299102514982,
+        "dynamic_complexity": 5.32408046722,
+        "onset_rate": 3.01352381706,
+        "acoustic_length_seconds": 289.018768311
+    },
+    {
+        "recording_mbid": "e3f90c3b-eedc-49c9-8206-a233b70650c8",
+        "bpm": 102.99609375,
+        "key": "F#",
+        "scale": "major",
+        "danceability": 1.21175897121,
+        "average_loudness": 0.816070914268,
+        "dynamic_complexity": 5.31283855438,
+        "onset_rate": 3.89730644226,
+        "acoustic_length_seconds": 170.866943359
+    },
+    {
+        "recording_mbid": "e3fb58ce-dba7-4a89-af21-9594e35d37ad",
+        "bpm": 115.288040161,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.61216425896,
+        "average_loudness": 0.910301923752,
+        "dynamic_complexity": 4.2628235817,
+        "onset_rate": 5.11284017563,
+        "acoustic_length_seconds": 412.473480225
+    },
+    {
+        "recording_mbid": "e5bdbeac-6e52-495c-a51b-6b834aaccfc8",
+        "bpm": 155.296905518,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.22246682644,
+        "average_loudness": 0.883327245712,
+        "dynamic_complexity": 2.99598240852,
+        "onset_rate": 3.50576138496,
+        "acoustic_length_seconds": 146.887390137
+    },
+    {
+        "recording_mbid": "e6090d4d-c092-4177-9d05-fa666fc05b7d",
+        "bpm": 136.899002075,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.06442415714,
+        "average_loudness": 0.852460205555,
+        "dynamic_complexity": 3.47198176384,
+        "onset_rate": 2.30065512657,
+        "acoustic_length_seconds": 215.13331604
+    },
+    {
+        "recording_mbid": "e60d9dbc-70b6-4699-b1af-605db3244a07",
+        "bpm": 122.245819092,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 1.12219369411,
+        "average_loudness": 0.770459353924,
+        "dynamic_complexity": 3.5840754509,
+        "onset_rate": 2.57176852226,
+        "acoustic_length_seconds": 466.586669922
+    },
+    {
+        "recording_mbid": "e62bf602-8a23-42cc-b70f-4f80d7122d04",
+        "bpm": 119.091819763,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.18208289146,
+        "average_loudness": 0.95243370533,
+        "dynamic_complexity": 2.71668720245,
+        "onset_rate": 3.39626669884,
+        "acoustic_length_seconds": 194.899597168
+    },
+    {
+        "recording_mbid": "e692c8e2-0047-4ae5-8e7c-b60b3a1c3ccd",
+        "bpm": 102.431365967,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.18673992157,
+        "average_loudness": 0.649627685547,
+        "dynamic_complexity": 5.4780087471,
+        "onset_rate": 4.80950069427,
+        "acoustic_length_seconds": 467.807983398
+    },
+    {
+        "recording_mbid": "e8980e22-caef-4b82-8180-2bbe24b58399",
+        "bpm": 126.013839722,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.12807917595,
+        "average_loudness": 0.92731565237,
+        "dynamic_complexity": 3.45449900627,
+        "onset_rate": 3.30731320381,
+        "acoustic_length_seconds": 231.288162231
+    },
+    {
+        "recording_mbid": "e8a99262-4ad4-46e5-83b0-40fd1ca9b3f7",
+        "bpm": 103.512268066,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.6031986475,
+        "average_loudness": 0.972777187824,
+        "dynamic_complexity": 3.83170580864,
+        "onset_rate": 4.44136667252,
+        "acoustic_length_seconds": 228.963272095
+    },
+    {
+        "recording_mbid": "e8ae1e3f-b84b-4497-8a3c-de6c5315636d",
+        "bpm": 115.191375732,
+        "key": "D",
+        "scale": "major",
+        "danceability": 0.992389142513,
+        "average_loudness": 0.775595247746,
+        "dynamic_complexity": 4.06694889069,
+        "onset_rate": 2.61782455444,
+        "acoustic_length_seconds": 156.6040802
     },
     {
         "recording_mbid": "e8e0ce60-635a-4820-8a10-cbe333c29694",
@@ -935,6 +4895,39 @@
         "acoustic_length_seconds": 197.302856445
     },
     {
+        "recording_mbid": "e9025ecb-f010-46fa-a1a3-d4f2b2b5cba5",
+        "bpm": 136.866470337,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.14754724503,
+        "average_loudness": 0.185365274549,
+        "dynamic_complexity": 3.8600423336,
+        "onset_rate": 4.20603752136,
+        "acoustic_length_seconds": 456.22857666
+    },
+    {
+        "recording_mbid": "e9ce6f15-7ea2-44b6-9986-a3867e657c7f",
+        "bpm": 125.011360168,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.63263368607,
+        "average_loudness": 0.969938218594,
+        "dynamic_complexity": 2.59374094009,
+        "onset_rate": 4.25246620178,
+        "acoustic_length_seconds": 502.987762451
+    },
+    {
+        "recording_mbid": "ea423041-38d7-426f-b751-4237b639fbc7",
+        "bpm": 96.6455383301,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.37421095371,
+        "average_loudness": 0.931182563305,
+        "dynamic_complexity": 2.83556222916,
+        "onset_rate": 2.94385242462,
+        "acoustic_length_seconds": 208.893325806
+    },
+    {
         "recording_mbid": "ea8367fd-e294-4d89-88f9-3bfb0153a387",
         "bpm": 94.0321884155,
         "key": "A#",
@@ -944,6 +4937,160 @@
         "dynamic_complexity": 4.14819860458,
         "onset_rate": 3.61124372482,
         "acoustic_length_seconds": 236.462219238
+    },
+    {
+        "recording_mbid": "ebb2bc07-e39b-4335-a2a4-612127f04595",
+        "bpm": 129.012573242,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.41102099419,
+        "average_loudness": 0.94938492775,
+        "dynamic_complexity": 3.81110596657,
+        "onset_rate": 4.16658401489,
+        "acoustic_length_seconds": 384.466674805
+    },
+    {
+        "recording_mbid": "ec11bde5-2590-4179-9b0d-4672539709f8",
+        "bpm": 134.000045776,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.28973138332,
+        "average_loudness": 0.815593421459,
+        "dynamic_complexity": 6.00146484375,
+        "onset_rate": 3.98054623604,
+        "acoustic_length_seconds": 186.893325806
+    },
+    {
+        "recording_mbid": "ec158537-8def-4dec-924f-94d976a0fad8",
+        "bpm": 102.509994507,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.37510836124,
+        "average_loudness": 0.937193632126,
+        "dynamic_complexity": 1.72497439384,
+        "onset_rate": 3.42732930183,
+        "acoustic_length_seconds": 171.258773804
+    },
+    {
+        "recording_mbid": "ec2fb590-9109-4c76-893e-92795cd4e5ad",
+        "bpm": 152.355743408,
+        "key": "F#",
+        "scale": "minor",
+        "danceability": 1.16906189919,
+        "average_loudness": 0.91875576973,
+        "dynamic_complexity": 4.42748498917,
+        "onset_rate": 3.49706721306,
+        "acoustic_length_seconds": 221.026672363
+    },
+    {
+        "recording_mbid": "ec53d771-3ecb-44bd-92ae-0a07806bdf9a",
+        "bpm": 124.935272217,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.0383143425,
+        "average_loudness": 0.896954655647,
+        "dynamic_complexity": 2.64847922325,
+        "onset_rate": 5.12608289719,
+        "acoustic_length_seconds": 232.515914917
+    },
+    {
+        "recording_mbid": "ec986c07-24f1-49a8-98ab-1d6a32cda65e",
+        "bpm": 96.7456054688,
+        "key": "G",
+        "scale": "minor",
+        "danceability": 1.25255846977,
+        "average_loudness": 0.91658860445,
+        "dynamic_complexity": 5.15053462982,
+        "onset_rate": 2.81293201447,
+        "acoustic_length_seconds": 311.755218506
+    },
+    {
+        "recording_mbid": "eca3332b-de5e-46a6-98a3-d5955f6b5be7",
+        "bpm": 142.959655762,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.10234546661,
+        "average_loudness": 0.510489344597,
+        "dynamic_complexity": 5.74708557129,
+        "onset_rate": 3.4960873127,
+        "acoustic_length_seconds": 282.017944336
+    },
+    {
+        "recording_mbid": "ed07ffc6-bb91-48d4-8cce-b6a3169b6905",
+        "bpm": 137.481903076,
+        "key": "C",
+        "scale": "major",
+        "danceability": 1.43967795372,
+        "average_loudness": 0.882619142532,
+        "dynamic_complexity": 6.1258187294,
+        "onset_rate": 3.0909280777,
+        "acoustic_length_seconds": 191.190200806
+    },
+    {
+        "recording_mbid": "ed306adc-489e-4bc2-874f-98c79bdb5b26",
+        "bpm": 139.684173584,
+        "key": "D",
+        "scale": "minor",
+        "danceability": 1.38113307953,
+        "average_loudness": 0.897003829479,
+        "dynamic_complexity": 4.12075853348,
+        "onset_rate": 3.98677563667,
+        "acoustic_length_seconds": 270.873321533
+    },
+    {
+        "recording_mbid": "ed9a1226-809d-45d6-bf0d-b12a99c05698",
+        "bpm": 119.959144592,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.47675287724,
+        "average_loudness": 0.954810678959,
+        "dynamic_complexity": 3.52692270279,
+        "onset_rate": 5.75653076172,
+        "acoustic_length_seconds": 209.136322021
+    },
+    {
+        "recording_mbid": "ef7de878-2ad0-4b12-9ef6-1c356c092e8c",
+        "bpm": 120.064598083,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.29083836079,
+        "average_loudness": 0.823845386505,
+        "dynamic_complexity": 4.26662302017,
+        "onset_rate": 3.88187742233,
+        "acoustic_length_seconds": 205.035095215
+    },
+    {
+        "recording_mbid": "efcf18c6-8e6d-4d08-8be5-9256cd8fc10b",
+        "bpm": 130.817840576,
+        "key": "C",
+        "scale": "minor",
+        "danceability": 1.67857193947,
+        "average_loudness": 0.967739880085,
+        "dynamic_complexity": 2.83685445786,
+        "onset_rate": 4.87781238556,
+        "acoustic_length_seconds": 374.125701904
+    },
+    {
+        "recording_mbid": "f078699c-9b68-4040-9ba4-b1e4f7d86598",
+        "bpm": 151.944763184,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.13270866871,
+        "average_loudness": 0.874846041203,
+        "dynamic_complexity": 4.0779967308,
+        "onset_rate": 3.19715976715,
+        "acoustic_length_seconds": 362.173339844
+    },
+    {
+        "recording_mbid": "f094b32c-d8ec-46a0-a1b6-b4f3a9fc8d83",
+        "bpm": 103.103111267,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 1.22616875172,
+        "average_loudness": 0.778392612934,
+        "dynamic_complexity": 5.35874843597,
+        "onset_rate": 4.29166507721,
+        "acoustic_length_seconds": 243.716659546
     },
     {
         "recording_mbid": "f2730046-42ce-4807-ba0d-dc44edc767f8",
@@ -957,6 +5104,17 @@
         "acoustic_length_seconds": 258.453338623
     },
     {
+        "recording_mbid": "f2ac754b-2c12-4e2d-93b5-1f739a2d5e49",
+        "bpm": 102.060630798,
+        "key": "G#",
+        "scale": "minor",
+        "danceability": 1.07768845558,
+        "average_loudness": 0.261805683374,
+        "dynamic_complexity": 8.56486988068,
+        "onset_rate": 3.12261772156,
+        "acoustic_length_seconds": 272.186676025
+    },
+    {
         "recording_mbid": "f2c1ef66-a862-4570-87c5-c9110beb51bb",
         "bpm": 107.661346436,
         "key": "A#",
@@ -968,6 +5126,17 @@
         "acoustic_length_seconds": 191.660415649
     },
     {
+        "recording_mbid": "f3bd2d49-585c-40af-978b-0a4a5c8d8e49",
+        "bpm": 103.905281067,
+        "key": "B",
+        "scale": "major",
+        "danceability": 1.27441644669,
+        "average_loudness": 0.932691156864,
+        "dynamic_complexity": 4.28910923004,
+        "onset_rate": 3.70218610764,
+        "acoustic_length_seconds": 127.199996948
+    },
+    {
         "recording_mbid": "f3d59336-f486-4a49-86b9-9ce3d27fa984",
         "bpm": 117.870521545,
         "key": "F",
@@ -977,6 +5146,17 @@
         "dynamic_complexity": 4.1488161087,
         "onset_rate": 3.14064121246,
         "acoustic_length_seconds": 272.535522461
+    },
+    {
+        "recording_mbid": "f47b2087-4b7a-426c-86f1-3bbe6d2db756",
+        "bpm": 140.437576294,
+        "key": "C#",
+        "scale": "major",
+        "danceability": 1.13881206512,
+        "average_loudness": 0.666141569614,
+        "dynamic_complexity": 4.68974590302,
+        "onset_rate": 4.22777557373,
+        "acoustic_length_seconds": 261.828216553
     },
     {
         "recording_mbid": "f5278460-2b74-4494-9435-4b8a951307f8",
@@ -1001,6 +5181,39 @@
         "acoustic_length_seconds": 174.106124878
     },
     {
+        "recording_mbid": "f74e0b58-f641-4fbd-b523-c63b5b80a24d",
+        "bpm": 106.899215698,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 0.879167556763,
+        "average_loudness": 0.0690586864948,
+        "dynamic_complexity": 6.78265523911,
+        "onset_rate": 1.02873063087,
+        "acoustic_length_seconds": 96.2159881592
+    },
+    {
+        "recording_mbid": "f7ba3221-d8b9-4c81-917a-65e688402838",
+        "bpm": 120.03326416,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.0830347538,
+        "average_loudness": 0.755851089954,
+        "dynamic_complexity": 5.31096029282,
+        "onset_rate": 3.42751574516,
+        "acoustic_length_seconds": 182.039993286
+    },
+    {
+        "recording_mbid": "f83d1c45-322a-4337-a57a-1a23a93e4eea",
+        "bpm": 155.488693237,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.10614013672,
+        "average_loudness": 0.90295112133,
+        "dynamic_complexity": 3.81079316139,
+        "onset_rate": 4.00772571564,
+        "acoustic_length_seconds": 225.303222656
+    },
+    {
         "recording_mbid": "f864c9cb-178b-4ddf-b99e-29809b82e83a",
         "bpm": 102.051948547,
         "key": "B",
@@ -1010,6 +5223,83 @@
         "dynamic_complexity": 8.60376167297,
         "onset_rate": 3.12996482849,
         "acoustic_length_seconds": 272.186676025
+    },
+    {
+        "recording_mbid": "f8939739-b225-4494-8695-669793f14f84",
+        "bpm": 128.03024292,
+        "key": "G",
+        "scale": "major",
+        "danceability": 1.18571770191,
+        "average_loudness": 0.924305617809,
+        "dynamic_complexity": 3.36369752884,
+        "onset_rate": 3.85130858421,
+        "acoustic_length_seconds": 205.113464355
+    },
+    {
+        "recording_mbid": "f8db6951-dda4-4d85-ae02-54f262838bc7",
+        "bpm": 162.959991455,
+        "key": "A",
+        "scale": "major",
+        "danceability": 1.0025562048,
+        "average_loudness": 0.864797830582,
+        "dynamic_complexity": 3.52331709862,
+        "onset_rate": 3.72795367241,
+        "acoustic_length_seconds": 228.257965088
+    },
+    {
+        "recording_mbid": "f9844672-b17f-41c1-922e-fba5bddbdcfe",
+        "bpm": 116.012176514,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.33643174171,
+        "average_loudness": 0.820395350456,
+        "dynamic_complexity": 4.52503156662,
+        "onset_rate": 4.10530233383,
+        "acoustic_length_seconds": 280.111022949
+    },
+    {
+        "recording_mbid": "f9948905-6ea0-4d33-8506-40c99ed1c4bd",
+        "bpm": 128.238510132,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.19921267033,
+        "average_loudness": 0.918149292469,
+        "dynamic_complexity": 3.62964963913,
+        "onset_rate": 4.32256126404,
+        "acoustic_length_seconds": 229.250610352
+    },
+    {
+        "recording_mbid": "fa0d049e-f4a6-4a43-8ef0-ff16eeffd286",
+        "bpm": 143.76524353,
+        "key": "A",
+        "scale": "major",
+        "danceability": 0.891870737076,
+        "average_loudness": 0.307014733553,
+        "dynamic_complexity": 4.60179758072,
+        "onset_rate": 3.90318989754,
+        "acoustic_length_seconds": 826.226928711
+    },
+    {
+        "recording_mbid": "fa96b52a-391c-4372-b645-22d0ed3d22fe",
+        "bpm": 117.548698425,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.18793845177,
+        "average_loudness": 0.284509986639,
+        "dynamic_complexity": 8.53785133362,
+        "onset_rate": 3.27104783058,
+        "acoustic_length_seconds": 209.095687866
+    },
+    {
+        "recording_mbid": "fac74f66-d0d6-4ab3-ab1f-4b24e89f758d",
+        "bpm": 125.953659058,
+        "key": "A",
+        "scale": "minor",
+        "danceability": 1.4458899498,
+        "average_loudness": 0.822393417358,
+        "dynamic_complexity": 4.32710886002,
+        "onset_rate": 4.74704408646,
+        "acoustic_length_seconds": 399.386108398
     },
     {
         "recording_mbid": "fb1fbf04-7f1b-4bcf-9ea6-430b66b1bd50",
@@ -1023,6 +5313,39 @@
         "acoustic_length_seconds": 211.330612183
     },
     {
+        "recording_mbid": "fc1e6d28-8b8f-4dc2-88df-a1daf2240cb9",
+        "bpm": 121.779014587,
+        "key": "E",
+        "scale": "major",
+        "danceability": 1.38911235332,
+        "average_loudness": 0.951352596283,
+        "dynamic_complexity": 2.51255965233,
+        "onset_rate": 3.76221442223,
+        "acoustic_length_seconds": 200.926620483
+    },
+    {
+        "recording_mbid": "fc79aa2c-f301-44b5-ab15-4c85a04cc36c",
+        "bpm": 162.190948486,
+        "key": "G#",
+        "scale": "major",
+        "danceability": 1.05986320972,
+        "average_loudness": 0.895293295383,
+        "dynamic_complexity": 3.09396719933,
+        "onset_rate": 3.77690052986,
+        "acoustic_length_seconds": 184.790206909
+    },
+    {
+        "recording_mbid": "fc8100f3-0cb3-485c-a853-97f688b84c57",
+        "bpm": 122.009620667,
+        "key": "A#",
+        "scale": "minor",
+        "danceability": 2.18257474899,
+        "average_loudness": 0.983934938908,
+        "dynamic_complexity": 3.04059147835,
+        "onset_rate": 5.58129644394,
+        "acoustic_length_seconds": 487.688720703
+    },
+    {
         "recording_mbid": "fd414c54-c03a-47b7-b5a9-5b03127f2b94",
         "bpm": 139.861694336,
         "key": "F",
@@ -1034,6 +5357,50 @@
         "acoustic_length_seconds": 269.087341309
     },
     {
+        "recording_mbid": "fd91dde6-5856-44a7-80c7-7a910576c0d4",
+        "bpm": 133.009750366,
+        "key": "F",
+        "scale": "major",
+        "danceability": 1.39908754826,
+        "average_loudness": 0.96447044611,
+        "dynamic_complexity": 1.69353222847,
+        "onset_rate": 2.91558718681,
+        "acoustic_length_seconds": 304.9012146
+    },
+    {
+        "recording_mbid": "fe088a73-56fe-42f6-a41d-dec1c19f803e",
+        "bpm": 90.3063812256,
+        "key": "D#",
+        "scale": "major",
+        "danceability": 1.14747905731,
+        "average_loudness": 0.876673042774,
+        "dynamic_complexity": 7.36788702011,
+        "onset_rate": 2.78686833382,
+        "acoustic_length_seconds": 188.368972778
+    },
+    {
+        "recording_mbid": "fe271cf8-43ae-4a7a-8bd5-63cdf9197ace",
+        "bpm": 161.499008179,
+        "key": "E",
+        "scale": "minor",
+        "danceability": 0.772122561932,
+        "average_loudness": 0.256490647793,
+        "dynamic_complexity": 15.301867485,
+        "onset_rate": 1.28909826279,
+        "acoustic_length_seconds": 37.9970741272
+    },
+    {
+        "recording_mbid": "fe3e6e86-c24b-4380-8745-28f7009c189f",
+        "bpm": 98.9907531738,
+        "key": "D",
+        "scale": "major",
+        "danceability": 1.2625181675,
+        "average_loudness": 0.951408088207,
+        "dynamic_complexity": 3.16803765297,
+        "onset_rate": 3.53459978104,
+        "acoustic_length_seconds": 271.02041626
+    },
+    {
         "recording_mbid": "ff2879ca-3a22-49b8-93a4-dedeaf132266",
         "bpm": 133.625457764,
         "key": "C#",
@@ -1043,5 +5410,16 @@
         "dynamic_complexity": 4.26654434204,
         "onset_rate": 4.27241563797,
         "acoustic_length_seconds": 175.296463013
+    },
+    {
+        "recording_mbid": "ff5a8f56-0b66-40ba-b189-10c3032a3d18",
+        "bpm": 136.232284546,
+        "key": "A#",
+        "scale": "major",
+        "danceability": 1.52089929581,
+        "average_loudness": 0.910477638245,
+        "dynamic_complexity": 3.86667752266,
+        "onset_rate": 3.93149495125,
+        "acoustic_length_seconds": 272.143676758
     }
 ]

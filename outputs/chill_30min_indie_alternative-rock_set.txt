@@ -1,0 +1,57 @@
+================================================================
+SETFLOW — CHILL SET
+================================================================
+Requested duration: 30 minutes
+Music pools: Indie Alternative, Rock
+Candidate tracks considered: 39
+
+01. Arctic Monkeys - Do I Wanna Know?
+    85.0 BPM | F major | danceability 1.160
+        ↓
+    Suggested transition: +0.5 BPM | relative major/minor | transition score 2.30
+
+02. Arctic Monkeys - Come Together
+    85.4 BPM | D minor | danceability 0.989
+        ↓
+    Suggested transition: -0.1 BPM | same scale, different key | transition score 8.12
+
+03. Metallica - Astronomy
+    85.3 BPM | A# minor | danceability 0.978
+        ↓
+    Suggested transition: +5.6 BPM | relative major/minor | transition score 6.75
+
+04. Foo Fighters - Sweet Home Alabama
+    90.9 BPM | C# major | danceability 0.945
+        ↓
+    Suggested transition: -0.0 BPM | different key and scale | transition score 4.40
+
+05. Fleetwood Mac - Worried Dream
+    90.9 BPM | C minor | danceability 1.021
+        ↓
+    Suggested transition: +2.2 BPM | same tonic, different scale | transition score 4.29
+
+06. Arctic Monkeys - Curtains Closed
+    93.1 BPM | C major | danceability 1.048
+        ↓
+    Suggested transition: +1.0 BPM | same scale, different key | transition score 5.60
+
+07. Arctic Monkeys - Stickin’ to the Floor
+    94.1 BPM | D major | danceability 0.930
+        ↓
+    Suggested transition: +0.7 BPM | same scale, different key | transition score 9.07
+
+08. Metallica - The More I See
+    94.8 BPM | A# major | danceability 0.999
+        ↓
+    Suggested transition: +0.7 BPM | same scale, different key | transition score 3.08
+
+09. Foo Fighters - I Feel Free
+    95.5 BPM | A major | danceability 1.071
+
+================================================================
+Tracks selected: 9
+Approximate duration: 31.9 minutes
+
+Note: SetFlow uses transparent, rule-based acoustic heuristics.
+Transition suggestions are not claims of objectively optimal mixes.
+================================================================

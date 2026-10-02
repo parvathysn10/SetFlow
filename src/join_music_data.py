@@ -97,6 +97,19 @@ for recording in musicbrainz_records:
             "artist"
         ),
 
+        # Development catalogue information.
+        # These are prototype music pools rather
+        # than authoritative track-level genres.
+        "seed_artists": recording.get(
+            "seed_artists",
+            []
+        ),
+
+        "music_pools": recording.get(
+            "music_pools",
+            []
+        ),
+
         "length_seconds": recording.get(
             "length_seconds"
         ),
@@ -207,6 +220,27 @@ for record in joined_records:
 
 
 # -----------------------------
+# Music pool validation
+# -----------------------------
+
+missing_music_pools = sum(
+    1
+    for record in joined_records
+    if not record["music_pools"]
+)
+
+pool_counts = {}
+
+for record in joined_records:
+
+    for pool in record["music_pools"]:
+
+        pool_counts[pool] = (
+            pool_counts.get(pool, 0) + 1
+        )
+
+
+# -----------------------------
 # Save joined dataset
 # -----------------------------
 
@@ -286,6 +320,26 @@ print(
     "Length disagreements over 5 seconds:",
     length_mismatches
 )
+
+print(
+    "Tracks missing music pool:",
+    missing_music_pools
+)
+
+
+print(
+    "\n--- Usable tracks by prototype music pool ---"
+)
+
+for pool, count in sorted(
+    pool_counts.items(),
+    key=lambda item: item[1],
+    reverse=True
+):
+    print(
+        f"{pool}: {count}"
+    )
+
 
 print(
     "\nJoined SetFlow dataset saved to:",

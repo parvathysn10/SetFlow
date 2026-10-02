@@ -40,7 +40,7 @@ connection = duckdb.connect(
 
 
 # -----------------------------
-# Create the tracks table
+# Create the main tracks table
 # -----------------------------
 
 connection.execute(
@@ -58,6 +58,24 @@ connection.execute(
         dynamic_complexity DOUBLE,
         onset_rate DOUBLE,
         acoustic_length_seconds DOUBLE
+    )
+    """
+)
+
+
+# ---------------------------------------
+# Create track-to-music-pool table
+# ---------------------------------------
+
+connection.execute(
+    """
+    CREATE OR REPLACE TABLE track_music_pools (
+        recording_mbid VARCHAR,
+        music_pool VARCHAR,
+        PRIMARY KEY (
+            recording_mbid,
+            music_pool
+        )
     )
     """
 )
@@ -90,6 +108,22 @@ for track in tracks:
             track["acoustic_length_seconds"]
         ]
     )
+
+    for music_pool in track.get(
+        "music_pools",
+        []
+    ):
+
+        connection.execute(
+            """
+            INSERT INTO track_music_pools
+            VALUES (?, ?)
+            """,
+            [
+                track["recording_mbid"],
+                music_pool
+            ]
+        )
 
 
 # -----------------------------
@@ -142,6 +176,41 @@ artist_count = connection.execute(
 ).fetchone()[0]
 
 
+pool_relationship_count = connection.execute(
+    """
+    SELECT COUNT(*)
+    FROM track_music_pools
+    """
+).fetchone()[0]
+
+
+tracks_without_pool = connection.execute(
+    """
+    SELECT COUNT(*)
+    FROM tracks AS t
+    LEFT JOIN track_music_pools AS p
+        ON t.recording_mbid = p.recording_mbid
+    WHERE p.recording_mbid IS NULL
+    """
+).fetchone()[0]
+
+
+# ---------------------------------------
+# Music pool coverage using SQL
+# ---------------------------------------
+
+pool_counts = connection.execute(
+    """
+    SELECT
+        music_pool,
+        COUNT(*) AS track_count
+    FROM track_music_pools
+    GROUP BY music_pool
+    ORDER BY track_count DESC
+    """
+).fetchall()
+
+
 # -----------------------------
 # Show example SQL result
 # -----------------------------
@@ -191,6 +260,27 @@ print(
     "Missing key:",
     missing_key
 )
+
+print(
+    "Track-pool relationships:",
+    pool_relationship_count
+)
+
+print(
+    "Tracks without a music pool:",
+    tracks_without_pool
+)
+
+
+print(
+    "\n--- Music pool coverage in DuckDB ---"
+)
+
+for pool, count in pool_counts:
+
+    print(
+        f"{pool}: {count}"
+    )
 
 
 print(

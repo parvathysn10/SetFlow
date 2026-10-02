@@ -36,6 +36,26 @@ PROFILES = {
 
 
 # --------------------------------------------------
+# AVAILABLE MUSIC POOLS
+# --------------------------------------------------
+
+AVAILABLE_POOLS = [
+    "pop",
+    "rnb",
+    "hip_hop_rap",
+    "dance_electronic",
+    "indie_alternative",
+    "rock",
+    "country",
+    "latin",
+    "funk_disco",
+    "reggae",
+    "metal",
+    "jazz"
+]
+
+
+# --------------------------------------------------
 # COMMAND-LINE INPUT
 # --------------------------------------------------
 
@@ -46,15 +66,65 @@ else:
 
 
 if len(sys.argv) >= 3:
-    requested_minutes = int(sys.argv[2])
+    try:
+        requested_minutes = int(sys.argv[2])
+    except ValueError:
+        print("Duration must be a whole number of minutes.")
+        sys.exit(1)
 else:
     requested_minutes = 30
 
 
+if requested_minutes <= 0:
+    print("Duration must be greater than zero.")
+    sys.exit(1)
+
+
 if occasion not in PROFILES:
     print("Unknown occasion:", occasion)
-    print("Choose from:", ", ".join(PROFILES.keys()))
+    print(
+        "Choose from:",
+        ", ".join(PROFILES.keys())
+    )
     sys.exit(1)
+
+
+# Any arguments after occasion and duration are
+# interpreted as requested music pools.
+if len(sys.argv) >= 4:
+    requested_pools = [
+        pool.lower()
+        for pool in sys.argv[3:]
+    ]
+else:
+    requested_pools = ["all"]
+
+
+if "all" in requested_pools:
+    requested_pools = ["all"]
+else:
+    invalid_pools = [
+        pool
+        for pool in requested_pools
+        if pool not in AVAILABLE_POOLS
+    ]
+
+    if invalid_pools:
+        print(
+            "Unknown music pool(s):",
+            ", ".join(invalid_pools)
+        )
+
+        print(
+            "\nChoose from:"
+        )
+
+        for pool in AVAILABLE_POOLS:
+            print(" -", pool)
+
+        print(" - all")
+
+        sys.exit(1)
 
 
 profile = PROFILES[occasion]
@@ -64,58 +134,119 @@ profile = PROFILES[occasion]
 # DATABASE
 # --------------------------------------------------
 
-connection = duckdb.connect(str(DATABASE_FILE))
+connection = duckdb.connect(
+    str(DATABASE_FILE)
+)
 
 
 # --------------------------------------------------
 # GET CANDIDATES USING SQL
 # --------------------------------------------------
 
-candidates = connection.execute(
-    """
-    SELECT
-        recording_mbid,
-        title,
-        artist,
-        length_seconds,
-        bpm,
-        musical_key,
-        scale,
-        danceability,
-        average_loudness,
-        dynamic_complexity,
-        onset_rate,
+base_query = """
+    SELECT DISTINCT
+        t.recording_mbid,
+        t.title,
+        t.artist,
+        t.length_seconds,
+        t.bpm,
+        t.musical_key,
+        t.scale,
+        t.danceability,
+        t.average_loudness,
+        t.dynamic_complexity,
+        t.onset_rate,
 
         (
-            ABS(bpm - ?)
+            ABS(t.bpm - ?)
             +
-            ABS(danceability - ?) * 20
+            ABS(t.danceability - ?) * 20
         ) AS occasion_distance
 
-    FROM tracks
+    FROM tracks AS t
+"""
 
+
+parameters = [
+    profile["target_bpm"],
+    profile["target_danceability"]
+]
+
+
+# Only join/filter by music pool when the user
+# has requested particular pools.
+if requested_pools != ["all"]:
+
+    placeholders = ", ".join(
+        ["?"] * len(requested_pools)
+    )
+
+    base_query += """
+        INNER JOIN track_music_pools AS p
+            ON t.recording_mbid = p.recording_mbid
+    """
+
+    pool_filter = (
+        f"AND p.music_pool IN ({placeholders})"
+    )
+
+else:
+    pool_filter = ""
+
+
+base_query += f"""
     WHERE
-        bpm BETWEEN ? AND ?
-        AND length_seconds IS NOT NULL
-        AND bpm IS NOT NULL
-        AND musical_key IS NOT NULL
-        AND scale IS NOT NULL
-        AND danceability IS NOT NULL
+        t.bpm BETWEEN ? AND ?
+        AND t.length_seconds IS NOT NULL
+        AND t.bpm IS NOT NULL
+        AND t.musical_key IS NOT NULL
+        AND t.scale IS NOT NULL
+        AND t.danceability IS NOT NULL
+
+        {pool_filter}
 
     ORDER BY occasion_distance ASC
-    """,
+"""
 
-    [
-        profile["target_bpm"],
-        profile["target_danceability"],
 
-        profile["target_bpm"]
-        - profile["bpm_range"],
+parameters.extend([
+    profile["target_bpm"]
+    - profile["bpm_range"],
 
-        profile["target_bpm"]
-        + profile["bpm_range"]
-    ]
+    profile["target_bpm"]
+    + profile["bpm_range"]
+])
+
+
+if requested_pools != ["all"]:
+    parameters.extend(
+        requested_pools
+    )
+
+
+candidates = connection.execute(
+    base_query,
+    parameters
 ).fetchall()
+
+
+# --------------------------------------------------
+# CHECK WHETHER FILTERING FOUND ANYTHING
+# --------------------------------------------------
+
+if not candidates:
+
+    print(
+        "\nNo tracks matched that combination."
+    )
+
+    print(
+        "Try another music pool, occasion, "
+        "or use 'all'."
+    )
+
+    connection.close()
+    sys.exit(0)
 
 
 # --------------------------------------------------
@@ -140,9 +271,6 @@ for track in candidates:
 # --------------------------------------------------
 # MUSICAL KEY HELPERS
 # --------------------------------------------------
-
-# Pitch classes let us measure how far apart two
-# musical keys are around the 12-note chromatic scale.
 
 PITCH_CLASSES = {
     "C": 0,
@@ -193,12 +321,7 @@ def harmonic_penalty(
     ):
         return 0
 
-
     # Relative major/minor relationships.
-    #
-    # Major -> relative minor = -3 semitones
-    # Minor -> relative major = +3 semitones.
-
     if (
         scale_a == "major"
         and scale_b == "minor"
@@ -214,7 +337,6 @@ def harmonic_penalty(
             == expected_minor
         ):
             return 0.5
-
 
     if (
         scale_a == "minor"
@@ -232,20 +354,15 @@ def harmonic_penalty(
         ):
             return 0.5
 
-
     distance = circular_key_distance(
         key_a,
         key_b
     )
 
-
     # Same tonic but major/minor changes.
     if key_a == key_b:
         return 1.0
 
-
-    # Nearby pitch classes receive a
-    # smaller penalty than distant ones.
     scale_penalty = (
         0 if scale_a == scale_b else 1
     )
@@ -278,12 +395,8 @@ def transition_score(
         - next_track[7]
     )
 
-    # Lower score = smoother transition.
-    #
-    # BPM has the largest influence,
-    # followed by harmonic compatibility,
-    # then danceability continuity.
-
+    # Lower score = smoother according to
+    # SetFlow's transparent heuristic.
     return (
         bpm_change
         + harmonic_change * 2
@@ -292,34 +405,27 @@ def transition_score(
 
 
 # --------------------------------------------------
-# ORDER TRACKS USING A GREEDY TRANSITION ALGORITHM
+# ORDER TRACKS USING GREEDY TRANSITION ALGORITHM
 # --------------------------------------------------
-#
-# Instead of simply sorting everything by BPM:
-#
-# 1. Start with the lowest-BPM selected track.
-# 2. Compare every remaining track.
-# 3. Choose the track with the lowest transition score.
-# 4. Repeat until every track is ordered.
-#
-# This is intentionally explainable rather than
-# presented as an objectively optimal DJ mix.
 
 if selected_tracks:
 
-    remaining_tracks = selected_tracks.copy()
+    remaining_tracks = (
+        selected_tracks.copy()
+    )
 
     first_track = min(
         remaining_tracks,
         key=lambda track: track[4]
     )
 
-    ordered_tracks = [first_track]
+    ordered_tracks = [
+        first_track
+    ]
 
     remaining_tracks.remove(
         first_track
     )
-
 
     while remaining_tracks:
 
@@ -363,13 +469,11 @@ def explain_harmonic_transition(
     second_key = second_track[5]
     second_scale = second_track[6]
 
-
     if (
         first_key == second_key
         and first_scale == second_scale
     ):
         return "same key and scale"
-
 
     penalty = harmonic_penalty(
         first_key,
@@ -378,18 +482,14 @@ def explain_harmonic_transition(
         second_scale
     )
 
-
     if penalty == 0.5:
         return "relative major/minor"
-
 
     if first_key == second_key:
         return "same tonic, different scale"
 
-
     if first_scale == second_scale:
         return "same scale, different key"
-
 
     return "different key and scale"
 
@@ -417,6 +517,20 @@ output_lines.append(
     f"{requested_minutes} minutes"
 )
 
+
+if requested_pools == ["all"]:
+    pool_display = "All available music pools"
+else:
+    pool_display = ", ".join(
+        pool.replace("_", " ").title()
+        for pool in requested_pools
+    )
+
+
+output_lines.append(
+    f"Music pools: {pool_display}"
+)
+
 output_lines.append(
     f"Candidate tracks considered: "
     f"{len(candidates)}"
@@ -436,7 +550,6 @@ for index, track in enumerate(
     scale = track[6]
     danceability = track[7]
 
-
     output_lines.append(
         f"{index + 1:02}. "
         f"{artist} - {title}"
@@ -448,7 +561,6 @@ for index, track in enumerate(
         f"danceability "
         f"{danceability:.3f}"
     )
-
 
     if index < len(
         ordered_tracks
@@ -477,7 +589,6 @@ for index, track in enumerate(
             next_track
         )
 
-
         output_lines.append(
             "        ↓"
         )
@@ -489,7 +600,6 @@ for index, track in enumerate(
             f"transition score "
             f"{score:.2f}"
         )
-
 
     output_lines.append("")
 
@@ -563,9 +673,24 @@ OUTPUT_FOLDER.mkdir(
 )
 
 
+if requested_pools == ["all"]:
+
+    pool_filename = "all"
+
+else:
+
+    pool_filename = "-".join(
+        requested_pools
+    )
+
+
 OUTPUT_FILE = (
     OUTPUT_FOLDER
-    / f"{occasion}_{requested_minutes}min_set.txt"
+    / (
+        f"{occasion}_"
+        f"{requested_minutes}min_"
+        f"{pool_filename}_set.txt"
+    )
 )
 
 

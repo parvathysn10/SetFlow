@@ -1,0 +1,52 @@
+================================================================
+SETFLOW — PARTY SET
+================================================================
+Requested duration: 30 minutes
+Music pools: Country
+Candidate tracks considered: 32
+
+01. Dolly Parton - Makin’ Believe
+    115.2 BPM | D major | danceability 0.992
+        ↓
+    Suggested transition: +2.9 BPM | same scale, different key | transition score 7.50
+
+02. Dolly Parton - The Aggie Song
+    118.1 BPM | E major | danceability 1.119
+        ↓
+    Suggested transition: +1.0 BPM | same key and scale | transition score 1.35
+
+03. Luke Combs - Lovin’ on You
+    119.1 BPM | E major | danceability 1.182
+        ↓
+    Suggested transition: +3.0 BPM | same scale, different key | transition score 11.18
+
+04. Luke Combs - Every Little Bit Helps
+    122.1 BPM | G# major | danceability 1.214
+        ↓
+    Suggested transition: +7.8 BPM | same scale, different key | transition score 10.04
+
+05. Luke Combs - Angels Workin’ Overtime
+    130.0 BPM | A major | danceability 1.175
+        ↓
+    Suggested transition: -1.9 BPM | same scale, different key | transition score 8.19
+
+06. Luke Combs - When It Rains It Pours
+    128.0 BPM | F# major | danceability 1.124
+        ↓
+    Suggested transition: +0.0 BPM | same scale, different key | transition score 2.35
+
+07. Dolly Parton - Push and Pull
+    128.0 BPM | F major | danceability 1.056
+        ↓
+    Suggested transition: +5.4 BPM | same scale, different key | transition score 14.14
+
+08. Dolly Parton - Family
+    133.5 BPM | C# major | danceability 0.912
+
+================================================================
+Tracks selected: 8
+Approximate duration: 33.4 minutes
+
+Note: SetFlow uses transparent, rule-based acoustic heuristics.
+Transition suggestions are not claims of objectively optimal mixes.
+================================================================
