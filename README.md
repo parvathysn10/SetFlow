@@ -6,6 +6,14 @@ For example, a user could request a 60-minute party set using pop, R&B and hip-h
 
 The output is a suggested set plan rather than an audio mix, and the recommendation rules are designed to be transparent rather than represent an objectively perfect playlist or transition.
 
+## About me
+
+I have a Master's degree in Integrated Engineering, covering mechanical, electrical and electronic engineering. This multidisciplinary background developed my interest in solving technical problems using structured and analytical approaches, as well as programming and working with data.
+
+I am interested in data engineering because it combines technical problem-solving with the challenge of transforming raw data into reliable and useful outputs. I am applying to The Information Lab because I want to develop these skills further through practical projects, continuous learning and exposure to varied real-world data problems.
+
+I built SetFlow to explore this interest through an end-to-end data engineering project, from extracting and cleaning raw API data to data modelling, storage and creating a useful output.
+
 ## What I built and who for
 
 I built SetFlow for an amateur DJ or party host who wants to create a coherent set without manually comparing the musical characteristics of a large number of tracks.
