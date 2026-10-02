@@ -44,7 +44,8 @@ MusicBrainz provides the core recording metadata, including:
 
 The development catalogue uses 23 seed artists across a range of musical styles. The API responses are paginated and the raw JSON is stored unchanged before transformation.
 
-Documentation: https://musicbrainz.org/doc/MusicBrainz_API
+Documentation: https://musicbrainz.org/doc/MusicBrainz_API  
+Data licence: https://musicbrainz.org/doc/About/Data_License
 
 ### AcousticBrainz
 
@@ -60,9 +61,10 @@ AcousticBrainz provides previously extracted acoustic features for MusicBrainz r
 
 The two sources are joined using the MusicBrainz Recording ID.
 
-Documentation: https://acousticbrainz.org/
+Documentation: https://acousticbrainz.org/data  
+Data licence: CC0 – https://acousticbrainz.org/
 
-AcousticBrainz does not contain data for every MusicBrainz recording, so incomplete acoustic coverage is a limitation of the current dataset.
+AcousticBrainz stopped collecting new data in 2022, so the available dataset is historical and does not contain acoustic features for every MusicBrainz recording. This limits coverage, particularly for newer music.
 
 ## How it works
 
@@ -180,6 +182,7 @@ Generated set plans are saved in `outputs/`.
 
 With more time I would:
 
+- explore additional openly licensed audio-feature sources to improve coverage beyond the historical AcousticBrainz dataset, particularly for newer releases
 - expand the catalogue beyond the current seed artists and add more music categories and niche styles
 - improve how individual songs are categorised, rather than basing music pools mainly on the artist
 - improve detection of remixes, edits and other alternative versions
