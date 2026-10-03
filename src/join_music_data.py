@@ -62,6 +62,7 @@ joined_records = []
 
 no_acoustic_match = 0
 alternative_versions_excluded = 0
+acoustic_length_fallbacks = 0
 
 
 for recording in musicbrainz_records:
@@ -84,6 +85,23 @@ for recording in musicbrainz_records:
     if acoustic is None:
         no_acoustic_match += 1
         continue
+
+
+    # Prefer the MusicBrainz duration.
+    # If it is missing, use the AcousticBrainz
+    # duration instead.
+    length_seconds = recording.get(
+        "length_seconds"
+    )
+
+    if length_seconds is None:
+
+        length_seconds = acoustic.get(
+            "acoustic_length_seconds"
+        )
+
+        if length_seconds is not None:
+            acoustic_length_fallbacks += 1
 
 
     joined_record = {
@@ -110,9 +128,7 @@ for recording in musicbrainz_records:
             []
         ),
 
-        "length_seconds": recording.get(
-            "length_seconds"
-        ),
+        "length_seconds": length_seconds,
 
         "bpm": acoustic.get(
             "bpm"
@@ -193,15 +209,26 @@ missing_length = sum(
 
 length_mismatches = 0
 
-for record in joined_records:
+for recording in musicbrainz_records:
 
-    musicbrainz_length = record[
+    mbid = recording.get(
+        "recording_mbid"
+    )
+
+    acoustic = acoustic_lookup.get(
+        mbid
+    )
+
+    if acoustic is None:
+        continue
+
+    musicbrainz_length = recording.get(
         "length_seconds"
-    ]
+    )
 
-    acoustic_length = record[
+    acoustic_length = acoustic.get(
         "acoustic_length_seconds"
-    ]
+    )
 
     if (
         musicbrainz_length is not None
@@ -213,8 +240,8 @@ for record in joined_records:
             - acoustic_length
         )
 
-        # Flag if the two sources disagree
-        # by more than 5 seconds.
+        # Flag if the two independent source
+        # durations disagree by more than 5 seconds.
         if difference > 5:
             length_mismatches += 1
 
@@ -312,12 +339,17 @@ print(
 )
 
 print(
-    "Missing MusicBrainz length:",
+    "Missing final track length:",
     missing_length
 )
 
 print(
-    "Length disagreements over 5 seconds:",
+    "Lengths filled from AcousticBrainz:",
+    acoustic_length_fallbacks
+)
+
+print(
+    "Source length disagreements over 5 seconds:",
     length_mismatches
 )
 

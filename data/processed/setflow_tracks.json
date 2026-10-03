@@ -1224,7 +1224,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 348.34576416,
         "bpm": 128.021820068,
         "key": "G",
         "scale": "major",
@@ -1244,7 +1244,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 228.963272095,
         "bpm": 103.512268066,
         "key": "A",
         "scale": "major",
@@ -1264,7 +1264,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 236.408157349,
         "bpm": 117.968475342,
         "key": "D",
         "scale": "major",
@@ -1304,7 +1304,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 248.137145996,
         "bpm": 100.911392212,
         "key": "A",
         "scale": "minor",
@@ -1464,7 +1464,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 333.74041748,
         "bpm": 128.018234253,
         "key": "E",
         "scale": "minor",
@@ -1484,7 +1484,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 315.115112305,
         "bpm": 128.090332031,
         "key": "A",
         "scale": "major",
@@ -1524,7 +1524,7 @@
         "music_pools": [
             "dance_electronic"
         ],
-        "length_seconds": null,
+        "length_seconds": 260.937133789,
         "bpm": 121.932914734,
         "key": "C",
         "scale": "major",
@@ -1904,7 +1904,7 @@
         "music_pools": [
             "funk_disco"
         ],
-        "length_seconds": null,
+        "length_seconds": 465.753509521,
         "bpm": 116.781211853,
         "key": "A",
         "scale": "minor",
@@ -4121,7 +4121,7 @@
         "music_pools": [
             "rock"
         ],
-        "length_seconds": null,
+        "length_seconds": 158.746124268,
         "bpm": 79.6715927124,
         "key": "E",
         "scale": "major",
@@ -4341,7 +4341,7 @@
         "music_pools": [
             "rock"
         ],
-        "length_seconds": null,
+        "length_seconds": 215.13331604,
         "bpm": 136.899002075,
         "key": "C",
         "scale": "major",
@@ -4361,7 +4361,7 @@
         "music_pools": [
             "rock"
         ],
-        "length_seconds": null,
+        "length_seconds": 123.715919495,
         "bpm": 137.25994873,
         "key": "A",
         "scale": "major",
