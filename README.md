@@ -2,7 +2,7 @@
 
 SetFlow is an end-to-end music data pipeline that creates DJ-style set plans based on a user's music preferences, occasion and requested duration.
 
-For example, a user could request a 60-minute party set using pop, R&B and hip-hop. SetFlow filters its catalogue, selects suitable tracks and orders them using acoustic characteristics such as BPM, musical key and danceability.
+For example, a user could request a 60-minute party set using pop, RnB and hip-hop. SetFlow filters its catalogue, selects suitable tracks and orders them using acoustic characteristics such as BPM, musical key and danceability.
 
 The output is a suggested set plan rather than an audio mix, and the recommendation rules are designed to be transparent rather than represent an objectively perfect playlist or transition.
 
@@ -35,6 +35,8 @@ py src/generate_set.py party 60 pop rnb hip_hop_rap
 ```
 
 SetFlow returns an ordered set with track information and an explanation of the suggested transitions.
+
+A Streamlit interface also allows the user to choose the occasion, target duration and music pools without using command-line arguments. The interface displays the generated set and transition information and includes an option to include or exclude seasonal / Christmas music.
 
 ## The data
 
@@ -89,13 +91,15 @@ Clean acoustic features
       ↓
 Join using MBID
       ↓
+Automated validation
+      ↓
 DuckDB
       ↓
 Music-pool + occasion filtering
       ↓
 Track selection and ordering
       ↓
-SetFlow set plan
+SetFlow set plan / interface
 ```
 
 ### 1. Extract
@@ -123,7 +127,9 @@ The music pools are broad prototype groupings rather than exact genres for every
 
 ### 3. Join and validate
 
-`join_music_data.py` joins the cleaned datasets using MBID and checks for duplicate IDs, missing acoustic features, missing durations, duration differences between sources and missing music-pool assignments.
+`join_music_data.py` joins the cleaned datasets using MBID and checks for issues including missing acoustic features and differences between the two sources.
+
+`validate_data.py` performs automated checks on the final joined data, including checks for missing and duplicate MBIDs, required fields, track durations, BPM values, scale values and music-pool assignments. The current validation script performs 17 checks and stops with a failure status if a check does not pass.
 
 ### 4. Store
 
@@ -142,7 +148,11 @@ Tracks are filtered to the requested music pool(s). Each occasion has a target B
 
 Enough tracks are selected to approximately meet the requested duration. They are then ordered to favour smaller BPM changes, more compatible musical keys and smaller changes in danceability between consecutive songs.
 
-The result is saved as a text set plan in `outputs/`.
+The requested duration is treated as a target rather than an exact cutoff, allowing track suitability to remain the priority.
+
+The interface also applies some additional user-facing rules. By default, obvious seasonal / Christmas tracks are filtered using title keywords unless the user chooses to include them. It also prevents the same apparent artist and song title from appearing twice in one generated set, while retaining the original MusicBrainz records in the underlying data.
+
+The command-line result is saved as a text set plan in `outputs/`, while the Streamlit interface displays the generated set and transition information interactively.
 
 ## How to run it
 
@@ -151,11 +161,12 @@ The result is saved as a text set plan in `outputs/`.
 - Python 3
 - `requests`
 - `duckdb`
+- `streamlit`
 
 Install the dependencies:
 
 ```bash
-py -m pip install requests duckdb
+py -m pip install -r requirements.txt
 ```
 
 No API key is required.
@@ -163,13 +174,12 @@ No API key is required.
 The committed raw responses can be processed from a clean clone using:
 
 ```bash
-py src/transform_catalogue.py
-py src/transform_acousticbrainz.py
-py src/join_music_data.py
-py src/load_duckdb.py
+py src/run_pipeline.py
 ```
 
-Generate a set with:
+This runs the transformation, join, validation and DuckDB loading stages in sequence.
+
+Generate a set from the command line with:
 
 ```bash
 py src/generate_set.py <occasion> <minutes> <music_pool...>
@@ -181,10 +191,16 @@ Examples:
 py src/generate_set.py party 30 pop rnb hip_hop_rap
 py src/generate_set.py chill 30 indie_alternative rock
 py src/generate_set.py party 30 country
-py src/generate_set.py warmup 60 all
+py src/generate_set.py party 30 all
 ```
 
-Generated set plans are saved in `outputs/`.
+Generated command-line set plans are saved in `outputs/`.
+
+To use the interactive interface:
+
+```bash
+py -m streamlit run src/app.py
+```
 
 ## What I would do next
 
@@ -193,11 +209,13 @@ With more time I would:
 - explore additional openly licensed audio-feature sources to improve coverage beyond the historical AcousticBrainz dataset, particularly for newer releases
 - expand the catalogue beyond the current seed artists and add more music categories and niche styles
 - improve how individual songs are categorised, rather than basing music pools mainly on the artist
-- improve detection of remixes, edits and other alternative versions
+- improve detection of remixes, edits, live recordings and other alternative versions, as well as recordings that represent the same underlying song despite having different MusicBrainz IDs
+- improve contextual filtering beyond the current title-based seasonal / Christmas filter, so tracks can be matched more accurately to particular occasions and contexts
+- investigate openly licensed data or audio-analysis methods for identifying song structure, such as intros, outros, choruses and drops, so SetFlow could suggest where within each track to start and end a transition
 - use listening data, where available, to identify which parts of a song listeners engage with or commonly skip, and use this to improve transition suggestions
 - explore listening patterns across different age groups to better tailor sets to different audiences
-- improve track selection so the final set more closely matches the requested duration
-- add more occasions and a simple user interface
+- explore an optional stricter duration mode so the final set can more closely match the requested duration while retaining the current suitability-first approach
+- add more occasions and continue developing the user interface
 
 ## Where AI helped
 
