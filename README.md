@@ -1,5 +1,7 @@
 # SetFlow
 
+**Try SetFlow:** [Open the interactive SetFlow app](https://setflow-music.streamlit.app)
+
 SetFlow is an end-to-end music data pipeline that creates DJ-style set plans based on a user's music preferences, occasion and requested duration.
 
 For example, a user could request a 60-minute party set using pop, RnB and hip-hop. SetFlow filters its catalogue, selects suitable tracks and orders them using acoustic characteristics such as BPM, musical key and danceability.
