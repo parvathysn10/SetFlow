@@ -1,3 +1,4 @@
+
 # SetFlow
 
 **Try SetFlow:** [Open the interactive SetFlow app](https://setflow-music.streamlit.app)
@@ -80,28 +81,21 @@ AcousticBrainz stopped collecting new data in 2022, so the available dataset is 
 
 ## How it works
 
-```text
-MusicBrainz API
-      ↓
-Raw JSON
-      ↓
-Clean MusicBrainz catalogue
-      ↓
-AcousticBrainz enrichment
-      ↓
-Clean acoustic features
-      ↓
-Join using MBID
-      ↓
-Automated validation
-      ↓
-DuckDB
-      ↓
-Music-pool + occasion filtering
-      ↓
-Track selection and ordering
-      ↓
-SetFlow set plan / interface
+```mermaid
+flowchart TD
+    A["MusicBrainz API"] --> B["Raw MusicBrainz JSON"]
+    B --> C["Clean recording catalogue"]
+    C --> D["AcousticBrainz extraction by MBID"]
+    D --> E["Raw AcousticBrainz JSON"]
+    E --> F["Clean acoustic features"]
+    C --> G["Join by recording MBID"]
+    F --> G
+    G --> H["Automated data validation"]
+    H --> I["DuckDB"]
+    I --> J["Music-pool and occasion filtering"]
+    J --> K["Track selection and ordering"]
+    K --> L["CLI set plan"]
+    K --> M["Streamlit interface"]
 ```
 
 ### 1. Extract
@@ -133,6 +127,25 @@ The music pools are broad prototype groupings rather than exact genres for every
 
 `validate_data.py` performs automated checks on the final joined data, including checks for missing and duplicate MBIDs, required fields, track durations, BPM values, scale values and music-pool assignments. The current validation script performs 17 checks and stops with a failure status if a check does not pass.
 
+I also added `data_quality_report.py` to make the results of the cleaning and joining stages more visible. The report summarises source record counts, alternative versions, final join coverage, missing values and the distribution of tracks across music pools.
+
+For the current dataset:
+
+| Data-quality metric | Result |
+|---|---:|
+| Raw MusicBrainz recording occurrences | 2,225 |
+| Clean unique recordings | 1,897 |
+| Alternative versions flagged | 636 |
+| Eligible recordings | 1,261 |
+| Final joined tracks | 423 |
+| Final join coverage | 33.5% |
+| Duplicate MBIDs in final data | 0 |
+| Missing required values in final data | 0 |
+
+The limited join coverage reflects the availability of usable acoustic features and the requirements of the final dataset. The report helps make these limitations visible rather than hiding them.
+
+I also added three automated logic tests covering duplicate-song identification, seasonal-track detection and transition scoring. These complement the 17 data-validation checks by testing specific application behaviours.
+
 ### 4. Store
 
 The data is loaded into DuckDB using:
@@ -141,6 +154,27 @@ The data is loaded into DuckDB using:
 - `track_music_pools` – the relationship between recordings and music pools
 
 The music-pool relationship is stored separately because a recording can be associated with more than one pool.
+
+```mermaid
+erDiagram
+    TRACKS ||--o{ TRACK_MUSIC_POOLS : "has"
+
+    TRACKS {
+        string recording_mbid PK
+        string artist
+        string title
+        float length_seconds
+        float bpm
+        string musical_key
+        string scale
+        float danceability
+    }
+
+    TRACK_MUSIC_POOLS {
+        string recording_mbid PK, FK
+        string music_pool PK
+    }
+```
 
 The database is recreated from the processed data on each run so repeated runs produce a predictable state.
 
@@ -180,6 +214,18 @@ py src/run_pipeline.py
 ```
 
 This runs the transformation, join, validation and DuckDB loading stages in sequence.
+
+To inspect the data-quality report:
+
+```bash
+py src/data_quality_report.py
+```
+
+To run the three automated logic tests:
+
+```bash
+py src/test_setflow.py
+```
 
 Generate a set from the command line with:
 
