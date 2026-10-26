@@ -267,8 +267,10 @@ With more time I would:
 
 ## Where AI helped
 
-I used AI as a development tool to help understand unfamiliar API structures, troubleshoot code and discuss approaches to data cleaning and modelling. I tested suggestions against the data and adapted them rather than using them unchanged. For example:
+### Where AI helped
 
-- I changed the cleaning logic after finding unrelated MusicBrainz search results, adding artist-credit validation.
-- I changed the database design to separate `tracks` and `track_music_pools` rather than storing multiple pools in one field.
-- I improved the alternative-version filter after testing showed that checking only the disambiguation field missed some remixes, while leaving more complex mix/edit filtering as a documented future improvement.
+I used AI as a development tool to help understand the LAQN API structure, troubleshoot Python and DuckDB errors, and explore approaches to data cleaning and modelling. I tested suggestions against the actual data and adapted them as the project developed. For example:
+
+- I added data completeness and freshness checks after finding that some monitoring stations had very few valid readings, making their averages potentially misleading.
+- I improved the database logic to prevent duplicate measurements when rerunning the pipeline and to handle updated historical readings.
+- I added timestamped raw JSON snapshots to preserve earlier API responses when refreshing historical data, rather than overwriting them.
